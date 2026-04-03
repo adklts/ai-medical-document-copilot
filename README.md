@@ -1,1 +1,0 @@
-# ai-medical-document-copilot

@@ -59,9 +59,9 @@ pip install -r requirements.txt
 
 ## Notes
 
-The system is designed to avoid hallucinations.
-If information is missing, it should respond that it is not available in the document.
-Best results depend on the type and quality of the uploaded data.
+- The system is designed to avoid hallucinations.
+- If information is missing, it should respond that it is not available in the document.
+- Best results depend on the type and quality of the uploaded data.
 
 ## Disclaimer
 

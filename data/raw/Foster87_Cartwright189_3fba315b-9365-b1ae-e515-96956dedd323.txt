@@ -1,0 +1,617 @@
+C-CDA R2.1 Patient Record: Foster87 Cartwright189
+384 Cartwright Underpass Apt 44
+Turners Falls
+Massachusetts
+01376
+Foster87
+Cartwright189
+https://github.com/synthetichealth/synthea
+https://github.com/synthetichealth/synthea
+CONNECTICUT RIVER INTERNISTS. LLP
+8 BURNHAM ST
+TURNERS FALLS
+MA
+013761816
+CONNECTICUT RIVER INTERNISTS. LLP
+8 BURNHAM ST
+TURNERS FALLS
+MA
+013761816
+Allergies
+There are no current allergies at the time of this document's creation.
+Medications
+Start
+Stop
+Description
+Code
+1998-05-20T17:27:34Z
+1998-05-20T17:27:34Z
+sodium fluoride 0.0272 MG/MG Oral Gel
+http://www.nlm.nih.gov/research/umls/rxnorm 1535362
+2003-06-04T17:49:45Z
+2003-06-04T17:49:45Z
+sodium fluoride 0.0272 MG/MG Oral Gel
+http://www.nlm.nih.gov/research/umls/rxnorm 1535362
+2008-04-24T15:16:20Z
+2008-04-24T15:16:20Z
+piperacillin 2000 MG / tazobactam 250 MG Injection
+http://www.nlm.nih.gov/research/umls/rxnorm 1659131
+2008-04-24T15:16:20Z
+2008-04-24T15:16:20Z
+150 ML vancomycin 5 MG/ML Injection
+http://www.nlm.nih.gov/research/umls/rxnorm 1807510
+2008-05-01T08:16:20Z
+2008-05-01T08:16:20Z
+4 ML norepinephrine 1 MG/ML Injection
+http://www.nlm.nih.gov/research/umls/rxnorm 242969
+sodium fluoride 0.0272 MG/MG Oral Gel
+sodium fluoride 0.0272 MG/MG Oral Gel
+piperacillin 2000 MG / tazobactam 250 MG Injection
+150 ML vancomycin 5 MG/ML Injection
+4 ML norepinephrine 1 MG/ML Injection
+Diagnostic Results
+Start
+Stop
+Description
+Code
+1999-05-12T16:31:44Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+1999-05-12T17:04:15Z
+Drug Abuse Screening Test-10 [DAST-10]
+http://loinc.org 82666-9
+2000-05-17T16:50:36Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2000-05-17T17:17:38Z
+PHQ-9 quick depression assessment panel [Reported.PHQ]
+http://loinc.org 44249-1
+2000-05-17T17:57:00Z
+Drug Abuse Screening Test-10 [DAST-10]
+http://loinc.org 82666-9
+2003-05-21T15:16:20Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2003-05-21T16:31:05Z
+Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+http://loinc.org 76499-3
+2003-05-21T17:10:46Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2006-05-24T16:12:13Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+2006-05-24T16:44:17Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2006-05-24T17:17:15Z
+Drug Abuse Screening Test-10 [DAST-10]
+http://loinc.org 82666-9
+2008-04-24T15:16:20Z
+Bacteria identified in Blood by Culture
+http://loinc.org 600-7
+{entry.value}
+Problems
+Start
+Stop
+Description
+Code
+1992-01-11T04:16:20Z
+Chronic sinusitis (disorder)
+http://snomed.info/sct 40055000
+1998-05-06T15:16:20Z
+1999-05-12T15:16:20Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+1998-05-06T15:56:39Z
+1998-05-20T17:27:34Z
+Gingivitis (disorder)
+http://snomed.info/sct 66383009
+1999-05-12T15:52:24Z
+Only received primary school education (finding)
+http://snomed.info/sct 224295006
+1999-05-12T15:52:24Z
+Full-time employment (finding)
+http://snomed.info/sct 160903007
+1999-05-12T15:52:24Z
+2003-05-21T16:04:38Z
+Stress (finding)
+http://snomed.info/sct 73595000
+1999-05-12T15:52:24Z
+2000-05-17T16:07:42Z
+Reports of violence in the environment (finding)
+http://snomed.info/sct 424393004
+2000-05-17T15:16:20Z
+2006-05-24T15:16:20Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2003-05-21T16:04:38Z
+2006-05-24T15:49:39Z
+Limited social contact (finding)
+http://snomed.info/sct 423315002
+2003-05-21T16:04:38Z
+Has a criminal record (finding)
+http://snomed.info/sct 266948004
+2003-05-21T16:04:38Z
+2006-05-24T15:49:39Z
+Victim of intimate partner abuse (finding)
+http://snomed.info/sct 706893006
+2003-05-21T17:10:46Z
+2003-06-04T17:49:45Z
+Gingivitis (disorder)
+http://snomed.info/sct 66383009
+2006-06-07T18:20:09Z
+2006-06-07T20:13:28Z
+Gingival disease (disorder)
+http://snomed.info/sct 18718003
+2008-04-24T15:16:20Z
+Sepsis (disorder)
+http://snomed.info/sct 91302008
+Surgeries
+Start
+Stop
+Description
+Code
+1998-05-20T15:16:20Z
+1998-05-20T15:44:36Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+1998-05-20T15:44:36Z
+1998-05-20T16:16:35Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+1998-05-20T16:16:35Z
+1998-05-20T16:36:11Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+1998-05-20T16:36:11Z
+1998-05-20T16:56:15Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+1998-05-20T16:56:15Z
+1998-05-20T17:27:34Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+1998-05-20T17:27:34Z
+1998-05-20T17:52:33Z
+Dental fluoride treatment (procedure)
+http://snomed.info/sct 68071007
+1998-05-20T17:52:33Z
+1998-05-20T18:10:21Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+1999-05-12T15:16:20Z
+1999-05-12T15:31:20Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+1999-05-12T15:16:20Z
+1999-05-12T15:52:24Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+1999-05-12T15:52:24Z
+1999-05-12T16:02:45Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+1999-05-12T16:02:45Z
+1999-05-12T16:31:44Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+1999-05-12T16:31:44Z
+1999-05-12T16:42:40Z
+Assessment of substance use (procedure)
+http://snomed.info/sct 428211000124100
+1999-05-12T16:42:40Z
+1999-05-12T17:04:15Z
+Screening for drug abuse (procedure)
+http://snomed.info/sct 713106006
+2000-05-17T15:16:20Z
+2000-05-17T16:07:42Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2000-05-17T16:07:42Z
+2000-05-17T16:22:39Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2000-05-17T16:22:39Z
+2000-05-17T16:50:36Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2000-05-17T16:50:36Z
+2000-05-17T17:17:38Z
+Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+http://snomed.info/sct 715252007
+2000-05-17T17:17:38Z
+2000-05-17T17:27:56Z
+Assessment of substance use (procedure)
+http://snomed.info/sct 428211000124100
+2000-05-17T17:27:56Z
+2000-05-17T17:57:00Z
+Screening for drug abuse (procedure)
+http://snomed.info/sct 713106006
+2003-05-21T15:16:20Z
+2003-05-21T16:04:38Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2003-05-21T16:04:38Z
+2003-05-21T16:31:05Z
+Screening for domestic abuse (procedure)
+http://snomed.info/sct 866148006
+2003-05-21T16:31:05Z
+2003-05-21T16:42:28Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2003-05-21T16:42:28Z
+2003-05-21T17:10:46Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2003-05-21T17:10:46Z
+2003-05-21T17:23:08Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2003-06-04T15:16:20Z
+2003-06-04T15:42:23Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2003-06-04T15:42:23Z
+2003-06-04T16:17:16Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2003-06-04T16:17:16Z
+2003-06-04T16:55:29Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2003-06-04T16:55:29Z
+2003-06-04T17:15:19Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2003-06-04T17:15:19Z
+2003-06-04T17:45:19Z
+Dental plain X-ray bitewing (procedure)
+http://snomed.info/sct 241046008
+2003-06-04T17:15:19Z
+2003-06-04T17:49:45Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2003-06-04T17:49:45Z
+2003-06-04T18:14:02Z
+Dental fluoride treatment (procedure)
+http://snomed.info/sct 68071007
+2003-06-04T18:14:02Z
+2003-06-04T18:28:36Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2006-05-24T15:16:20Z
+2006-05-24T15:31:20Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2006-05-24T15:16:20Z
+2006-05-24T15:49:39Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2006-05-24T15:49:39Z
+2006-05-24T16:12:13Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+2006-05-24T16:12:13Z
+2006-05-24T16:22:39Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2006-05-24T16:22:39Z
+2006-05-24T16:44:17Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2006-05-24T16:44:17Z
+2006-05-24T16:55:37Z
+Assessment of substance use (procedure)
+http://snomed.info/sct 428211000124100
+2006-05-24T16:55:37Z
+2006-05-24T17:17:15Z
+Screening for drug abuse (procedure)
+http://snomed.info/sct 713106006
+2006-05-24T17:17:15Z
+2006-05-24T17:22:15Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2006-06-07T15:16:20Z
+2006-06-07T15:47:49Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2006-06-07T15:47:49Z
+2006-06-07T16:24:16Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2006-06-07T16:24:16Z
+2006-06-07T16:52:43Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2006-06-07T16:52:43Z
+2006-06-07T17:27:32Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2006-06-07T17:27:32Z
+2006-06-07T18:20:09Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2006-06-07T18:20:09Z
+2006-06-07T18:32:05Z
+Dental surgical procedure (procedure)
+http://snomed.info/sct 81733005
+2006-06-07T18:32:05Z
+2006-06-07T19:28:03Z
+Dental application of desensitizing medicament (procedure)
+http://snomed.info/sct 3802001
+2006-06-07T19:28:03Z
+2006-06-07T20:13:28Z
+Gingivectomy or gingivoplasty, per tooth (procedure)
+http://snomed.info/sct 64544008
+2006-06-07T20:13:28Z
+2006-06-07T20:55:01Z
+Postoperative care for dental procedure (regime/therapy)
+http://snomed.info/sct 456191000124101
+2006-06-07T20:55:01Z
+2006-06-07T21:06:55Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2008-04-24T15:16:20Z
+2008-04-24T15:46:20Z
+Resuscitation using intravenous fluid (procedure)
+http://snomed.info/sct 430701006
+2008-04-24T15:46:20Z
+2008-04-24T16:16:20Z
+Transfer to stepdown unit (procedure)
+http://snomed.info/sct 449214001
+2008-05-01T07:16:20Z
+2008-05-01T07:46:20Z
+Admission to intensive care unit (procedure)
+http://snomed.info/sct 305351004
+2008-05-01T07:46:20Z
+2008-05-01T08:16:20Z
+Resuscitation using intravenous fluid (procedure)
+http://snomed.info/sct 430701006
+Encounters
+Start
+Stop
+Description
+Code
+1992-01-11T04:16:20Z
+1992-01-11T04:31:20Z
+Encounter for symptom (procedure)
+http://snomed.info/sct 185345009
+1998-05-06T15:16:20Z
+1998-05-06T15:31:20Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+1998-05-20T15:16:20Z
+1998-05-20T18:10:21Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+1999-05-12T15:16:20Z
+1999-05-12T15:52:24Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2000-05-17T15:16:20Z
+2000-05-17T16:07:42Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2003-05-21T15:16:20Z
+2003-05-21T16:04:38Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2003-06-04T15:16:20Z
+2003-06-04T18:28:36Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2006-05-24T15:16:20Z
+2006-05-24T15:49:39Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2006-06-07T15:16:20Z
+2006-06-07T21:06:55Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2008-04-24T15:16:20Z
+2008-05-02T15:16:20Z
+Encounter for problem (procedure)
+http://snomed.info/sct 185347001
+Vital Signs
+Start
+Stop
+Description
+Code
+Value
+1999-05-12T15:16:20Z
+Body Height
+http://loinc.org 8302-2
+180 cm
+1999-05-12T15:16:20Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+1 {score}
+1999-05-12T15:16:20Z
+Body Weight
+http://loinc.org 29463-7
+68.4 kg
+1999-05-12T15:16:20Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+21.12 kg/m2
+1999-05-12T15:16:20Z
+Body mass index (BMI) [Percentile] Per age and sex
+http://loinc.org 59576-9
+38.15521617676671 %
+1999-05-12T15:16:20Z
+Heart rate
+http://loinc.org 8867-4
+90 /min
+1999-05-12T15:16:20Z
+Respiratory rate
+http://loinc.org 9279-1
+15 /min
+2000-05-17T15:16:20Z
+Body Height
+http://loinc.org 8302-2
+180.4 cm
+2000-05-17T15:16:20Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+4 {score}
+2000-05-17T15:16:20Z
+Body Weight
+http://loinc.org 29463-7
+67.1 kg
+2000-05-17T15:16:20Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+20.63 kg/m2
+2000-05-17T15:16:20Z
+Body mass index (BMI) [Percentile] Per age and sex
+http://loinc.org 59576-9
+23.35053793972202 %
+2000-05-17T15:16:20Z
+Heart rate
+http://loinc.org 8867-4
+81 /min
+2000-05-17T15:16:20Z
+Respiratory rate
+http://loinc.org 9279-1
+13 /min
+2003-05-21T15:16:20Z
+Body Height
+http://loinc.org 8302-2
+180.6 cm
+2003-05-21T15:16:20Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+4 {score}
+2003-05-21T15:16:20Z
+Body Weight
+http://loinc.org 29463-7
+70.7 kg
+2003-05-21T15:16:20Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+21.69 kg/m2
+2003-05-21T15:16:20Z
+Heart rate
+http://loinc.org 8867-4
+92 /min
+2003-05-21T15:16:20Z
+Respiratory rate
+http://loinc.org 9279-1
+14 /min
+2006-05-24T15:16:20Z
+Body Height
+http://loinc.org 8302-2
+180.6 cm
+2006-05-24T15:16:20Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+3 {score}
+2006-05-24T15:16:20Z
+Body Weight
+http://loinc.org 29463-7
+75.1 kg
+2006-05-24T15:16:20Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+23.02 kg/m2
+2006-05-24T15:16:20Z
+Heart rate
+http://loinc.org 8867-4
+75 /min
+2006-05-24T15:16:20Z
+Respiratory rate
+http://loinc.org 9279-1
+13 /min
+2008-04-24T15:16:20Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+97 %
+2008-04-24T15:46:20Z
+Mean blood pressure
+http://loinc.org 8478-0
+78.69741562330306 mm[Hg]
+Immunizations
+Start
+Stop
+Description
+Code
+1999-05-12T15:16:20Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2000-05-17T15:16:20Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2003-05-21T15:16:20Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2003-05-21T15:16:20Z
+Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+http://hl7.org/fhir/sid/cvx 113
+2003-05-21T15:16:20Z
+Hep B, adult
+http://hl7.org/fhir/sid/cvx 43
+2006-05-24T15:16:20Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+Hep B, adult
+Influenza, split virus, trivalent, PF
+Social History
+There is no current social history except smoking status.
+https://github.com/synthetichealth/synthea
+https://github.com/synthetichealth/synthea
+CONNECTICUT RIVER INTERNISTS. LLP
+8 BURNHAM ST
+TURNERS FALLS
+MA
+013761816
+Functional Status
+Start
+Stop
+Description
+Code
+Value
+1999-05-12T16:31:44Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+1 {score}
+1999-05-12T17:04:15Z
+Total score [DAST-10]
+http://loinc.org 82667-7
+0 {score}
+2000-05-17T16:50:36Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+3 {score}
+2000-05-17T17:17:38Z
+Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]
+http://loinc.org 44261-6
+3 {score}
+2000-05-17T17:57:00Z
+Total score [DAST-10]
+http://loinc.org 82667-7
+2 {score}
+2003-05-21T16:31:05Z
+Total score [HARK]
+http://loinc.org 76504-0
+0 {score}
+2003-05-21T17:10:46Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+1 {score}
+2006-05-24T16:12:13Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+2 {score}
+2006-05-24T16:44:17Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+0 {score}
+2006-05-24T17:17:15Z
+Total score [DAST-10]
+http://loinc.org 82667-7
+2 {score}

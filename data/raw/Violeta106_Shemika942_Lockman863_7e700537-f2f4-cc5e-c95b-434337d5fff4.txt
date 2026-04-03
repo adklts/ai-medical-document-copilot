@@ -1,0 +1,1634 @@
+C-CDA R2.1 Patient Record: Violeta106 Shemika942 Lockman863
+433 Langworth Annex Suite 98
+Framingham
+Massachusetts
+01701
+Violeta106 Shemika942
+Lockman863
+https://github.com/synthetichealth/synthea
+https://github.com/synthetichealth/synthea
+NEW ENGLAND FAMILY HEALTH LLC
+463 WORCESTER RD
+FRAMINGHAM
+MA
+017015354
+NEW ENGLAND FAMILY HEALTH LLC
+463 WORCESTER RD
+FRAMINGHAM
+MA
+017015354
+Allergies
+There are no current allergies at the time of this document's creation.
+Medications
+Start
+Stop
+Description
+Code
+2015-12-04T00:35:04Z
+2016-12-09T00:35:04Z
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+http://www.nlm.nih.gov/research/umls/rxnorm 209387
+2016-05-26T10:35:04Z
+2016-06-22T10:35:04Z
+Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 562251
+2016-12-09T00:35:04Z
+2017-12-15T00:35:04Z
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+http://www.nlm.nih.gov/research/umls/rxnorm 209387
+2017-12-15T00:35:04Z
+2018-12-21T00:35:04Z
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+http://www.nlm.nih.gov/research/umls/rxnorm 209387
+2017-12-29T03:57:37Z
+2017-12-29T03:57:37Z
+sodium fluoride 0.0272 MG/MG Oral Gel
+http://www.nlm.nih.gov/research/umls/rxnorm 1535362
+2018-12-21T00:35:04Z
+2019-12-27T00:35:04Z
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+http://www.nlm.nih.gov/research/umls/rxnorm 209387
+2019-12-27T00:35:04Z
+2021-01-01T00:35:04Z
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+http://www.nlm.nih.gov/research/umls/rxnorm 209387
+2021-01-01T00:35:04Z
+2022-01-07T00:35:04Z
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+http://www.nlm.nih.gov/research/umls/rxnorm 209387
+2021-01-21T00:35:04Z
+2021-02-23T00:35:04Z
+Amoxicillin 250 MG Oral Capsule
+http://www.nlm.nih.gov/research/umls/rxnorm 308182
+2021-01-21T00:35:04Z
+2021-02-11T00:35:04Z
+Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 1049221
+2021-01-21T00:35:04Z
+2021-02-23T00:35:04Z
+Naproxen sodium 220 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 849574
+2022-01-07T00:35:04Z
+2023-01-13T00:35:04Z
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+http://www.nlm.nih.gov/research/umls/rxnorm 209387
+2023-01-13T00:35:04Z
+2024-01-19T00:35:04Z
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+http://www.nlm.nih.gov/research/umls/rxnorm 209387
+2024-01-19T00:35:04Z
+2025-01-24T00:35:04Z
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+http://www.nlm.nih.gov/research/umls/rxnorm 209387
+2025-01-24T00:35:04Z
+2026-01-30T00:35:04Z
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+http://www.nlm.nih.gov/research/umls/rxnorm 209387
+2025-02-07T03:42:41Z
+2025-02-07T03:42:41Z
+sodium fluoride 0.0272 MG/MG Oral Gel
+http://www.nlm.nih.gov/research/umls/rxnorm 1535362
+2026-01-30T00:35:04Z
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+http://www.nlm.nih.gov/research/umls/rxnorm 209387
+2026-02-13T03:15:03Z
+2026-02-13T03:15:03Z
+sodium fluoride 0.0272 MG/MG Oral Gel
+http://www.nlm.nih.gov/research/umls/rxnorm 1535362
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+sodium fluoride 0.0272 MG/MG Oral Gel
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+Amoxicillin 250 MG Oral Capsule
+Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+Naproxen sodium 220 MG Oral Tablet
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+sodium fluoride 0.0272 MG/MG Oral Gel
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+sodium fluoride 0.0272 MG/MG Oral Gel
+Diagnostic Results
+Start
+Stop
+Description
+Code
+2016-12-09T00:35:04Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2016-12-09T00:35:04Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+2016-12-09T01:42:25Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+2017-12-15T00:35:04Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2017-12-15T01:38:49Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+2018-12-21T00:35:04Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2018-12-21T01:47:29Z
+Drug Abuse Screening Test-10 [DAST-10]
+http://loinc.org 82666-9
+2019-12-27T00:35:04Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2019-12-27T00:35:04Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+2019-12-27T01:40:45Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+2019-12-27T02:12:42Z
+Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+http://loinc.org 76499-3
+2021-01-01T00:35:04Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2021-01-01T00:35:04Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2021-01-01T01:51:44Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+2021-01-01T02:26:26Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2021-01-01T02:51:02Z
+PHQ-9 quick depression assessment panel [Reported.PHQ]
+http://loinc.org 44249-1
+2022-01-07T00:35:04Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2022-01-07T02:15:44Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2022-01-07T02:57:04Z
+Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+http://loinc.org 72109-2
+2023-01-13T00:35:04Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2023-01-13T00:35:04Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+2023-01-13T01:44:19Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2023-01-13T02:25:52Z
+Drug Abuse Screening Test-10 [DAST-10]
+http://loinc.org 82666-9
+2024-01-19T00:35:04Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2024-01-19T01:31:19Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+2024-01-19T02:04:19Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2024-01-19T02:46:41Z
+Drug Abuse Screening Test-10 [DAST-10]
+http://loinc.org 82666-9
+2025-01-24T00:35:04Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2025-01-24T01:43:30Z
+Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+http://loinc.org 76499-3
+2025-01-24T02:26:37Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2025-01-24T03:03:01Z
+Drug Abuse Screening Test-10 [DAST-10]
+http://loinc.org 82666-9
+2026-01-30T00:35:04Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2026-01-30T00:35:04Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+2026-01-30T00:35:04Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2026-01-30T01:43:12Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+Problems
+Start
+Stop
+Description
+Code
+1997-10-17T02:02:35Z
+Risk activity involvement (finding)
+http://snomed.info/sct 160968000
+2000-11-03T00:35:04Z
+Prediabetes (finding)
+http://snomed.info/sct 714628002
+2000-11-03T00:35:04Z
+Anemia (disorder)
+http://snomed.info/sct 271737000
+2000-11-03T01:21:44Z
+Received higher education (finding)
+http://snomed.info/sct 224299000
+2008-02-11T00:35:04Z
+Sepsis (disorder)
+http://snomed.info/sct 91302008
+2014-02-02T00:35:04Z
+Chronic pain (finding)
+http://snomed.info/sct 82423001
+2014-02-02T00:35:04Z
+Chronic low back pain (finding)
+http://snomed.info/sct 278860009
+2014-11-28T01:10:30Z
+2021-01-01T01:28:19Z
+Full-time employment (finding)
+http://snomed.info/sct 160903007
+2015-12-04T01:33:10Z
+2019-12-27T01:18:05Z
+Stress (finding)
+http://snomed.info/sct 73595000
+2016-03-07T16:35:04Z
+2016-03-19T12:35:04Z
+Acute viral pharyngitis (disorder)
+http://snomed.info/sct 195662009
+2016-05-26T10:35:04Z
+2016-06-22T10:35:04Z
+Viral sinusitis (disorder)
+http://snomed.info/sct 444814009
+2016-12-09T00:35:04Z
+2016-12-09T00:35:04Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2016-12-23T00:35:04Z
+2017-01-15T00:35:04Z
+Normal pregnancy (finding)
+http://snomed.info/sct 72892002
+2017-04-21T00:35:04Z
+2017-11-17T00:35:04Z
+Normal pregnancy (finding)
+http://snomed.info/sct 72892002
+2017-12-15T00:35:04Z
+2018-12-21T00:35:04Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2017-12-29T03:19:38Z
+2017-12-29T03:57:37Z
+Primary dental caries (disorder)
+http://snomed.info/sct 109570002
+2018-01-12T00:35:04Z
+2018-01-20T03:56:09Z
+Sterilization requested (situation)
+http://snomed.info/sct 183996000
+2018-01-20T03:56:09Z
+History of tubal ligation (situation)
+http://snomed.info/sct 267020005
+2019-12-27T00:35:04Z
+2019-12-27T00:35:04Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2021-01-01T00:35:04Z
+2024-01-19T00:35:04Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2021-01-01T01:28:19Z
+2022-01-07T01:31:57Z
+Part-time employment (finding)
+http://snomed.info/sct 160904001
+2021-01-01T01:28:19Z
+2022-01-07T01:31:57Z
+Stress (finding)
+http://snomed.info/sct 73595000
+2021-01-21T00:35:04Z
+2021-02-23T00:35:04Z
+Burn injury (morphologic abnormality)
+http://snomed.info/sct 48333001
+2021-01-21T00:35:04Z
+2021-02-23T00:35:04Z
+Partial thickness burn (disorder)
+http://snomed.info/sct 403191005
+2022-01-07T01:31:57Z
+Full-time employment (finding)
+http://snomed.info/sct 160903007
+2023-01-13T01:07:22Z
+2025-01-24T01:13:58Z
+Stress (finding)
+http://snomed.info/sct 73595000
+2023-01-13T02:25:52Z
+2023-01-27T03:16:27Z
+Gingivitis (disorder)
+http://snomed.info/sct 66383009
+2024-01-19T00:35:04Z
+Body mass index 30+ - obesity (finding)
+http://snomed.info/sct 162864005
+2024-01-19T02:46:41Z
+2024-02-02T03:25:23Z
+Gingivitis (disorder)
+http://snomed.info/sct 66383009
+2025-01-24T00:35:04Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2026-01-30T01:05:36Z
+Limited social contact (finding)
+http://snomed.info/sct 423315002
+2026-01-30T01:43:12Z
+2026-02-13T03:15:03Z
+Gingivitis (disorder)
+http://snomed.info/sct 66383009
+Surgeries
+Start
+Stop
+Description
+Code
+2016-12-09T00:35:04Z
+2016-12-09T00:50:04Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2016-12-09T00:35:04Z
+2016-12-09T01:14:09Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2016-12-09T01:14:09Z
+2016-12-09T01:42:25Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+2016-12-23T00:35:04Z
+2016-12-23T00:50:04Z
+Standard pregnancy test (procedure)
+http://snomed.info/sct 252160004
+2016-12-23T00:35:04Z
+2016-12-23T00:50:04Z
+Ultrasound scan for fetal viability (procedure)
+http://snomed.info/sct 169230002
+2017-01-07T00:35:04Z
+2017-01-07T00:50:04Z
+Counseling for termination of pregnancy (procedure)
+http://snomed.info/sct 10383002
+2017-01-07T00:35:04Z
+2017-01-07T00:50:04Z
+Induced termination of pregnancy (procedure)
+http://snomed.info/sct 714812005
+2017-01-15T00:35:04Z
+2017-01-15T00:50:04Z
+Pregnancy termination care (regime/therapy)
+http://snomed.info/sct 386394001
+2017-01-15T00:35:04Z
+2017-01-15T00:50:04Z
+Physical examination procedure (procedure)
+http://snomed.info/sct 5880005
+2017-01-15T00:35:04Z
+2017-01-15T00:50:04Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2017-04-21T00:35:04Z
+2017-04-21T00:50:04Z
+Standard pregnancy test (procedure)
+http://snomed.info/sct 252160004
+2017-04-21T00:35:04Z
+2017-04-21T00:50:04Z
+Ultrasound scan for fetal viability (procedure)
+http://snomed.info/sct 169230002
+2017-04-21T00:35:04Z
+2017-04-21T00:50:04Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+2017-04-21T00:35:04Z
+2017-04-21T00:50:04Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+2017-04-21T00:35:04Z
+2017-04-21T00:50:04Z
+Blood group typing (procedure)
+http://snomed.info/sct 44608003
+2017-04-21T00:35:04Z
+2017-04-21T00:50:04Z
+Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure)
+http://snomed.info/sct 104091002
+2017-04-21T00:35:04Z
+2017-04-21T00:50:04Z
+Hepatitis B surface antigen measurement (procedure)
+http://snomed.info/sct 47758006
+2017-04-21T00:35:04Z
+2017-04-21T00:50:04Z
+Human immunodeficiency virus antigen test (procedure)
+http://snomed.info/sct 31676001
+2017-04-21T00:35:04Z
+2017-04-21T00:50:04Z
+Chlamydia antigen test (procedure)
+http://snomed.info/sct 310861008
+2017-04-21T00:35:04Z
+2017-04-21T00:50:04Z
+Gonorrhea infection titer test (procedure)
+http://snomed.info/sct 165829005
+2017-04-21T00:35:04Z
+2017-04-21T00:50:04Z
+Syphilis infectious titer test (procedure)
+http://snomed.info/sct 269828009
+2017-04-21T00:35:04Z
+2017-04-21T00:50:04Z
+Urine culture (procedure)
+http://snomed.info/sct 117010004
+2017-04-21T00:35:04Z
+2017-04-21T00:50:04Z
+Cytopathology procedure, preparation of smear, genital source (procedure)
+http://snomed.info/sct 90226004
+2017-04-21T00:35:04Z
+2017-04-21T00:50:04Z
+Urine screening test for diabetes (procedure)
+http://snomed.info/sct 395123002
+2017-04-21T00:35:04Z
+2017-04-21T00:50:04Z
+Hepatitis C antibody, confirmatory test (procedure)
+http://snomed.info/sct 104375008
+2017-04-21T00:35:04Z
+2017-04-21T00:50:04Z
+Rubella screening test (procedure)
+http://snomed.info/sct 314098000
+2017-04-21T00:35:04Z
+2017-04-21T00:50:04Z
+Measurement of Varicella-zoster virus antibody (procedure)
+http://snomed.info/sct 104326007
+2017-04-21T00:35:04Z
+2017-04-21T00:50:04Z
+Skin test for tuberculosis, Tine test (procedure)
+http://snomed.info/sct 28163009
+2017-04-21T00:35:04Z
+2017-04-21T00:50:04Z
+Urinalysis, protein, qualitative (procedure)
+http://snomed.info/sct 60218003
+2017-04-21T00:35:04Z
+2017-04-21T00:50:04Z
+Physical examination procedure (procedure)
+http://snomed.info/sct 5880005
+2017-05-19T00:35:04Z
+2017-05-19T00:50:04Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+2017-05-19T00:35:04Z
+2017-05-19T00:50:04Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+2017-05-19T00:35:04Z
+2017-05-19T00:50:04Z
+Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure)
+http://snomed.info/sct 443529005
+2017-06-16T00:35:04Z
+2017-06-16T00:50:04Z
+Fetal anatomy study (procedure)
+http://snomed.info/sct 271442007
+2017-06-16T00:35:04Z
+2017-06-16T00:50:04Z
+Alpha-fetoprotein test - antenatal (procedure)
+http://snomed.info/sct 275833003
+2017-06-16T00:35:04Z
+2017-06-16T00:50:04Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+2017-06-16T00:35:04Z
+2017-06-16T00:50:04Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+2017-07-14T00:35:04Z
+2017-07-14T00:50:04Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+2017-07-14T00:35:04Z
+2017-07-14T00:50:04Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+2017-08-11T00:35:04Z
+2017-08-11T00:50:04Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+2017-08-11T00:35:04Z
+2017-08-11T00:50:04Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+2017-09-08T00:35:04Z
+2017-09-08T00:50:04Z
+Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure)
+http://snomed.info/sct 104091002
+2017-09-08T00:35:04Z
+2017-09-08T00:50:04Z
+Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure)
+http://snomed.info/sct 399014008
+2017-09-08T00:35:04Z
+2017-09-08T00:50:04Z
+Urine screening for glucose (procedure)
+http://snomed.info/sct 268556000
+2017-09-08T00:35:04Z
+2017-09-08T00:50:04Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+2017-09-08T00:35:04Z
+2017-09-08T00:50:04Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+2017-10-06T00:35:04Z
+2017-10-06T00:50:04Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+2017-10-06T00:35:04Z
+2017-10-06T00:50:04Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+2017-11-03T00:35:04Z
+2017-11-03T00:50:04Z
+Streptococcus pneumoniae group B antigen assay (procedure)
+http://snomed.info/sct 118001005
+2017-11-03T00:35:04Z
+2017-11-03T00:50:04Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+2017-11-03T00:35:04Z
+2017-11-03T00:50:04Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+2017-11-17T00:35:04Z
+2017-11-17T00:50:04Z
+Epidural anesthesia (procedure)
+http://snomed.info/sct 18946005
+2017-11-17T00:35:04Z
+2017-11-17T00:50:04Z
+Human parturition, function (observable entity)
+http://snomed.info/sct 386216000
+2017-12-15T00:35:04Z
+2017-12-15T01:11:27Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2017-12-15T01:11:27Z
+2017-12-15T01:38:49Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+2017-12-15T01:38:49Z
+2017-12-15T01:43:49Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2017-12-29T00:35:04Z
+2017-12-29T01:04:07Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2017-12-29T01:04:07Z
+2017-12-29T01:16:32Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2017-12-29T01:16:32Z
+2017-12-29T01:47:40Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2017-12-29T01:47:40Z
+2017-12-29T02:24:41Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2017-12-29T02:24:41Z
+2017-12-29T03:19:38Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2017-12-29T03:19:38Z
+2017-12-29T03:57:37Z
+Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure)
+http://snomed.info/sct 1259293006
+2017-12-29T03:57:37Z
+2017-12-29T04:25:33Z
+Dental fluoride treatment (procedure)
+http://snomed.info/sct 68071007
+2017-12-29T04:25:33Z
+2017-12-29T04:43:41Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2018-01-05T00:35:04Z
+2018-01-05T00:50:04Z
+Physical examination procedure (procedure)
+http://snomed.info/sct 5880005
+2018-01-05T00:35:04Z
+2018-01-05T00:50:04Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2018-01-12T00:35:04Z
+2018-01-12T01:20:09Z
+Sterilization education (procedure)
+http://snomed.info/sct 268533009
+2018-01-20T01:20:09Z
+2018-01-20T03:56:09Z
+Ligation of bilateral fallopian tubes (procedure)
+http://snomed.info/sct 287664005
+2018-01-20T03:56:09Z
+2018-01-20T06:10:09Z
+Postoperative care (regime/therapy)
+http://snomed.info/sct 133899007
+2018-12-21T00:35:04Z
+2018-12-21T00:50:04Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2018-12-21T00:35:04Z
+2018-12-21T01:09:15Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2018-12-21T01:09:15Z
+2018-12-21T01:23:54Z
+Assessment of substance use (procedure)
+http://snomed.info/sct 428211000124100
+2018-12-21T01:23:54Z
+2018-12-21T01:47:29Z
+Screening for drug abuse (procedure)
+http://snomed.info/sct 713106006
+2019-12-27T00:35:04Z
+2019-12-27T00:50:04Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2019-12-27T00:35:04Z
+2019-12-27T01:18:05Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2019-12-27T01:18:05Z
+2019-12-27T01:40:45Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+2019-12-27T01:40:45Z
+2019-12-27T02:12:42Z
+Screening for domestic abuse (procedure)
+http://snomed.info/sct 866148006
+2021-01-01T00:35:04Z
+2021-01-01T01:28:19Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2021-01-01T01:28:19Z
+2021-01-01T01:51:44Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+2021-01-01T01:51:44Z
+2021-01-01T02:04:43Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2021-01-01T02:04:43Z
+2021-01-01T02:26:26Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2021-01-01T02:26:26Z
+2021-01-01T02:51:02Z
+Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+http://snomed.info/sct 715252007
+2021-01-01T02:51:02Z
+2021-01-01T02:56:37Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2021-01-15T00:35:04Z
+2021-01-15T01:02:14Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2021-01-15T01:02:14Z
+2021-01-15T01:38:45Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2021-01-15T01:38:45Z
+2021-01-15T02:23:14Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2021-01-15T02:23:14Z
+2021-01-15T02:46:39Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2021-01-15T02:46:39Z
+2021-01-15T03:16:39Z
+Dental plain X-ray bitewing (procedure)
+http://snomed.info/sct 241046008
+2021-01-15T02:46:39Z
+2021-01-15T03:35:20Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2021-01-15T03:35:20Z
+2021-01-15T03:58:28Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2021-01-21T00:35:04Z
+2021-01-21T00:50:04Z
+History AND physical examination (procedure)
+http://snomed.info/sct 63332003
+2021-01-21T00:35:04Z
+2021-01-21T00:50:04Z
+Initial patient assessment (procedure)
+http://snomed.info/sct 315639002
+2021-01-21T00:35:04Z
+2021-01-21T00:50:04Z
+Development of individualized plan of care (procedure)
+http://snomed.info/sct 370789001
+2021-01-21T00:35:04Z
+2021-01-21T00:50:04Z
+Nursing care/supplementary surveillance (regime/therapy)
+http://snomed.info/sct 410401003
+2021-01-22T00:35:04Z
+2021-01-22T00:50:04Z
+Nursing care/supplementary surveillance (regime/therapy)
+http://snomed.info/sct 410401003
+2021-01-23T00:35:04Z
+2021-01-23T00:50:04Z
+Nursing care/supplementary surveillance (regime/therapy)
+http://snomed.info/sct 410401003
+2021-01-24T00:35:04Z
+2021-01-24T00:50:04Z
+Nursing care/supplementary surveillance (regime/therapy)
+http://snomed.info/sct 410401003
+2021-01-25T00:35:04Z
+2021-01-25T00:50:04Z
+Nursing care/supplementary surveillance (regime/therapy)
+http://snomed.info/sct 410401003
+2021-01-26T00:35:04Z
+2021-01-26T00:50:04Z
+Nursing care/supplementary surveillance (regime/therapy)
+http://snomed.info/sct 410401003
+2021-01-27T00:35:04Z
+2021-01-27T00:50:04Z
+Nursing care/supplementary surveillance (regime/therapy)
+http://snomed.info/sct 410401003
+2021-01-28T00:35:04Z
+2021-01-28T00:50:04Z
+Nursing care/supplementary surveillance (regime/therapy)
+http://snomed.info/sct 410401003
+2021-01-29T00:35:04Z
+2021-01-29T00:50:04Z
+Nursing care/supplementary surveillance (regime/therapy)
+http://snomed.info/sct 410401003
+2021-01-30T00:35:04Z
+2021-01-30T00:50:04Z
+Nursing care/supplementary surveillance (regime/therapy)
+http://snomed.info/sct 410401003
+2021-01-31T00:35:04Z
+2021-01-31T00:50:04Z
+Pre-discharge assessment (procedure)
+http://snomed.info/sct 225386006
+2021-01-31T00:35:04Z
+2021-01-31T00:50:04Z
+Discharge from hospital (procedure)
+http://snomed.info/sct 308283009
+2022-01-07T00:35:04Z
+2022-01-07T01:31:57Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2022-01-07T01:31:57Z
+2022-01-07T01:46:11Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2022-01-07T01:46:11Z
+2022-01-07T02:15:44Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2022-01-07T02:15:44Z
+2022-01-07T02:29:28Z
+Assessment of substance use (procedure)
+http://snomed.info/sct 428211000124100
+2022-01-07T02:29:28Z
+2022-01-07T02:57:04Z
+Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+http://snomed.info/sct 763302001
+2022-01-07T02:57:04Z
+2022-01-07T03:19:22Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2022-01-21T00:35:04Z
+2022-01-21T01:02:06Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2022-01-21T01:02:06Z
+2022-01-21T01:10:41Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2022-01-21T01:10:41Z
+2022-01-21T01:36:30Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2022-01-21T01:36:30Z
+2022-01-21T02:02:12Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2022-01-21T02:02:12Z
+2022-01-21T02:53:54Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2022-01-21T02:53:54Z
+2022-01-21T03:07:43Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2023-01-13T00:35:04Z
+2023-01-13T01:07:22Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2023-01-13T01:07:22Z
+2023-01-13T01:19:44Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2023-01-13T01:19:44Z
+2023-01-13T01:44:19Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2023-01-13T01:44:19Z
+2023-01-13T01:57:48Z
+Assessment of substance use (procedure)
+http://snomed.info/sct 428211000124100
+2023-01-13T01:57:48Z
+2023-01-13T02:25:52Z
+Screening for drug abuse (procedure)
+http://snomed.info/sct 713106006
+2023-01-13T02:25:52Z
+2023-01-13T02:42:29Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2023-01-27T00:35:04Z
+2023-01-27T00:59:24Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2023-01-27T00:59:24Z
+2023-01-27T01:29:59Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2023-01-27T01:29:59Z
+2023-01-27T01:44:41Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2023-01-27T01:44:41Z
+2023-01-27T02:20:52Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2023-01-27T02:20:52Z
+2023-01-27T03:16:27Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2023-01-27T03:16:27Z
+2023-01-27T03:35:37Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2024-01-19T00:35:04Z
+2024-01-19T00:50:04Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2024-01-19T00:35:04Z
+2024-01-19T01:08:02Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2024-01-19T01:08:02Z
+2024-01-19T01:31:19Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+2024-01-19T01:31:19Z
+2024-01-19T01:43:18Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2024-01-19T01:43:18Z
+2024-01-19T02:04:19Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2024-01-19T02:04:19Z
+2024-01-19T02:17:18Z
+Assessment of substance use (procedure)
+http://snomed.info/sct 428211000124100
+2024-01-19T02:17:18Z
+2024-01-19T02:46:41Z
+Screening for drug abuse (procedure)
+http://snomed.info/sct 713106006
+2024-01-19T02:46:41Z
+2024-01-19T02:55:21Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2024-02-02T00:35:04Z
+2024-02-02T01:03:10Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2024-02-02T01:03:10Z
+2024-02-02T01:36:04Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2024-02-02T01:36:04Z
+2024-02-02T02:11:51Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2024-02-02T02:11:51Z
+2024-02-02T02:43:48Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2024-02-02T02:43:48Z
+2024-02-02T03:25:23Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2024-02-02T03:25:23Z
+2024-02-02T03:47:32Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2025-01-24T00:35:04Z
+2025-01-24T01:13:58Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2025-01-24T01:13:58Z
+2025-01-24T01:43:30Z
+Screening for domestic abuse (procedure)
+http://snomed.info/sct 866148006
+2025-01-24T01:43:30Z
+2025-01-24T01:57:13Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2025-01-24T01:57:13Z
+2025-01-24T02:26:37Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2025-01-24T02:26:37Z
+2025-01-24T02:40:36Z
+Assessment of substance use (procedure)
+http://snomed.info/sct 428211000124100
+2025-01-24T02:40:36Z
+2025-01-24T03:03:01Z
+Screening for drug abuse (procedure)
+http://snomed.info/sct 713106006
+2025-01-24T03:03:01Z
+2025-01-24T03:08:01Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2025-02-07T00:35:04Z
+2025-02-07T01:07:30Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2025-02-07T01:07:30Z
+2025-02-07T01:24:07Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2025-02-07T01:24:07Z
+2025-02-07T01:54:14Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2025-02-07T01:54:14Z
+2025-02-07T02:48:52Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2025-02-07T02:48:52Z
+2025-02-07T03:42:41Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2025-02-07T03:42:41Z
+2025-02-07T04:12:19Z
+Dental fluoride treatment (procedure)
+http://snomed.info/sct 68071007
+2025-02-07T04:12:19Z
+2025-02-07T04:29:08Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2026-01-30T00:35:04Z
+2026-01-30T01:05:36Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2026-01-30T01:05:36Z
+2026-01-30T01:16:49Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2026-01-30T01:16:49Z
+2026-01-30T01:43:12Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2026-01-30T01:43:12Z
+2026-01-30T01:56:51Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2026-02-13T00:35:04Z
+2026-02-13T01:11:01Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2026-02-13T01:11:01Z
+2026-02-13T01:40:53Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2026-02-13T01:40:53Z
+2026-02-13T02:11:36Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2026-02-13T02:11:36Z
+2026-02-13T02:44:28Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2026-02-13T02:44:28Z
+2026-02-13T03:14:28Z
+Dental plain X-ray bitewing (procedure)
+http://snomed.info/sct 241046008
+2026-02-13T02:44:28Z
+2026-02-13T03:15:03Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2026-02-13T03:15:03Z
+2026-02-13T03:41:53Z
+Dental fluoride treatment (procedure)
+http://snomed.info/sct 68071007
+2026-02-13T03:41:53Z
+2026-02-13T03:58:21Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+Encounters
+Start
+Stop
+Description
+Code
+1997-10-17T00:35:04Z
+1997-10-17T00:56:30Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2000-11-03T00:35:04Z
+2000-11-03T01:21:44Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2008-02-11T00:35:04Z
+2008-02-19T10:35:04Z
+Encounter for problem (procedure)
+http://snomed.info/sct 185347001
+2014-02-02T00:35:04Z
+2014-02-02T00:50:04Z
+Encounter for problem (procedure)
+http://snomed.info/sct 185347001
+2014-11-28T00:35:04Z
+2014-11-28T01:10:30Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2015-12-04T00:35:04Z
+2015-12-04T01:33:10Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2016-03-07T16:35:04Z
+2016-03-07T16:50:04Z
+Encounter for symptom (procedure)
+http://snomed.info/sct 185345009
+2016-05-26T10:35:04Z
+2016-05-26T10:50:04Z
+Encounter for symptom (procedure)
+http://snomed.info/sct 185345009
+2016-12-09T00:35:04Z
+2016-12-09T01:14:09Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2016-12-23T00:35:04Z
+2016-12-23T00:50:04Z
+Prenatal initial visit (regime/therapy)
+http://snomed.info/sct 424441002
+2017-01-07T00:35:04Z
+2017-01-07T00:50:04Z
+Patient-initiated encounter (procedure)
+http://snomed.info/sct 270427003
+2017-01-15T00:35:04Z
+2017-01-15T00:50:04Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+2017-04-21T00:35:04Z
+2017-04-21T00:50:04Z
+Prenatal initial visit (regime/therapy)
+http://snomed.info/sct 424441002
+2017-05-19T00:35:04Z
+2017-05-19T00:50:04Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+2017-06-16T00:35:04Z
+2017-06-16T00:50:04Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+2017-07-14T00:35:04Z
+2017-07-14T00:50:04Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+2017-08-11T00:35:04Z
+2017-08-11T00:50:04Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+2017-09-08T00:35:04Z
+2017-09-08T00:50:04Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+2017-10-06T00:35:04Z
+2017-10-06T00:50:04Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+2017-11-03T00:35:04Z
+2017-11-03T00:50:04Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+2017-11-17T00:35:04Z
+2017-11-17T01:35:04Z
+Obstetric emergency hospital admission (procedure)
+http://snomed.info/sct 183460006
+2017-12-15T00:35:04Z
+2017-12-15T01:11:27Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2017-12-29T00:35:04Z
+2017-12-29T04:43:41Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2018-01-05T00:35:04Z
+2018-01-05T00:50:04Z
+Postnatal visit (regime/therapy)
+http://snomed.info/sct 169762003
+2018-01-12T00:35:04Z
+2018-01-12T01:20:09Z
+Consultation for treatment (procedure)
+http://snomed.info/sct 698314001
+2018-01-20T01:20:09Z
+2018-01-21T01:20:09Z
+Admission to surgical department (procedure)
+http://snomed.info/sct 305408004
+2018-12-21T00:35:04Z
+2018-12-21T01:09:15Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2019-12-27T00:35:04Z
+2019-12-27T01:18:05Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2021-01-01T00:35:04Z
+2021-01-01T01:28:19Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2021-01-15T00:35:04Z
+2021-01-15T03:58:28Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2021-01-21T00:35:04Z
+2021-01-21T01:35:04Z
+Emergency room admission (procedure)
+http://snomed.info/sct 50849002
+2021-01-21T00:35:04Z
+2021-01-31T00:50:04Z
+Hospital admission (procedure)
+http://snomed.info/sct 32485007
+2021-02-23T00:35:04Z
+2021-02-23T00:50:04Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2021-11-26T00:35:04Z
+2021-11-26T00:50:04Z
+Administration of vaccine to produce active immunity (procedure)
+http://snomed.info/sct 33879002
+2021-12-24T00:35:04Z
+2021-12-24T00:50:04Z
+Administration of vaccine to produce active immunity (procedure)
+http://snomed.info/sct 33879002
+2022-01-07T00:35:04Z
+2022-01-07T01:31:57Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2022-01-21T00:35:04Z
+2022-01-21T03:07:43Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2023-01-13T00:35:04Z
+2023-01-13T01:07:22Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2023-01-27T00:35:04Z
+2023-01-27T03:35:37Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2024-01-19T00:35:04Z
+2024-01-19T01:08:02Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2024-02-02T00:35:04Z
+2024-02-02T03:47:32Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2025-01-24T00:35:04Z
+2025-01-24T01:13:58Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2025-02-07T00:35:04Z
+2025-02-07T04:29:08Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2026-01-30T00:35:04Z
+2026-01-30T01:05:36Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2026-02-13T00:35:04Z
+2026-02-13T03:58:21Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+Vital Signs
+Start
+Stop
+Description
+Code
+Value
+2016-12-09T00:35:04Z
+Body Height
+http://loinc.org 8302-2
+165 cm
+2016-12-09T00:35:04Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+2 {score}
+2016-12-09T00:35:04Z
+Body Weight
+http://loinc.org 29463-7
+72.2 kg
+2016-12-09T00:35:04Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+26.52 kg/m2
+2016-12-09T00:35:04Z
+Heart rate
+http://loinc.org 8867-4
+71 /min
+2016-12-09T00:35:04Z
+Respiratory rate
+http://loinc.org 9279-1
+13 /min
+2017-12-15T00:35:04Z
+Body Height
+http://loinc.org 8302-2
+165 cm
+2017-12-15T00:35:04Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+2 {score}
+2017-12-15T00:35:04Z
+Body Weight
+http://loinc.org 29463-7
+73.9 kg
+2017-12-15T00:35:04Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+27.14 kg/m2
+2017-12-15T00:35:04Z
+Heart rate
+http://loinc.org 8867-4
+61 /min
+2017-12-15T00:35:04Z
+Respiratory rate
+http://loinc.org 9279-1
+15 /min
+2018-12-21T00:35:04Z
+Body Height
+http://loinc.org 8302-2
+165 cm
+2018-12-21T00:35:04Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+1 {score}
+2018-12-21T00:35:04Z
+Body Weight
+http://loinc.org 29463-7
+75.3 kg
+2018-12-21T00:35:04Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+27.65 kg/m2
+2018-12-21T00:35:04Z
+Heart rate
+http://loinc.org 8867-4
+78 /min
+2018-12-21T00:35:04Z
+Respiratory rate
+http://loinc.org 9279-1
+15 /min
+2019-12-27T00:35:04Z
+Body Height
+http://loinc.org 8302-2
+165 cm
+2019-12-27T00:35:04Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+1 {score}
+2019-12-27T00:35:04Z
+Body Weight
+http://loinc.org 29463-7
+76.9 kg
+2019-12-27T00:35:04Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+28.26 kg/m2
+2019-12-27T00:35:04Z
+Heart rate
+http://loinc.org 8867-4
+95 /min
+2019-12-27T00:35:04Z
+Respiratory rate
+http://loinc.org 9279-1
+16 /min
+2021-01-01T00:35:04Z
+Body Height
+http://loinc.org 8302-2
+165 cm
+2021-01-01T00:35:04Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+4 {score}
+2021-01-01T00:35:04Z
+Body Weight
+http://loinc.org 29463-7
+78.1 kg
+2021-01-01T00:35:04Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+28.68 kg/m2
+2021-01-01T00:35:04Z
+Heart rate
+http://loinc.org 8867-4
+90 /min
+2021-01-01T00:35:04Z
+Respiratory rate
+http://loinc.org 9279-1
+14 /min
+2022-01-07T00:35:04Z
+Body Height
+http://loinc.org 8302-2
+165 cm
+2022-01-07T00:35:04Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+2 {score}
+2022-01-07T00:35:04Z
+Body Weight
+http://loinc.org 29463-7
+79.5 kg
+2022-01-07T00:35:04Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+29.2 kg/m2
+2022-01-07T00:35:04Z
+Heart rate
+http://loinc.org 8867-4
+97 /min
+2022-01-07T00:35:04Z
+Respiratory rate
+http://loinc.org 9279-1
+14 /min
+2023-01-13T00:35:04Z
+Body Height
+http://loinc.org 8302-2
+165 cm
+2023-01-13T00:35:04Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+1 {score}
+2023-01-13T00:35:04Z
+Body Weight
+http://loinc.org 29463-7
+81.4 kg
+2023-01-13T00:35:04Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+29.92 kg/m2
+2023-01-13T00:35:04Z
+Heart rate
+http://loinc.org 8867-4
+71 /min
+2023-01-13T00:35:04Z
+Respiratory rate
+http://loinc.org 9279-1
+14 /min
+2024-01-19T00:35:04Z
+Body Height
+http://loinc.org 8302-2
+165 cm
+2024-01-19T00:35:04Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+3 {score}
+2024-01-19T00:35:04Z
+Body Weight
+http://loinc.org 29463-7
+83 kg
+2024-01-19T00:35:04Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+30.49 kg/m2
+2024-01-19T00:35:04Z
+Heart rate
+http://loinc.org 8867-4
+79 /min
+2024-01-19T00:35:04Z
+Respiratory rate
+http://loinc.org 9279-1
+15 /min
+2025-01-24T00:35:04Z
+Body Height
+http://loinc.org 8302-2
+165 cm
+2025-01-24T00:35:04Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+3 {score}
+2025-01-24T00:35:04Z
+Body Weight
+http://loinc.org 29463-7
+83 kg
+2025-01-24T00:35:04Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+30.49 kg/m2
+2025-01-24T00:35:04Z
+Heart rate
+http://loinc.org 8867-4
+95 /min
+2025-01-24T00:35:04Z
+Respiratory rate
+http://loinc.org 9279-1
+14 /min
+2026-01-30T00:35:04Z
+Body Height
+http://loinc.org 8302-2
+165 cm
+2026-01-30T00:35:04Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+3 {score}
+2026-01-30T00:35:04Z
+Body Weight
+http://loinc.org 29463-7
+83 kg
+2026-01-30T00:35:04Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+30.49 kg/m2
+2026-01-30T00:35:04Z
+Heart rate
+http://loinc.org 8867-4
+96 /min
+2026-01-30T00:35:04Z
+Respiratory rate
+http://loinc.org 9279-1
+14 /min
+Immunizations
+Start
+Stop
+Description
+Code
+2016-12-09T00:35:04Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2017-12-15T00:35:04Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2018-12-21T00:35:04Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2019-12-27T00:35:04Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2021-01-01T00:35:04Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2021-11-26T00:35:04Z
+COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+http://hl7.org/fhir/sid/cvx 207
+2021-12-24T00:35:04Z
+COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+http://hl7.org/fhir/sid/cvx 207
+2022-01-07T00:35:04Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2023-01-13T00:35:04Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2023-01-13T00:35:04Z
+Hep A, adult
+http://hl7.org/fhir/sid/cvx 52
+2024-01-19T00:35:04Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2024-01-19T00:35:04Z
+Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+http://hl7.org/fhir/sid/cvx 113
+2024-01-19T00:35:04Z
+Hep A, adult
+http://hl7.org/fhir/sid/cvx 52
+2025-01-24T00:35:04Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2026-01-30T00:35:04Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Hep A, adult
+Influenza, split virus, trivalent, PF
+Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+Hep A, adult
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Plan of Care
+Start
+Stop
+Description
+Code
+2000-11-03T00:35:04Z
+Diabetes self management plan (record artifact)
+http://snomed.info/sct 735985000
+2017-04-21T00:35:04Z
+2017-11-17T00:35:04Z
+Routine antenatal care (regime/therapy)
+http://snomed.info/sct 134435003
+2018-01-20T03:56:09Z
+2018-02-06T06:10:09Z
+Minor surgery care management (procedure)
+http://snomed.info/sct 737471002
+2021-01-21T00:35:04Z
+2021-02-23T00:35:04Z
+Burn care (regime/therapy)
+http://snomed.info/sct 133901003
+Social History
+There is no current social history except smoking status.
+https://github.com/synthetichealth/synthea
+https://github.com/synthetichealth/synthea
+NEW ENGLAND FAMILY HEALTH LLC
+463 WORCESTER RD
+FRAMINGHAM
+MA
+017015354
+Functional Status
+Start
+Stop
+Description
+Code
+Value
+2016-12-09T01:42:25Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+3 {score}
+2017-12-15T01:38:49Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+2 {score}
+2018-12-21T01:47:29Z
+Total score [DAST-10]
+http://loinc.org 82667-7
+0 {score}
+2019-12-27T01:40:45Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+12 {score}
+2019-12-27T02:12:42Z
+Total score [HARK]
+http://loinc.org 76504-0
+0 {score}
+2021-01-01T01:51:44Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+3 {score}
+2021-01-01T02:26:26Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+4 {score}
+2021-01-01T02:51:02Z
+Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]
+http://loinc.org 44261-6
+25 {score}
+2022-01-07T02:15:44Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+1 {score}
+2022-01-07T02:57:04Z
+Total score [AUDIT-C]
+http://loinc.org 75626-2
+1 {score}
+2023-01-13T01:44:19Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+1 {score}
+2023-01-13T02:25:52Z
+Total score [DAST-10]
+http://loinc.org 82667-7
+0 {score}
+2024-01-19T01:31:19Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+2 {score}
+2024-01-19T02:04:19Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+0 {score}
+2024-01-19T02:46:41Z
+Total score [DAST-10]
+http://loinc.org 82667-7
+2 {score}
+2025-01-24T01:43:30Z
+Total score [HARK]
+http://loinc.org 76504-0
+0 {score}
+2025-01-24T02:26:37Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+1 {score}
+2025-01-24T03:03:01Z
+Total score [DAST-10]
+http://loinc.org 82667-7
+0 {score}
+2026-01-30T01:43:12Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+1 {score}

@@ -1,0 +1,1091 @@
+C-CDA R2.1 Patient Record: Rhona164 Olinda137 Homenick806
+739 Kiehn Estate Unit 47
+Pepperell
+Massachusetts
+01463
+Rhona164 Olinda137
+Homenick806
+https://github.com/synthetichealth/synthea
+https://github.com/synthetichealth/synthea
+NASHOBA VALLEY MEDICAL CENTER
+200 GROTON ROAD
+GROTON
+MA
+014502056
+NASHOBA VALLEY MEDICAL CENTER
+200 GROTON ROAD
+GROTON
+MA
+014502056
+Allergies
+There are no current allergies at the time of this document's creation.
+Medications
+Start
+Stop
+Description
+Code
+1992-04-29T20:07:27Z
+1993-04-24T20:07:27Z
+{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day]
+http://www.nlm.nih.gov/research/umls/rxnorm 749785
+1993-03-01T01:17:55Z
+1993-03-01T01:17:55Z
+sodium fluoride 0.0272 MG/MG Oral Gel
+http://www.nlm.nih.gov/research/umls/rxnorm 1535362
+1994-04-04T05:07:27Z
+1994-04-24T05:07:27Z
+Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 562251
+1994-04-19T20:07:27Z
+1995-04-14T20:07:27Z
+{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day]
+http://www.nlm.nih.gov/research/umls/rxnorm 749785
+1995-04-14T20:07:27Z
+1996-04-08T20:07:27Z
+{7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day]
+http://www.nlm.nih.gov/research/umls/rxnorm 749882
+1997-04-03T20:07:27Z
+1998-03-29T20:07:27Z
+{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day]
+http://www.nlm.nih.gov/research/umls/rxnorm 749785
+1998-04-26T20:07:27Z
+1999-04-21T20:07:27Z
+{7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day]
+http://www.nlm.nih.gov/research/umls/rxnorm 749882
+1999-04-06T08:07:27Z
+1999-04-18T08:07:27Z
+Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 562251
+{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day]
+sodium fluoride 0.0272 MG/MG Oral Gel
+Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day]
+{7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day]
+{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day]
+{7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day]
+Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+Diagnostic Results
+Start
+Stop
+Description
+Code
+1993-02-14T20:07:27Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+1993-02-14T21:28:14Z
+Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+http://loinc.org 76499-3
+1993-02-14T22:01:21Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+1996-02-18T20:07:27Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+1996-02-18T21:36:23Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+1996-02-18T22:14:53Z
+Drug Abuse Screening Test-10 [DAST-10]
+http://loinc.org 82666-9
+1999-02-21T20:07:27Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+1999-02-21T20:07:27Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+1999-02-21T21:20:44Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+1999-02-21T22:03:47Z
+Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+http://loinc.org 72109-2
+2000-03-12T20:07:27Z
+U.S. standard certificate of death - 2003 revision
+http://loinc.org 69409-1
+{entry.value}
+Problems
+Start
+Stop
+Description
+Code
+1983-01-30T20:45:01Z
+Only received primary school education (finding)
+http://snomed.info/sct 224295006
+1983-01-30T20:45:01Z
+Unemployed (finding)
+http://snomed.info/sct 73438004
+1983-01-30T20:45:01Z
+Social isolation (finding)
+http://snomed.info/sct 422650009
+1990-02-11T20:48:47Z
+1999-02-21T21:02:49Z
+Limited social contact (finding)
+http://snomed.info/sct 423315002
+1990-02-11T20:48:47Z
+Stress (finding)
+http://snomed.info/sct 73595000
+1990-07-29T20:07:27Z
+1991-03-17T20:07:27Z
+Normal pregnancy (finding)
+http://snomed.info/sct 72892002
+1991-06-21T14:07:27Z
+1991-07-09T14:07:27Z
+Viral sinusitis (disorder)
+http://snomed.info/sct 444814009
+1993-02-14T20:07:27Z
+1993-02-14T20:07:27Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+1993-02-28T23:19:07Z
+1993-03-01T00:21:01Z
+Gingival disease (disorder)
+http://snomed.info/sct 18718003
+1993-11-11T20:07:27Z
+1994-02-01T20:07:27Z
+Concussion injury of brain (disorder)
+http://snomed.info/sct 110030002
+1993-11-11T20:07:27Z
+1994-02-01T20:07:27Z
+Concussion with no loss of consciousness (disorder)
+http://snomed.info/sct 62106007
+1994-04-04T05:07:27Z
+1994-04-24T05:07:27Z
+Viral sinusitis (disorder)
+http://snomed.info/sct 444814009
+1996-02-18T20:07:27Z
+1999-02-21T20:07:27Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+1997-08-03T20:07:27Z
+1998-03-08T20:07:27Z
+Normal pregnancy (finding)
+http://snomed.info/sct 72892002
+1998-01-18T20:07:27Z
+1998-03-08T20:07:27Z
+Pre-eclampsia (disorder)
+http://snomed.info/sct 398254007
+1999-02-21T20:07:27Z
+Body mass index 30+ - obesity (finding)
+http://snomed.info/sct 162864005
+1999-02-21T21:02:49Z
+Victim of intimate partner abuse (finding)
+http://snomed.info/sct 706893006
+1999-02-21T22:03:47Z
+1999-03-08T01:09:39Z
+Gingivitis (disorder)
+http://snomed.info/sct 66383009
+1999-03-07T22:51:56Z
+1999-03-08T00:22:26Z
+Gingival disease (disorder)
+http://snomed.info/sct 18718003
+1999-03-08T01:09:39Z
+1999-03-08T01:50:59Z
+Primary dental caries (disorder)
+http://snomed.info/sct 109570002
+1999-04-06T08:07:27Z
+1999-04-18T08:07:27Z
+Viral sinusitis (disorder)
+http://snomed.info/sct 444814009
+2000-03-04T20:07:27Z
+Gunshot wound (disorder)
+http://snomed.info/sct 283545005
+2000-03-04T20:07:27Z
+Bullet wound (disorder)
+http://snomed.info/sct 262574004
+Surgeries
+Start
+Stop
+Description
+Code
+1990-07-29T20:07:27Z
+1990-07-29T20:22:27Z
+Standard pregnancy test (procedure)
+http://snomed.info/sct 252160004
+1990-07-29T20:07:27Z
+1990-07-29T20:22:27Z
+Ultrasound scan for fetal viability (procedure)
+http://snomed.info/sct 169230002
+1990-07-29T20:07:27Z
+1990-07-29T20:22:27Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+1990-07-29T20:07:27Z
+1990-07-29T20:22:27Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+1990-07-29T20:07:27Z
+1990-07-29T20:22:27Z
+Blood group typing (procedure)
+http://snomed.info/sct 44608003
+1990-07-29T20:07:27Z
+1990-07-29T20:22:27Z
+Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure)
+http://snomed.info/sct 104091002
+1990-07-29T20:07:27Z
+1990-07-29T20:22:27Z
+Hepatitis B surface antigen measurement (procedure)
+http://snomed.info/sct 47758006
+1990-07-29T20:07:27Z
+1990-07-29T20:22:27Z
+Human immunodeficiency virus antigen test (procedure)
+http://snomed.info/sct 31676001
+1990-07-29T20:07:27Z
+1990-07-29T20:22:27Z
+Chlamydia antigen test (procedure)
+http://snomed.info/sct 310861008
+1990-07-29T20:07:27Z
+1990-07-29T20:22:27Z
+Gonorrhea infection titer test (procedure)
+http://snomed.info/sct 165829005
+1990-07-29T20:07:27Z
+1990-07-29T20:22:27Z
+Syphilis infectious titer test (procedure)
+http://snomed.info/sct 269828009
+1990-07-29T20:07:27Z
+1990-07-29T20:22:27Z
+Urine culture (procedure)
+http://snomed.info/sct 117010004
+1990-07-29T20:07:27Z
+1990-07-29T20:22:27Z
+Cytopathology procedure, preparation of smear, genital source (procedure)
+http://snomed.info/sct 90226004
+1990-07-29T20:07:27Z
+1990-07-29T20:22:27Z
+Urine screening test for diabetes (procedure)
+http://snomed.info/sct 395123002
+1990-07-29T20:07:27Z
+1990-07-29T20:22:27Z
+Hepatitis C antibody, confirmatory test (procedure)
+http://snomed.info/sct 104375008
+1990-07-29T20:07:27Z
+1990-07-29T20:22:27Z
+Rubella screening test (procedure)
+http://snomed.info/sct 314098000
+1990-07-29T20:07:27Z
+1990-07-29T20:22:27Z
+Measurement of Varicella-zoster virus antibody (procedure)
+http://snomed.info/sct 104326007
+1990-07-29T20:07:27Z
+1990-07-29T20:22:27Z
+Skin test for tuberculosis, Tine test (procedure)
+http://snomed.info/sct 28163009
+1990-07-29T20:07:27Z
+1990-07-29T20:22:27Z
+Urinalysis, protein, qualitative (procedure)
+http://snomed.info/sct 60218003
+1990-07-29T20:07:27Z
+1990-07-29T20:22:27Z
+Physical examination procedure (procedure)
+http://snomed.info/sct 5880005
+1990-08-26T20:07:27Z
+1990-08-26T20:22:27Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+1990-08-26T20:07:27Z
+1990-08-26T20:22:27Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+1990-08-26T20:07:27Z
+1990-08-26T20:22:27Z
+Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure)
+http://snomed.info/sct 443529005
+1990-09-23T20:07:27Z
+1990-09-23T20:22:27Z
+Fetal anatomy study (procedure)
+http://snomed.info/sct 271442007
+1990-09-23T20:07:27Z
+1990-09-23T20:22:27Z
+Alpha-fetoprotein test - antenatal (procedure)
+http://snomed.info/sct 275833003
+1990-09-23T20:07:27Z
+1990-09-23T20:22:27Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+1990-09-23T20:07:27Z
+1990-09-23T20:22:27Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+1990-10-21T20:07:27Z
+1990-10-21T20:22:27Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+1990-10-21T20:07:27Z
+1990-10-21T20:22:27Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+1990-11-18T20:07:27Z
+1990-11-18T20:22:27Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+1990-11-18T20:07:27Z
+1990-11-18T20:22:27Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+1990-12-16T20:07:27Z
+1990-12-16T20:22:27Z
+Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure)
+http://snomed.info/sct 104091002
+1990-12-16T20:07:27Z
+1990-12-16T20:22:27Z
+Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure)
+http://snomed.info/sct 399014008
+1990-12-16T20:07:27Z
+1990-12-16T20:22:27Z
+Urine screening for glucose (procedure)
+http://snomed.info/sct 268556000
+1990-12-16T20:07:27Z
+1990-12-16T20:22:27Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+1990-12-16T20:07:27Z
+1990-12-16T20:22:27Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+1991-01-13T20:07:27Z
+1991-01-13T20:22:27Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+1991-01-13T20:07:27Z
+1991-01-13T20:22:27Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+1991-02-10T20:07:27Z
+1991-02-10T20:22:27Z
+Streptococcus pneumoniae group B antigen assay (procedure)
+http://snomed.info/sct 118001005
+1991-02-10T20:07:27Z
+1991-02-10T20:22:27Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+1991-02-10T20:07:27Z
+1991-02-10T20:22:27Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+1991-02-24T20:07:27Z
+1991-02-24T20:22:27Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+1991-02-24T20:07:27Z
+1991-02-24T20:22:27Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+1991-03-03T20:07:27Z
+1991-03-03T20:22:27Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+1991-03-03T20:07:27Z
+1991-03-03T20:22:27Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+1991-03-10T20:07:27Z
+1991-03-10T20:22:27Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+1991-03-10T20:07:27Z
+1991-03-10T20:22:27Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+1991-03-17T20:07:27Z
+1991-03-17T20:22:27Z
+Augmentation of labor (procedure)
+http://snomed.info/sct 237001001
+1991-03-17T20:07:27Z
+1991-03-17T20:22:27Z
+Human parturition, function (observable entity)
+http://snomed.info/sct 386216000
+1991-04-28T20:07:27Z
+1991-04-28T20:22:27Z
+Physical examination procedure (procedure)
+http://snomed.info/sct 5880005
+1991-04-28T20:07:27Z
+1991-04-28T20:22:27Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+1993-02-14T20:07:27Z
+1993-02-14T20:22:27Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+1993-02-14T20:07:27Z
+1993-02-14T20:58:05Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+1993-02-14T20:58:05Z
+1993-02-14T21:28:14Z
+Screening for domestic abuse (procedure)
+http://snomed.info/sct 866148006
+1993-02-14T21:28:14Z
+1993-02-14T21:40:34Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+1993-02-14T21:40:34Z
+1993-02-14T22:01:21Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+1993-02-14T22:01:21Z
+1993-02-14T22:12:34Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+1993-02-28T20:07:27Z
+1993-02-28T20:42:59Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+1993-02-28T20:42:59Z
+1993-02-28T21:32:25Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+1993-02-28T21:32:25Z
+1993-02-28T22:07:31Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+1993-02-28T22:07:31Z
+1993-02-28T22:46:21Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+1993-02-28T22:46:21Z
+1993-02-28T23:19:07Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+1993-02-28T23:19:07Z
+1993-02-28T23:31:56Z
+Dental surgical procedure (procedure)
+http://snomed.info/sct 81733005
+1993-02-28T23:31:56Z
+1993-02-28T23:53:28Z
+Dental application of desensitizing medicament (procedure)
+http://snomed.info/sct 3802001
+1993-02-28T23:53:28Z
+1993-03-01T00:21:01Z
+Gingivectomy or gingivoplasty, per tooth (procedure)
+http://snomed.info/sct 64544008
+1993-03-01T00:21:01Z
+1993-03-01T01:17:55Z
+Postoperative care for dental procedure (regime/therapy)
+http://snomed.info/sct 456191000124101
+1993-03-01T01:17:55Z
+1993-03-01T01:47:05Z
+Dental fluoride treatment (procedure)
+http://snomed.info/sct 68071007
+1993-03-01T01:47:05Z
+1993-03-01T01:52:05Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+1996-02-18T20:07:27Z
+1996-02-18T20:56:54Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+1996-02-18T20:56:54Z
+1996-02-18T21:10:07Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+1996-02-18T21:10:07Z
+1996-02-18T21:36:23Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+1996-02-18T21:36:23Z
+1996-02-18T21:49:34Z
+Assessment of substance use (procedure)
+http://snomed.info/sct 428211000124100
+1996-02-18T21:49:34Z
+1996-02-18T22:14:53Z
+Screening for drug abuse (procedure)
+http://snomed.info/sct 713106006
+1997-08-03T20:07:27Z
+1997-08-03T20:22:27Z
+Standard pregnancy test (procedure)
+http://snomed.info/sct 252160004
+1997-08-03T20:07:27Z
+1997-08-03T20:22:27Z
+Ultrasound scan for fetal viability (procedure)
+http://snomed.info/sct 169230002
+1997-08-03T20:07:27Z
+1997-08-03T20:22:27Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+1997-08-03T20:07:27Z
+1997-08-03T20:22:27Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+1997-08-03T20:07:27Z
+1997-08-03T20:22:27Z
+Blood group typing (procedure)
+http://snomed.info/sct 44608003
+1997-08-03T20:07:27Z
+1997-08-03T20:22:27Z
+Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure)
+http://snomed.info/sct 104091002
+1997-08-03T20:07:27Z
+1997-08-03T20:22:27Z
+Hepatitis B surface antigen measurement (procedure)
+http://snomed.info/sct 47758006
+1997-08-03T20:07:27Z
+1997-08-03T20:22:27Z
+Human immunodeficiency virus antigen test (procedure)
+http://snomed.info/sct 31676001
+1997-08-03T20:07:27Z
+1997-08-03T20:22:27Z
+Chlamydia antigen test (procedure)
+http://snomed.info/sct 310861008
+1997-08-03T20:07:27Z
+1997-08-03T20:22:27Z
+Gonorrhea infection titer test (procedure)
+http://snomed.info/sct 165829005
+1997-08-03T20:07:27Z
+1997-08-03T20:22:27Z
+Syphilis infectious titer test (procedure)
+http://snomed.info/sct 269828009
+1997-08-03T20:07:27Z
+1997-08-03T20:22:27Z
+Urine culture (procedure)
+http://snomed.info/sct 117010004
+1997-08-03T20:07:27Z
+1997-08-03T20:22:27Z
+Cytopathology procedure, preparation of smear, genital source (procedure)
+http://snomed.info/sct 90226004
+1997-08-03T20:07:27Z
+1997-08-03T20:22:27Z
+Urine screening test for diabetes (procedure)
+http://snomed.info/sct 395123002
+1997-08-03T20:07:27Z
+1997-08-03T20:22:27Z
+Hepatitis C antibody, confirmatory test (procedure)
+http://snomed.info/sct 104375008
+1997-08-03T20:07:27Z
+1997-08-03T20:22:27Z
+Rubella screening test (procedure)
+http://snomed.info/sct 314098000
+1997-08-03T20:07:27Z
+1997-08-03T20:22:27Z
+Measurement of Varicella-zoster virus antibody (procedure)
+http://snomed.info/sct 104326007
+1997-08-03T20:07:27Z
+1997-08-03T20:22:27Z
+Skin test for tuberculosis, Tine test (procedure)
+http://snomed.info/sct 28163009
+1997-08-03T20:07:27Z
+1997-08-03T20:22:27Z
+Urinalysis, protein, qualitative (procedure)
+http://snomed.info/sct 60218003
+1997-08-03T20:07:27Z
+1997-08-03T20:22:27Z
+Physical examination procedure (procedure)
+http://snomed.info/sct 5880005
+1997-08-31T20:07:27Z
+1997-08-31T20:22:27Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+1997-08-31T20:07:27Z
+1997-08-31T20:22:27Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+1997-08-31T20:07:27Z
+1997-08-31T20:22:27Z
+Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure)
+http://snomed.info/sct 443529005
+1997-09-28T20:07:27Z
+1997-09-28T20:22:27Z
+Fetal anatomy study (procedure)
+http://snomed.info/sct 271442007
+1997-09-28T20:07:27Z
+1997-09-28T20:22:27Z
+Alpha-fetoprotein test - antenatal (procedure)
+http://snomed.info/sct 275833003
+1997-09-28T20:07:27Z
+1997-09-28T20:22:27Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+1997-09-28T20:07:27Z
+1997-09-28T20:22:27Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+1997-10-26T20:07:27Z
+1997-10-26T20:22:27Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+1997-10-26T20:07:27Z
+1997-10-26T20:22:27Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+1997-11-23T20:07:27Z
+1997-11-23T20:22:27Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+1997-11-23T20:07:27Z
+1997-11-23T20:22:27Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+1997-12-21T20:07:27Z
+1997-12-21T20:22:27Z
+Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure)
+http://snomed.info/sct 104091002
+1997-12-21T20:07:27Z
+1997-12-21T20:22:27Z
+Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure)
+http://snomed.info/sct 399014008
+1997-12-21T20:07:27Z
+1997-12-21T20:22:27Z
+Urine screening for glucose (procedure)
+http://snomed.info/sct 268556000
+1997-12-21T20:07:27Z
+1997-12-21T20:22:27Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+1997-12-21T20:07:27Z
+1997-12-21T20:22:27Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+1998-01-18T20:07:27Z
+1998-01-18T20:22:27Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+1998-01-18T20:07:27Z
+1998-01-18T20:22:27Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+1998-02-15T20:07:27Z
+1998-02-15T20:22:27Z
+Streptococcus pneumoniae group B antigen assay (procedure)
+http://snomed.info/sct 118001005
+1998-02-15T20:07:27Z
+1998-02-15T20:22:27Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+1998-02-15T20:07:27Z
+1998-02-15T20:22:27Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+1998-03-01T20:07:27Z
+1998-03-01T20:22:27Z
+Evaluation of uterine fundal height (procedure)
+http://snomed.info/sct 274804006
+1998-03-01T20:07:27Z
+1998-03-01T20:22:27Z
+Auscultation of the fetal heart (procedure)
+http://snomed.info/sct 225158009
+1998-03-08T20:07:27Z
+1998-03-08T20:22:27Z
+Episiotomy (procedure)
+http://snomed.info/sct 85548006
+1998-03-08T20:07:27Z
+1998-03-08T20:22:27Z
+Cesarean section (procedure)
+http://snomed.info/sct 11466000
+1998-04-19T20:07:27Z
+1998-04-19T20:22:27Z
+Physical examination procedure (procedure)
+http://snomed.info/sct 5880005
+1998-04-19T20:07:27Z
+1998-04-19T20:22:27Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+1999-02-21T20:07:27Z
+1999-02-21T20:22:27Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+1999-02-21T20:07:27Z
+1999-02-21T21:02:49Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+1999-02-21T21:02:49Z
+1999-02-21T21:20:44Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+1999-02-21T21:20:44Z
+1999-02-21T21:34:46Z
+Assessment of substance use (procedure)
+http://snomed.info/sct 428211000124100
+1999-02-21T21:34:46Z
+1999-02-21T22:03:47Z
+Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+http://snomed.info/sct 763302001
+1999-02-21T22:03:47Z
+1999-02-21T22:15:27Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+1999-03-07T20:07:27Z
+1999-03-07T20:32:03Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+1999-03-07T20:32:03Z
+1999-03-07T20:45:56Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+1999-03-07T20:45:56Z
+1999-03-07T21:36:15Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+1999-03-07T21:36:15Z
+1999-03-07T22:15:49Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+1999-03-07T22:15:49Z
+1999-03-07T22:51:56Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+1999-03-07T22:51:56Z
+1999-03-07T23:01:11Z
+Dental surgical procedure (procedure)
+http://snomed.info/sct 81733005
+1999-03-07T23:01:11Z
+1999-03-07T23:48:54Z
+Dental application of desensitizing medicament (procedure)
+http://snomed.info/sct 3802001
+1999-03-07T23:48:54Z
+1999-03-08T00:22:26Z
+Gingivectomy or gingivoplasty, per tooth (procedure)
+http://snomed.info/sct 64544008
+1999-03-08T00:22:26Z
+1999-03-08T01:09:39Z
+Postoperative care for dental procedure (regime/therapy)
+http://snomed.info/sct 456191000124101
+1999-03-08T01:09:39Z
+1999-03-08T01:50:59Z
+Restoration of tooth with coverage of all cusps using dental filling material (procedure)
+http://snomed.info/sct 1256042007
+1999-03-08T01:50:59Z
+1999-03-08T01:55:59Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+1999-04-24T18:07:27Z
+1999-04-24T19:09:40Z
+Insertion of intrauterine contraceptive device (procedure)
+http://snomed.info/sct 65200003
+Encounters
+Start
+Stop
+Description
+Code
+1983-01-30T20:07:27Z
+1983-01-30T20:45:01Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+1990-02-11T20:07:27Z
+1990-02-11T20:48:47Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+1990-07-29T20:07:27Z
+1990-07-29T20:22:27Z
+Prenatal initial visit (regime/therapy)
+http://snomed.info/sct 424441002
+1990-08-26T20:07:27Z
+1990-08-26T20:22:27Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+1990-09-23T20:07:27Z
+1990-09-23T20:22:27Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+1990-10-21T20:07:27Z
+1990-10-21T20:22:27Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+1990-11-18T20:07:27Z
+1990-11-18T20:22:27Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+1990-12-16T20:07:27Z
+1990-12-16T20:22:27Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+1991-01-13T20:07:27Z
+1991-01-13T20:22:27Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+1991-02-10T20:07:27Z
+1991-02-10T20:22:27Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+1991-02-24T20:07:27Z
+1991-02-24T20:22:27Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+1991-03-03T20:07:27Z
+1991-03-03T20:22:27Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+1991-03-10T20:07:27Z
+1991-03-10T20:22:27Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+1991-03-17T20:07:27Z
+1991-03-17T21:07:27Z
+Obstetric emergency hospital admission (procedure)
+http://snomed.info/sct 183460006
+1991-04-28T20:07:27Z
+1991-04-28T20:22:27Z
+Postnatal visit (regime/therapy)
+http://snomed.info/sct 169762003
+1991-06-21T14:07:27Z
+1991-06-21T14:22:27Z
+Encounter for symptom (procedure)
+http://snomed.info/sct 185345009
+1992-04-29T20:07:27Z
+1992-04-29T20:22:27Z
+Consultation for treatment (procedure)
+http://snomed.info/sct 698314001
+1993-02-14T20:07:27Z
+1993-02-14T20:58:05Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+1993-02-28T20:07:27Z
+1993-03-01T01:52:05Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+1993-11-11T20:07:27Z
+1993-11-11T21:07:27Z
+Emergency room admission (procedure)
+http://snomed.info/sct 50849002
+1994-02-01T20:07:27Z
+1994-02-01T20:22:27Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+1994-04-04T05:07:27Z
+1994-04-04T05:22:27Z
+Encounter for symptom (procedure)
+http://snomed.info/sct 185345009
+1994-04-19T20:07:27Z
+1994-04-19T20:22:27Z
+Consultation for treatment (procedure)
+http://snomed.info/sct 698314001
+1995-04-14T20:07:27Z
+1995-04-14T20:22:27Z
+Consultation for treatment (procedure)
+http://snomed.info/sct 698314001
+1996-02-18T20:07:27Z
+1996-02-18T20:56:54Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+1997-04-03T20:07:27Z
+1997-04-03T20:22:27Z
+Consultation for treatment (procedure)
+http://snomed.info/sct 698314001
+1997-08-03T20:07:27Z
+1997-08-03T20:22:27Z
+Prenatal initial visit (regime/therapy)
+http://snomed.info/sct 424441002
+1997-08-31T20:07:27Z
+1997-08-31T20:22:27Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+1997-09-28T20:07:27Z
+1997-09-28T20:22:27Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+1997-10-26T20:07:27Z
+1997-10-26T20:22:27Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+1997-11-23T20:07:27Z
+1997-11-23T20:22:27Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+1997-12-21T20:07:27Z
+1997-12-21T20:22:27Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+1998-01-18T20:07:27Z
+1998-01-18T20:22:27Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+1998-02-15T20:07:27Z
+1998-02-15T20:22:27Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+1998-03-01T20:07:27Z
+1998-03-01T20:22:27Z
+Prenatal visit (regime/therapy)
+http://snomed.info/sct 424619006
+1998-03-08T20:07:27Z
+1998-03-08T21:07:27Z
+Obstetric emergency hospital admission (procedure)
+http://snomed.info/sct 183460006
+1998-04-19T20:07:27Z
+1998-04-19T20:22:27Z
+Postnatal visit (regime/therapy)
+http://snomed.info/sct 169762003
+1998-04-26T20:07:27Z
+1998-04-26T20:22:27Z
+Consultation for treatment (procedure)
+http://snomed.info/sct 698314001
+1999-02-21T20:07:27Z
+1999-02-21T21:02:49Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+1999-03-07T20:07:27Z
+1999-03-08T01:55:59Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+1999-04-06T08:07:27Z
+1999-04-06T08:22:27Z
+Encounter for symptom (procedure)
+http://snomed.info/sct 185345009
+1999-04-21T20:07:27Z
+1999-04-21T20:22:27Z
+Consultation for treatment (procedure)
+http://snomed.info/sct 698314001
+1999-04-24T18:07:27Z
+1999-04-24T19:09:40Z
+Patient encounter procedure (procedure)
+http://snomed.info/sct 308335008
+2000-03-04T20:07:27Z
+2000-03-04T21:07:27Z
+Emergency room admission (procedure)
+http://snomed.info/sct 50849002
+2000-03-12T20:07:27Z
+2000-03-12T20:22:27Z
+Death Certification
+http://snomed.info/sct 308646001
+Vital Signs
+Start
+Stop
+Description
+Code
+Value
+1993-02-14T20:07:27Z
+Body Height
+http://loinc.org 8302-2
+162.7 cm
+1993-02-14T20:07:27Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+1 {score}
+1993-02-14T20:07:27Z
+Body Weight
+http://loinc.org 29463-7
+72.2 kg
+1993-02-14T20:07:27Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+27.29 kg/m2
+1993-02-14T20:07:27Z
+Heart rate
+http://loinc.org 8867-4
+96 /min
+1993-02-14T20:07:27Z
+Respiratory rate
+http://loinc.org 9279-1
+15 /min
+1996-02-18T20:07:27Z
+Body Height
+http://loinc.org 8302-2
+162.7 cm
+1996-02-18T20:07:27Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+4 {score}
+1996-02-18T20:07:27Z
+Body Weight
+http://loinc.org 29463-7
+75.7 kg
+1996-02-18T20:07:27Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+28.59 kg/m2
+1996-02-18T20:07:27Z
+Heart rate
+http://loinc.org 8867-4
+72 /min
+1996-02-18T20:07:27Z
+Respiratory rate
+http://loinc.org 9279-1
+13 /min
+1999-02-21T20:07:27Z
+Body Height
+http://loinc.org 8302-2
+162.7 cm
+1999-02-21T20:07:27Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+4 {score}
+1999-02-21T20:07:27Z
+Body Weight
+http://loinc.org 29463-7
+80.5 kg
+1999-02-21T20:07:27Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+30.41 kg/m2
+1999-02-21T20:07:27Z
+Heart rate
+http://loinc.org 8867-4
+86 /min
+1999-02-21T20:07:27Z
+Respiratory rate
+http://loinc.org 9279-1
+14 /min
+Immunizations
+Start
+Stop
+Description
+Code
+1993-02-14T20:07:27Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+1996-02-18T20:07:27Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+1996-02-18T20:07:27Z
+Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+http://hl7.org/fhir/sid/cvx 113
+1999-02-21T20:07:27Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+Influenza, split virus, trivalent, PF
+Plan of Care
+Start
+Stop
+Description
+Code
+1990-07-29T20:07:27Z
+1991-03-17T20:07:27Z
+Routine antenatal care (regime/therapy)
+http://snomed.info/sct 134435003
+1993-11-11T20:07:27Z
+1994-02-01T20:07:27Z
+Head injury rehabilitation (regime/therapy)
+http://snomed.info/sct 47387005
+1997-08-03T20:07:27Z
+1998-03-08T20:07:27Z
+Routine antenatal care (regime/therapy)
+http://snomed.info/sct 134435003
+Social History
+There is no current social history except smoking status.
+https://github.com/synthetichealth/synthea
+https://github.com/synthetichealth/synthea
+NASHOBA VALLEY MEDICAL CENTER
+200 GROTON ROAD
+GROTON
+MA
+014502056
+Functional Status
+Start
+Stop
+Description
+Code
+Value
+1993-02-14T21:28:14Z
+Total score [HARK]
+http://loinc.org 76504-0
+0 {score}
+1993-02-14T22:01:21Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+2 {score}
+1996-02-18T21:36:23Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+1 {score}
+1996-02-18T22:14:53Z
+Total score [DAST-10]
+http://loinc.org 82667-7
+1 {score}
+1999-02-21T21:20:44Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+2 {score}
+1999-02-21T22:03:47Z
+Total score [AUDIT-C]
+http://loinc.org 75626-2
+1 {score}

@@ -1,0 +1,832 @@
+C-CDA R2.1 Patient Record: Florentino8 Ruecker817
+117 Corwin Meadow
+Boston
+Massachusetts
+02113
+Florentino8
+Ruecker817
+https://github.com/synthetichealth/synthea
+https://github.com/synthetichealth/synthea
+WHITLEY WELLNESS LLC
+8 SHIPWAY PL # C-8
+CHARLESTOWN
+MA
+021294301
+WHITLEY WELLNESS LLC
+8 SHIPWAY PL # C-8
+CHARLESTOWN
+MA
+021294301
+Allergies
+There are no current allergies at the time of this document's creation.
+Medications
+Start
+Stop
+Description
+Code
+2017-10-27T17:47:28Z
+2017-11-22T17:47:28Z
+Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 562251
+2018-06-26T18:03:43Z
+2018-07-15T18:03:43Z
+Ibuprofen 100 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 198405
+Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+Ibuprofen 100 MG Oral Tablet
+Diagnostic Results
+Start
+Stop
+Description
+Code
+2019-06-27T17:47:28Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2024-07-25T17:47:28Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2025-07-31T18:11:10Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+Problems
+Start
+Stop
+Description
+Code
+2015-12-17T17:47:28Z
+2016-12-15T17:47:28Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2017-06-15T17:47:28Z
+2017-06-15T17:47:28Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2017-10-27T17:47:28Z
+2017-11-22T17:47:28Z
+Viral sinusitis (disorder)
+http://snomed.info/sct 444814009
+2018-04-19T04:47:28Z
+2018-05-01T11:47:28Z
+Acute viral pharyngitis (disorder)
+http://snomed.info/sct 195662009
+2018-06-21T17:47:28Z
+2018-06-21T17:47:28Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2018-06-26T17:47:28Z
+2018-07-15T18:03:43Z
+Laceration - injury (disorder)
+http://snomed.info/sct 312608009
+2018-06-26T17:47:28Z
+2018-07-15T18:03:43Z
+Laceration of thigh (disorder)
+http://snomed.info/sct 283385000
+2019-06-27T17:47:28Z
+2019-06-27T17:47:28Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2020-07-02T17:47:28Z
+2020-07-02T17:47:28Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2021-07-08T17:47:28Z
+2023-07-20T17:47:28Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2023-07-27T20:29:38Z
+2023-07-27T22:15:02Z
+Gingival disease (disorder)
+http://snomed.info/sct 18718003
+2023-07-27T22:50:45Z
+2023-07-27T23:13:08Z
+Primary dental caries (disorder)
+http://snomed.info/sct 109570002
+2024-07-25T17:47:28Z
+2024-07-25T17:47:28Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2025-07-31T17:47:28Z
+2025-07-31T17:47:28Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+Surgeries
+Start
+Stop
+Description
+Code
+2016-12-15T17:47:28Z
+2016-12-15T18:02:28Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2016-12-15T17:47:28Z
+2016-12-15T17:53:29Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2016-12-22T17:47:28Z
+2016-12-22T18:21:55Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2016-12-22T18:21:55Z
+2016-12-22T19:18:11Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2016-12-22T19:18:11Z
+2016-12-22T19:26:30Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2016-12-22T19:26:30Z
+2016-12-22T19:42:00Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2016-12-22T19:42:00Z
+2016-12-22T20:12:00Z
+Dental plain X-ray bitewing (procedure)
+http://snomed.info/sct 241046008
+2016-12-22T19:42:00Z
+2016-12-22T20:21:42Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2016-12-22T20:21:42Z
+2016-12-22T20:43:10Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2017-06-15T17:47:28Z
+2017-06-15T18:02:28Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2018-04-19T04:47:28Z
+2018-04-19T05:02:28Z
+Throat culture (procedure)
+http://snomed.info/sct 117015009
+2018-06-21T17:47:28Z
+2018-06-21T18:02:28Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2018-06-26T17:47:28Z
+2018-06-26T18:03:43Z
+Suture open wound (procedure)
+http://snomed.info/sct 288086009
+2019-06-27T17:47:28Z
+2019-06-27T18:02:28Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2019-06-27T17:47:28Z
+2019-06-27T17:53:52Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2019-07-04T17:47:28Z
+2019-07-04T18:22:13Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2019-07-04T18:22:13Z
+2019-07-04T18:44:39Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2019-07-04T18:44:39Z
+2019-07-04T19:18:36Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2019-07-04T19:18:36Z
+2019-07-04T20:03:44Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2019-07-04T20:03:44Z
+2019-07-04T20:36:14Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2019-07-04T20:36:14Z
+2019-07-04T20:43:57Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2020-07-02T17:47:28Z
+2020-07-02T18:02:28Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2023-07-20T17:47:28Z
+2023-07-20T18:02:28Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2023-07-20T17:47:28Z
+2023-07-20T18:04:28Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2023-07-27T17:47:28Z
+2023-07-27T18:05:13Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2023-07-27T18:05:13Z
+2023-07-27T18:35:26Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2023-07-27T18:35:26Z
+2023-07-27T19:05:51Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2023-07-27T19:05:51Z
+2023-07-27T19:39:13Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2023-07-27T19:39:13Z
+2023-07-27T20:29:38Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2023-07-27T20:29:38Z
+2023-07-27T20:35:41Z
+Dental surgical procedure (procedure)
+http://snomed.info/sct 81733005
+2023-07-27T20:35:41Z
+2023-07-27T21:34:46Z
+Dental application of desensitizing medicament (procedure)
+http://snomed.info/sct 3802001
+2023-07-27T21:34:46Z
+2023-07-27T22:15:02Z
+Gingivectomy or gingivoplasty, per tooth (procedure)
+http://snomed.info/sct 64544008
+2023-07-27T22:15:02Z
+2023-07-27T22:50:45Z
+Postoperative care for dental procedure (regime/therapy)
+http://snomed.info/sct 456191000124101
+2023-07-27T22:50:45Z
+2023-07-27T23:13:08Z
+Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure)
+http://snomed.info/sct 1259293006
+2023-07-27T23:13:08Z
+2023-07-27T23:27:36Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2024-07-25T17:47:28Z
+2024-07-25T18:02:28Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2025-07-31T17:47:28Z
+2025-07-31T18:02:28Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2025-07-31T17:47:28Z
+2025-07-31T18:11:10Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+2025-07-31T18:11:10Z
+2025-07-31T18:22:01Z
+Assessment of substance use (procedure)
+http://snomed.info/sct 428211000124100
+2025-07-31T18:22:01Z
+2025-07-31T18:36:46Z
+Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+http://snomed.info/sct 868187001
+2025-07-31T18:36:46Z
+2025-07-31T18:43:44Z
+Anticipatory guidance (procedure)
+http://snomed.info/sct 386516004
+Encounters
+Start
+Stop
+Description
+Code
+2015-12-17T17:47:28Z
+2015-12-17T18:02:28Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2016-06-16T17:47:28Z
+2016-06-16T18:02:28Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2016-12-15T17:47:28Z
+2016-12-15T18:02:28Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2016-12-22T17:47:28Z
+2016-12-22T20:43:10Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2017-06-15T17:47:28Z
+2017-06-15T18:02:28Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2017-10-27T17:47:28Z
+2017-10-27T18:02:28Z
+Encounter for symptom (procedure)
+http://snomed.info/sct 185345009
+2018-04-19T04:47:28Z
+2018-04-19T05:02:28Z
+Encounter for symptom (procedure)
+http://snomed.info/sct 185345009
+2018-06-21T17:47:28Z
+2018-06-21T18:02:28Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2018-06-26T17:47:28Z
+2018-06-26T18:47:28Z
+Emergency room admission (procedure)
+http://snomed.info/sct 50849002
+2019-06-27T17:47:28Z
+2019-06-27T18:02:28Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2019-07-04T17:47:28Z
+2019-07-04T20:43:57Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2020-07-02T17:47:28Z
+2020-07-02T18:02:28Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2021-07-08T17:47:28Z
+2021-07-08T18:02:28Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2022-07-14T17:47:28Z
+2022-07-14T18:02:28Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2023-07-20T17:47:28Z
+2023-07-20T18:04:28Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2023-07-27T17:47:28Z
+2023-07-27T23:27:36Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2024-07-25T17:47:28Z
+2024-07-25T18:02:28Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2025-07-31T17:47:28Z
+2025-07-31T18:11:10Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2025-09-11T17:47:28Z
+2025-09-11T18:02:28Z
+Administration of vaccine to produce active immunity (procedure)
+http://snomed.info/sct 33879002
+2025-10-09T17:47:28Z
+2025-10-09T18:02:28Z
+Administration of vaccine to produce active immunity (procedure)
+http://snomed.info/sct 33879002
+Vital Signs
+Start
+Stop
+Description
+Code
+Value
+2016-06-16T17:47:28Z
+Body Height
+http://loinc.org 8302-2
+93.6 cm
+2016-06-16T17:47:28Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+1 {score}
+2016-06-16T17:47:28Z
+Body Weight
+http://loinc.org 29463-7
+14.3 kg
+2016-06-16T17:47:28Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+57.23148554379161 %
+2016-06-16T17:47:28Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+41.69 %
+2016-06-16T17:47:28Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+49.31 cm
+2016-06-16T17:47:28Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+16.35 kg/m2
+2016-06-16T17:47:28Z
+Body mass index (BMI) [Percentile] Per age and sex
+http://loinc.org 59576-9
+60.260497898845024 %
+2016-06-16T17:47:28Z
+Heart rate
+http://loinc.org 8867-4
+86 /min
+2016-06-16T17:47:28Z
+Respiratory rate
+http://loinc.org 9279-1
+13 /min
+2016-12-15T17:47:28Z
+Body Height
+http://loinc.org 8302-2
+97.3 cm
+2016-12-15T17:47:28Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+2 {score}
+2016-12-15T17:47:28Z
+Body Weight
+http://loinc.org 29463-7
+15.7 kg
+2016-12-15T17:47:28Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+64.0587464774371 %
+2016-12-15T17:47:28Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+41.69 %
+2016-12-15T17:47:28Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+49.34 cm
+2016-12-15T17:47:28Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+16.59 kg/m2
+2016-12-15T17:47:28Z
+Body mass index (BMI) [Percentile] Per age and sex
+http://loinc.org 59576-9
+73.86932794850567 %
+2016-12-15T17:47:28Z
+Heart rate
+http://loinc.org 8867-4
+62 /min
+2016-12-15T17:47:28Z
+Respiratory rate
+http://loinc.org 9279-1
+15 /min
+2017-06-15T17:47:28Z
+Body Height
+http://loinc.org 8302-2
+100.8 cm
+2017-06-15T17:47:28Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+1 {score}
+2017-06-15T17:47:28Z
+Body Weight
+http://loinc.org 29463-7
+17.1 kg
+2017-06-15T17:47:28Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+64.0587464774371 %
+2017-06-15T17:47:28Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+41.69 %
+2017-06-15T17:47:28Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+49.34 cm
+2017-06-15T17:47:28Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+16.86 kg/m2
+2017-06-15T17:47:28Z
+Body mass index (BMI) [Percentile] Per age and sex
+http://loinc.org 59576-9
+83.4629353823683 %
+2017-06-15T17:47:28Z
+Heart rate
+http://loinc.org 8867-4
+77 /min
+2017-06-15T17:47:28Z
+Respiratory rate
+http://loinc.org 9279-1
+13 /min
+2018-04-19T04:47:28Z
+Body temperature
+http://loinc.org 8310-5
+37.77436218549276 Cel
+2018-06-21T17:47:28Z
+Body Height
+http://loinc.org 8302-2
+107.3 cm
+2018-06-21T17:47:28Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+1 {score}
+2018-06-21T17:47:28Z
+Body Weight
+http://loinc.org 29463-7
+20.4 kg
+2018-06-21T17:47:28Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+17.72 kg/m2
+2018-06-21T17:47:28Z
+Body mass index (BMI) [Percentile] Per age and sex
+http://loinc.org 59576-9
+93.85422127024626 %
+2018-06-21T17:47:28Z
+Heart rate
+http://loinc.org 8867-4
+65 /min
+2018-06-21T17:47:28Z
+Respiratory rate
+http://loinc.org 9279-1
+14 /min
+2019-06-27T17:47:28Z
+Body Height
+http://loinc.org 8302-2
+113.7 cm
+2019-06-27T17:47:28Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+4 {score}
+2019-06-27T17:47:28Z
+Body Weight
+http://loinc.org 29463-7
+22.9 kg
+2019-06-27T17:47:28Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+17.72 kg/m2
+2019-06-27T17:47:28Z
+Body mass index (BMI) [Percentile] Per age and sex
+http://loinc.org 59576-9
+91.69542019889354 %
+2019-06-27T17:47:28Z
+Heart rate
+http://loinc.org 8867-4
+84 /min
+2019-06-27T17:47:28Z
+Respiratory rate
+http://loinc.org 9279-1
+16 /min
+2020-07-02T17:47:28Z
+Body Height
+http://loinc.org 8302-2
+120 cm
+2020-07-02T17:47:28Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+1 {score}
+2020-07-02T17:47:28Z
+Body Weight
+http://loinc.org 29463-7
+28.6 kg
+2020-07-02T17:47:28Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+19.85 kg/m2
+2020-07-02T17:47:28Z
+Body mass index (BMI) [Percentile] Per age and sex
+http://loinc.org 59576-9
+96.76444582925726 %
+2020-07-02T17:47:28Z
+Heart rate
+http://loinc.org 8867-4
+78 /min
+2020-07-02T17:47:28Z
+Respiratory rate
+http://loinc.org 9279-1
+13 /min
+2021-07-08T17:47:28Z
+Body Height
+http://loinc.org 8302-2
+126 cm
+2021-07-08T17:47:28Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+4 {score}
+2021-07-08T17:47:28Z
+Body Weight
+http://loinc.org 29463-7
+38.4 kg
+2021-07-08T17:47:28Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+24.2 kg/m2
+2021-07-08T17:47:28Z
+Body mass index (BMI) [Percentile] Per age and sex
+http://loinc.org 59576-9
+98.94095516841494 %
+2021-07-08T17:47:28Z
+Heart rate
+http://loinc.org 8867-4
+89 /min
+2021-07-08T17:47:28Z
+Respiratory rate
+http://loinc.org 9279-1
+16 /min
+2022-07-14T17:47:28Z
+Body Height
+http://loinc.org 8302-2
+132 cm
+2022-07-14T17:47:28Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+3 {score}
+2022-07-14T17:47:28Z
+Body Weight
+http://loinc.org 29463-7
+41.9 kg
+2022-07-14T17:47:28Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+24.02 kg/m2
+2022-07-14T17:47:28Z
+Body mass index (BMI) [Percentile] Per age and sex
+http://loinc.org 59576-9
+98.13783677984894 %
+2022-07-14T17:47:28Z
+Heart rate
+http://loinc.org 8867-4
+68 /min
+2022-07-14T17:47:28Z
+Respiratory rate
+http://loinc.org 9279-1
+16 /min
+2023-07-20T17:47:28Z
+Body Height
+http://loinc.org 8302-2
+137 cm
+2023-07-20T17:47:28Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+1 {score}
+2023-07-20T17:47:28Z
+Body Weight
+http://loinc.org 29463-7
+47.1 kg
+2023-07-20T17:47:28Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+25.08 kg/m2
+2023-07-20T17:47:28Z
+Body mass index (BMI) [Percentile] Per age and sex
+http://loinc.org 59576-9
+97.94166499752903 %
+2023-07-20T17:47:28Z
+Heart rate
+http://loinc.org 8867-4
+72 /min
+2023-07-20T17:47:28Z
+Respiratory rate
+http://loinc.org 9279-1
+14 /min
+2024-07-25T17:47:28Z
+Body Height
+http://loinc.org 8302-2
+141.8 cm
+2024-07-25T17:47:28Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+0 {score}
+2024-07-25T17:47:28Z
+Body Weight
+http://loinc.org 29463-7
+45 kg
+2024-07-25T17:47:28Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+22.39 kg/m2
+2024-07-25T17:47:28Z
+Body mass index (BMI) [Percentile] Per age and sex
+http://loinc.org 59576-9
+93.41374529211205 %
+2024-07-25T17:47:28Z
+Heart rate
+http://loinc.org 8867-4
+61 /min
+2024-07-25T17:47:28Z
+Respiratory rate
+http://loinc.org 9279-1
+16 /min
+2025-07-31T17:47:28Z
+Body Height
+http://loinc.org 8302-2
+147.2 cm
+2025-07-31T17:47:28Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+1 {score}
+2025-07-31T17:47:28Z
+Body Weight
+http://loinc.org 29463-7
+53.7 kg
+2025-07-31T17:47:28Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+24.78 kg/m2
+2025-07-31T17:47:28Z
+Body mass index (BMI) [Percentile] Per age and sex
+http://loinc.org 59576-9
+95.75872895999767 %
+2025-07-31T17:47:28Z
+Heart rate
+http://loinc.org 8867-4
+96 /min
+2025-07-31T17:47:28Z
+Respiratory rate
+http://loinc.org 9279-1
+15 /min
+Immunizations
+Start
+Stop
+Description
+Code
+2016-06-16T17:47:28Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2017-06-15T17:47:28Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2018-06-21T17:47:28Z
+varicella
+http://hl7.org/fhir/sid/cvx 21
+2018-06-21T17:47:28Z
+IPV
+http://hl7.org/fhir/sid/cvx 10
+2018-06-21T17:47:28Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2018-06-21T17:47:28Z
+DTaP
+http://hl7.org/fhir/sid/cvx 20
+2018-06-21T17:47:28Z
+MMR
+http://hl7.org/fhir/sid/cvx 03
+2019-06-27T17:47:28Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2020-07-02T17:47:28Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2021-07-08T17:47:28Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2022-07-14T17:47:28Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2023-07-20T17:47:28Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2024-07-25T17:47:28Z
+Tdap
+http://hl7.org/fhir/sid/cvx 115
+2024-07-25T17:47:28Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2024-07-25T17:47:28Z
+HPV, quadrivalent
+http://hl7.org/fhir/sid/cvx 62
+2024-07-25T17:47:28Z
+meningococcal MCV4P
+http://hl7.org/fhir/sid/cvx 114
+2025-07-31T17:47:28Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2025-07-31T17:47:28Z
+HPV, quadrivalent
+http://hl7.org/fhir/sid/cvx 62
+2025-09-11T17:47:28Z
+COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+http://hl7.org/fhir/sid/cvx 207
+2025-10-09T17:47:28Z
+COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+http://hl7.org/fhir/sid/cvx 207
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+varicella
+IPV
+Influenza, split virus, trivalent, PF
+DTaP
+MMR
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Tdap
+Influenza, split virus, trivalent, PF
+HPV, quadrivalent
+meningococcal MCV4P
+Influenza, split virus, trivalent, PF
+HPV, quadrivalent
+COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+Plan of Care
+Start
+Stop
+Description
+Code
+2018-06-26T17:47:28Z
+2018-07-15T18:03:43Z
+Wound care (regime/therapy)
+http://snomed.info/sct 225358003
+Social History
+There is no current social history except smoking status.
+https://github.com/synthetichealth/synthea
+https://github.com/synthetichealth/synthea
+WHITLEY WELLNESS LLC
+8 SHIPWAY PL # C-8
+CHARLESTOWN
+MA
+021294301
+Functional Status
+Start
+Stop
+Description
+Code
+Value
+2025-07-31T18:11:10Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+4 {score}

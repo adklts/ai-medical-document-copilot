@@ -1,0 +1,2208 @@
+C-CDA R2.1 Patient Record: Jacinto644 Torphy630
+317 Cummings Gardens Suite 98
+New Braintree
+Massachusetts
+00000
+Jacinto644
+Torphy630
+https://github.com/synthetichealth/synthea
+https://github.com/synthetichealth/synthea
+WEST BROOKFIELD FAMILY PRACTICE
+46 NORTH MAIN ST
+W BROOKFIELD
+MA
+015853232
+WEST BROOKFIELD FAMILY PRACTICE
+46 NORTH MAIN ST
+W BROOKFIELD
+MA
+015853232
+Allergies and Adverse Reactions
+Start
+Stop
+Description
+Code
+1988-12-05T22:10:00Z
+Allergic disposition (finding)
+http://snomed.info/sct 609328004
+1988-12-05T22:10:00Z
+Latex (substance)
+http://snomed.info/sct 111088007
+1988-12-05T22:10:00Z
+Bee venom (substance)
+http://snomed.info/sct 288328004
+1988-12-05T22:10:00Z
+Mold (organism)
+http://snomed.info/sct 84489001
+1988-12-05T22:10:00Z
+House dust mite (organism)
+http://snomed.info/sct 260147004
+1988-12-05T22:10:00Z
+Animal dander (substance)
+http://snomed.info/sct 264287008
+1988-12-05T22:10:00Z
+Grass pollen (substance)
+http://snomed.info/sct 256277009
+1988-12-05T22:10:00Z
+Tree pollen (substance)
+http://snomed.info/sct 782576004
+1988-12-05T22:10:00Z
+Wheat (substance)
+http://snomed.info/sct 412071004
+Allergic disposition (finding)
+Latex (substance)
+Bee venom (substance)
+Mold (organism)
+House dust mite (organism)
+Animal dander (substance)
+Grass pollen (substance)
+Tree pollen (substance)
+Wheat (substance)
+Medications
+Start
+Stop
+Description
+Code
+1988-12-05T22:40:36Z
+Terfenadine 60 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 141918
+1988-12-05T22:40:36Z
+NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+http://www.nlm.nih.gov/research/umls/rxnorm 1870230
+2013-07-09T19:28:57Z
+ferrous sulfate 325 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 310325
+2015-07-14T18:10:00Z
+2016-07-19T18:10:00Z
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 351266
+2016-07-19T18:10:00Z
+2017-02-21T18:10:00Z
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 351266
+2016-07-26T18:14:00Z
+2016-07-26T18:14:00Z
+tropicamide 5 MG/ML Ophthalmic Solution
+http://www.nlm.nih.gov/research/umls/rxnorm 313521
+2017-02-21T18:10:00Z
+2017-07-25T18:10:00Z
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 351266
+2017-02-28T18:10:00Z
+2017-03-15T18:10:00Z
+Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 562251
+2017-06-21T18:31:30Z
+2017-06-21T18:31:30Z
+tropicamide 5 MG/ML Ophthalmic Solution
+http://www.nlm.nih.gov/research/umls/rxnorm 313521
+2017-07-25T18:10:00Z
+2018-07-31T18:10:00Z
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 351266
+2017-08-09T00:20:41Z
+2017-08-09T00:20:41Z
+sodium fluoride 0.0272 MG/MG Oral Gel
+http://www.nlm.nih.gov/research/umls/rxnorm 1535362
+2018-06-16T18:48:33Z
+2018-06-16T18:48:33Z
+tropicamide 5 MG/ML Ophthalmic Solution
+http://www.nlm.nih.gov/research/umls/rxnorm 313521
+2018-07-31T18:10:00Z
+2019-08-06T18:10:00Z
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 351266
+2018-08-15T00:08:39Z
+2018-08-15T00:08:39Z
+sodium fluoride 0.0272 MG/MG Oral Gel
+http://www.nlm.nih.gov/research/umls/rxnorm 1535362
+2019-06-11T19:06:00Z
+2019-06-11T19:06:00Z
+tropicamide 5 MG/ML Ophthalmic Solution
+http://www.nlm.nih.gov/research/umls/rxnorm 313521
+2019-08-06T18:10:00Z
+2020-08-11T18:10:00Z
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 351266
+2019-08-20T21:21:46Z
+2019-08-20T21:21:46Z
+sodium fluoride 0.0272 MG/MG Oral Gel
+http://www.nlm.nih.gov/research/umls/rxnorm 1535362
+2020-05-06T19:24:49Z
+2020-05-06T19:24:49Z
+tropicamide 5 MG/ML Ophthalmic Solution
+http://www.nlm.nih.gov/research/umls/rxnorm 313521
+2020-08-11T18:10:00Z
+2021-08-17T18:10:00Z
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 351266
+2020-08-25T20:35:46Z
+2020-08-25T20:35:46Z
+sodium fluoride 0.0272 MG/MG Oral Gel
+http://www.nlm.nih.gov/research/umls/rxnorm 1535362
+2021-04-01T19:42:23Z
+2021-04-01T19:42:23Z
+tropicamide 5 MG/ML Ophthalmic Solution
+http://www.nlm.nih.gov/research/umls/rxnorm 313521
+2021-08-17T18:10:00Z
+2022-08-23T18:10:00Z
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 351266
+2022-02-25T20:00:55Z
+2022-02-25T20:00:55Z
+tropicamide 5 MG/ML Ophthalmic Solution
+http://www.nlm.nih.gov/research/umls/rxnorm 313521
+2022-08-23T18:10:00Z
+2023-05-23T18:10:00Z
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 351266
+2022-09-06T20:37:02Z
+2022-09-06T20:37:02Z
+sodium fluoride 0.0272 MG/MG Oral Gel
+http://www.nlm.nih.gov/research/umls/rxnorm 1535362
+2023-01-21T20:18:40Z
+2023-01-21T20:18:40Z
+tropicamide 5 MG/ML Ophthalmic Solution
+http://www.nlm.nih.gov/research/umls/rxnorm 313521
+2023-05-23T18:10:00Z
+2023-08-29T18:10:00Z
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 351266
+2023-08-29T18:10:00Z
+2024-09-03T18:10:00Z
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 351266
+2024-01-16T20:36:58Z
+2024-01-16T20:36:58Z
+tropicamide 5 MG/ML Ophthalmic Solution
+http://www.nlm.nih.gov/research/umls/rxnorm 313521
+2024-09-03T18:10:00Z
+2025-09-09T18:10:00Z
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 351266
+2025-01-10T20:55:07Z
+2025-01-10T20:55:07Z
+tropicamide 5 MG/ML Ophthalmic Solution
+http://www.nlm.nih.gov/research/umls/rxnorm 313521
+2025-09-09T18:10:00Z
+2025-09-23T18:10:00Z
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 351266
+2025-09-14T22:25:37Z
+2025-09-28T22:25:37Z
+Acetaminophen 325 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 313782
+2025-09-23T18:10:00Z
+2025-09-30T18:10:00Z
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 351266
+2025-09-30T18:10:00Z
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 351266
+2026-01-05T21:11:32Z
+2026-01-05T21:11:32Z
+tropicamide 5 MG/ML Ophthalmic Solution
+http://www.nlm.nih.gov/research/umls/rxnorm 313521
+Terfenadine 60 MG Oral Tablet
+NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+ferrous sulfate 325 MG Oral Tablet
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+tropicamide 5 MG/ML Ophthalmic Solution
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+tropicamide 5 MG/ML Ophthalmic Solution
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+sodium fluoride 0.0272 MG/MG Oral Gel
+tropicamide 5 MG/ML Ophthalmic Solution
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+sodium fluoride 0.0272 MG/MG Oral Gel
+tropicamide 5 MG/ML Ophthalmic Solution
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+sodium fluoride 0.0272 MG/MG Oral Gel
+tropicamide 5 MG/ML Ophthalmic Solution
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+sodium fluoride 0.0272 MG/MG Oral Gel
+tropicamide 5 MG/ML Ophthalmic Solution
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+tropicamide 5 MG/ML Ophthalmic Solution
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+sodium fluoride 0.0272 MG/MG Oral Gel
+tropicamide 5 MG/ML Ophthalmic Solution
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+tropicamide 5 MG/ML Ophthalmic Solution
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+tropicamide 5 MG/ML Ophthalmic Solution
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+Acetaminophen 325 MG Oral Tablet
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+tropicamide 5 MG/ML Ophthalmic Solution
+Diagnostic Results
+Start
+Stop
+Description
+Code
+2016-07-19T18:10:00Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2016-07-19T18:10:00Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+2016-07-19T19:15:12Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+2016-07-19T19:50:22Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2017-02-21T18:10:00Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2017-02-21T18:10:00Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+2017-02-21T19:32:55Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2017-07-25T18:10:00Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2017-07-25T18:10:00Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+2017-07-25T19:27:56Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+2017-07-25T20:12:03Z
+Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+http://loinc.org 76499-3
+2017-07-25T20:45:53Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2018-07-31T18:10:00Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2018-07-31T18:10:00Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+2018-07-31T19:38:04Z
+Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+http://loinc.org 76499-3
+2018-07-31T20:14:37Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2019-08-06T18:10:00Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2019-08-06T18:10:00Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+2019-08-06T19:34:28Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2020-08-11T18:10:00Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2020-08-11T18:10:00Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+2020-08-11T18:10:00Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2020-08-11T19:30:42Z
+Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+http://loinc.org 76499-3
+2020-08-11T20:06:40Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2021-01-27T18:20:17Z
+Respiratory pathogens DNA and RNA panel - Respiratory system specimen by NAA with probe detection
+http://loinc.org 92143-7
+2021-01-27T19:38:56Z
+SARS-CoV-2 (COVID-19) RNA panel - Respiratory system specimen by NAA with probe detection
+http://loinc.org 94531-1
+2021-08-17T18:10:00Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2021-08-17T18:10:00Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+2022-02-25T20:14:40Z
+Optical coherence tomography study
+http://loinc.org 87674-8
+2022-08-23T18:10:00Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2022-08-23T18:10:00Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+2022-08-23T19:02:29Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+2022-08-23T19:38:11Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2023-01-21T20:32:58Z
+Optical coherence tomography study
+http://loinc.org 87674-8
+2023-05-23T18:10:00Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2023-05-23T18:10:00Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+2023-05-23T19:03:59Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+2023-05-23T19:38:09Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2023-08-29T18:10:00Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2023-08-29T18:10:00Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+2023-08-29T19:11:39Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+2024-01-16T20:51:07Z
+Optical coherence tomography study
+http://loinc.org 87674-8
+2024-09-03T18:10:00Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2024-09-03T18:10:00Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+2024-09-03T19:28:40Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+2024-09-03T20:02:34Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2025-01-10T21:07:32Z
+Optical coherence tomography study
+http://loinc.org 87674-8
+2025-09-09T18:10:00Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2025-09-09T18:10:00Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+2025-09-09T18:10:00Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2025-09-09T19:25:56Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2025-09-23T18:10:00Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2025-09-23T18:10:00Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+2025-09-23T19:28:35Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+2026-01-05T21:25:34Z
+Optical coherence tomography study
+http://loinc.org 87674-8
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+Problems
+Start
+Stop
+Description
+Code
+1995-11-07T18:10:00Z
+History of appendectomy (situation)
+http://snomed.info/sct 428251008
+2006-06-20T18:56:31Z
+Received higher education (finding)
+http://snomed.info/sct 224299000
+2007-06-26T18:10:00Z
+Prediabetes (finding)
+http://snomed.info/sct 714628002
+2013-07-02T18:10:00Z
+Anemia (disorder)
+http://snomed.info/sct 271737000
+2013-07-02T18:52:09Z
+2017-02-21T18:55:22Z
+Stress (finding)
+http://snomed.info/sct 73595000
+2014-02-06T18:10:00Z
+Chronic pain (finding)
+http://snomed.info/sct 82423001
+2014-02-06T18:10:00Z
+Chronic low back pain (finding)
+http://snomed.info/sct 278860009
+2014-02-06T18:10:00Z
+Chronic neck pain (finding)
+http://snomed.info/sct 1121000119107
+2014-03-28T01:10:00Z
+Opioid abuse
+http://snomed.info/sct 5602001
+2015-07-14T18:10:00Z
+Diabetes mellitus type 2 (disorder)
+http://snomed.info/sct 44054006
+2015-07-14T19:03:36Z
+2016-07-19T18:58:04Z
+Not in labor force (finding)
+http://snomed.info/sct 741062008
+2015-07-14T19:03:36Z
+2016-07-19T18:58:04Z
+Social isolation (finding)
+http://snomed.info/sct 422650009
+2016-07-19T18:10:00Z
+2017-02-21T18:10:00Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2016-07-19T18:10:00Z
+Hypertriglyceridemia (disorder)
+http://snomed.info/sct 302870006
+2016-07-19T18:58:04Z
+2017-02-21T18:55:22Z
+Full-time employment (finding)
+http://snomed.info/sct 160903007
+2017-02-21T18:55:22Z
+2017-07-25T19:02:17Z
+Not in labor force (finding)
+http://snomed.info/sct 741062008
+2017-02-28T18:10:00Z
+2017-03-15T18:10:00Z
+Viral sinusitis (disorder)
+http://snomed.info/sct 444814009
+2017-07-25T18:10:00Z
+2018-07-31T18:10:00Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2017-07-25T19:02:17Z
+2024-09-03T19:05:46Z
+Full-time employment (finding)
+http://snomed.info/sct 160903007
+2017-07-25T19:02:17Z
+2022-08-23T18:44:51Z
+Stress (finding)
+http://snomed.info/sct 73595000
+2017-07-25T20:45:53Z
+2017-08-08T23:47:28Z
+Gingivitis (disorder)
+http://snomed.info/sct 66383009
+2017-08-08T21:26:33Z
+2017-08-08T22:49:46Z
+Gingival disease (disorder)
+http://snomed.info/sct 18718003
+2017-08-08T23:47:28Z
+2017-08-09T00:20:41Z
+Fractured dental filling (finding)
+http://snomed.info/sct 278588009
+2018-07-31T18:10:00Z
+Metabolic syndrome X (disorder)
+http://snomed.info/sct 237602007
+2018-07-31T20:14:37Z
+2018-08-15T00:08:39Z
+Gingivitis (disorder)
+http://snomed.info/sct 66383009
+2018-08-14T20:46:14Z
+2018-08-14T23:04:55Z
+Gingival disease (disorder)
+http://snomed.info/sct 18718003
+2019-08-06T18:10:00Z
+2021-08-17T18:10:00Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2019-08-06T19:34:28Z
+2019-08-20T21:21:46Z
+Gingivitis (disorder)
+http://snomed.info/sct 66383009
+2020-08-11T20:06:40Z
+2020-08-25T20:35:46Z
+Gingivitis (disorder)
+http://snomed.info/sct 66383009
+2021-01-27T18:10:00Z
+2021-01-27T19:38:56Z
+Suspected disease caused by Severe acute respiratory coronavirus 2 (situation)
+http://snomed.info/sct 840544004
+2021-01-27T18:10:00Z
+2021-02-12T18:38:56Z
+Cough (finding)
+http://snomed.info/sct 49727002
+2021-01-27T18:10:00Z
+2021-02-12T18:38:56Z
+Fatigue (finding)
+http://snomed.info/sct 84229001
+2021-01-27T18:10:00Z
+2021-02-12T18:38:56Z
+Fever (finding)
+http://snomed.info/sct 386661006
+2021-01-27T19:38:56Z
+2021-02-12T18:38:56Z
+Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder)
+http://snomed.info/sct 840539006
+2021-04-01T19:56:55Z
+Nonproliferative diabetic retinopathy due to type II diabetes mellitus
+http://snomed.info/sct 1551000119108
+2022-08-23T18:10:00Z
+2022-08-23T18:10:00Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2022-08-23T18:44:51Z
+2023-08-29T18:43:21Z
+Limited social contact (finding)
+http://snomed.info/sct 423315002
+2022-08-23T18:44:51Z
+2023-05-23T18:44:34Z
+Victim of intimate partner abuse (finding)
+http://snomed.info/sct 706893006
+2022-08-23T19:38:11Z
+2022-09-06T20:37:02Z
+Gingivitis (disorder)
+http://snomed.info/sct 66383009
+2023-05-23T18:10:00Z
+2023-05-23T18:10:00Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2023-05-30T18:10:00Z
+2023-06-12T18:10:00Z
+Viral sinusitis (disorder)
+http://snomed.info/sct 444814009
+2023-08-29T18:10:00Z
+2023-08-29T18:10:00Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2023-08-29T18:43:21Z
+2024-09-03T19:05:46Z
+Stress (finding)
+http://snomed.info/sct 73595000
+2023-08-29T19:11:39Z
+2023-09-12T21:30:35Z
+Gingivitis (disorder)
+http://snomed.info/sct 66383009
+2024-09-03T18:10:00Z
+2025-09-30T18:10:00Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2024-09-03T19:05:46Z
+2025-09-09T18:44:59Z
+Unemployed (finding)
+http://snomed.info/sct 73438004
+2025-09-09T18:44:59Z
+Full-time employment (finding)
+http://snomed.info/sct 160903007
+2025-09-14T22:10:00Z
+2025-09-28T22:25:37Z
+Acute bronchitis (disorder)
+http://snomed.info/sct 10509002
+2025-09-23T18:59:43Z
+Social isolation (finding)
+http://snomed.info/sct 422650009
+2025-09-23T18:59:43Z
+Stress (finding)
+http://snomed.info/sct 73595000
+2025-10-07T20:48:42Z
+2025-10-07T21:38:31Z
+Leaking dental filling (finding)
+http://snomed.info/sct 278598003
+Surgeries
+Start
+Stop
+Description
+Code
+2016-07-19T18:10:00Z
+2016-07-19T18:58:04Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2016-07-19T18:58:04Z
+2016-07-19T19:15:12Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+2016-07-19T19:15:12Z
+2016-07-19T19:29:03Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2016-07-19T19:29:03Z
+2016-07-19T19:50:22Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2016-07-19T19:50:22Z
+2016-07-19T19:55:22Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2016-07-26T18:10:00Z
+2016-07-26T18:11:00Z
+Visual acuity testing (procedure)
+http://snomed.info/sct 16830007
+2016-07-26T18:11:00Z
+2016-07-26T18:12:00Z
+Intraocular pressure test (procedure)
+http://snomed.info/sct 252832004
+2016-07-26T18:12:00Z
+2016-07-26T18:14:00Z
+Ocular slit lamp examination (procedure)
+http://snomed.info/sct 55468007
+2016-07-26T18:14:00Z
+2016-07-26T18:24:00Z
+Indirect gonioscopy (procedure)
+http://snomed.info/sct 389153003
+2016-07-26T18:24:00Z
+2016-07-26T18:54:00Z
+Camera fundoscopy (procedure)
+http://snomed.info/sct 314971001
+2016-07-26T18:24:00Z
+2016-07-26T18:27:30Z
+Diabetic retinal eye exam (procedure)
+http://snomed.info/sct 722161008
+2016-08-09T18:10:00Z
+2016-08-09T18:58:06Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2016-08-09T18:58:06Z
+2016-08-09T19:23:00Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2016-08-09T19:23:00Z
+2016-08-09T19:46:01Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2016-08-09T19:46:01Z
+2016-08-09T20:18:45Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2016-08-09T20:18:45Z
+2016-08-09T20:48:45Z
+Dental plain X-ray bitewing (procedure)
+http://snomed.info/sct 241046008
+2016-08-09T20:18:45Z
+2016-08-09T21:02:13Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2016-08-09T21:02:13Z
+2016-08-09T21:16:23Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2017-02-21T18:10:00Z
+2017-02-21T18:25:00Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2017-02-21T18:10:00Z
+2017-02-21T18:55:22Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2017-02-21T18:55:22Z
+2017-02-21T19:07:03Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2017-02-21T19:07:03Z
+2017-02-21T19:32:55Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2017-06-21T18:27:30Z
+2017-06-21T18:28:30Z
+Visual acuity testing (procedure)
+http://snomed.info/sct 16830007
+2017-06-21T18:28:30Z
+2017-06-21T18:29:30Z
+Intraocular pressure test (procedure)
+http://snomed.info/sct 252832004
+2017-06-21T18:29:30Z
+2017-06-21T18:31:30Z
+Ocular slit lamp examination (procedure)
+http://snomed.info/sct 55468007
+2017-06-21T18:31:30Z
+2017-06-21T18:41:30Z
+Indirect gonioscopy (procedure)
+http://snomed.info/sct 389153003
+2017-06-21T18:41:30Z
+2017-06-21T19:11:30Z
+Camera fundoscopy (procedure)
+http://snomed.info/sct 314971001
+2017-06-21T18:41:30Z
+2017-06-21T18:44:33Z
+Diabetic retinal eye exam (procedure)
+http://snomed.info/sct 722161008
+2017-07-25T18:10:00Z
+2017-07-25T19:02:17Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2017-07-25T19:02:17Z
+2017-07-25T19:27:56Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+2017-07-25T19:27:56Z
+2017-07-25T20:12:03Z
+Screening for domestic abuse (procedure)
+http://snomed.info/sct 866148006
+2017-07-25T20:12:03Z
+2017-07-25T20:25:53Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2017-07-25T20:25:53Z
+2017-07-25T20:45:53Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2017-07-25T20:45:53Z
+2017-07-25T21:02:54Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2017-08-08T18:10:00Z
+2017-08-08T18:46:20Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2017-08-08T18:46:20Z
+2017-08-08T19:24:18Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2017-08-08T19:24:18Z
+2017-08-08T20:08:28Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2017-08-08T20:08:28Z
+2017-08-08T20:42:51Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2017-08-08T20:42:51Z
+2017-08-08T21:12:51Z
+Dental plain X-ray bitewing (procedure)
+http://snomed.info/sct 241046008
+2017-08-08T20:42:51Z
+2017-08-08T21:26:33Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2017-08-08T21:26:33Z
+2017-08-08T21:33:01Z
+Dental surgical procedure (procedure)
+http://snomed.info/sct 81733005
+2017-08-08T21:33:01Z
+2017-08-08T22:34:44Z
+Dental application of desensitizing medicament (procedure)
+http://snomed.info/sct 3802001
+2017-08-08T22:34:44Z
+2017-08-08T22:49:46Z
+Gingivectomy or gingivoplasty, per tooth (procedure)
+http://snomed.info/sct 64544008
+2017-08-08T22:49:46Z
+2017-08-08T23:47:28Z
+Postoperative care for dental procedure (regime/therapy)
+http://snomed.info/sct 456191000124101
+2017-08-08T23:47:28Z
+2017-08-09T00:20:41Z
+Restoration of tooth with coverage of all cusps using dental filling material (procedure)
+http://snomed.info/sct 1256042007
+2017-08-09T00:20:41Z
+2017-08-09T00:56:50Z
+Dental fluoride treatment (procedure)
+http://snomed.info/sct 68071007
+2017-08-09T00:56:50Z
+2017-08-09T01:12:47Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2018-06-16T18:44:33Z
+2018-06-16T18:45:33Z
+Visual acuity testing (procedure)
+http://snomed.info/sct 16830007
+2018-06-16T18:45:33Z
+2018-06-16T18:46:33Z
+Intraocular pressure test (procedure)
+http://snomed.info/sct 252832004
+2018-06-16T18:46:33Z
+2018-06-16T18:48:33Z
+Ocular slit lamp examination (procedure)
+http://snomed.info/sct 55468007
+2018-06-16T18:48:33Z
+2018-06-16T18:58:33Z
+Indirect gonioscopy (procedure)
+http://snomed.info/sct 389153003
+2018-06-16T18:58:33Z
+2018-06-16T19:28:33Z
+Camera fundoscopy (procedure)
+http://snomed.info/sct 314971001
+2018-06-16T18:58:33Z
+2018-06-16T19:02:00Z
+Diabetic retinal eye exam (procedure)
+http://snomed.info/sct 722161008
+2018-07-31T18:10:00Z
+2018-07-31T18:25:00Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2018-07-31T18:10:00Z
+2018-07-31T19:09:07Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2018-07-31T19:09:07Z
+2018-07-31T19:38:04Z
+Screening for domestic abuse (procedure)
+http://snomed.info/sct 866148006
+2018-07-31T19:38:04Z
+2018-07-31T19:48:37Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2018-07-31T19:48:37Z
+2018-07-31T20:14:37Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2018-07-31T20:14:37Z
+2018-07-31T20:19:37Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2018-08-14T18:10:00Z
+2018-08-14T18:35:52Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2018-08-14T18:35:52Z
+2018-08-14T19:05:40Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2018-08-14T19:05:40Z
+2018-08-14T19:42:20Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2018-08-14T19:42:20Z
+2018-08-14T20:07:42Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2018-08-14T20:07:42Z
+2018-08-14T20:46:14Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2018-08-14T20:46:14Z
+2018-08-14T20:56:18Z
+Dental surgical procedure (procedure)
+http://snomed.info/sct 81733005
+2018-08-14T20:56:18Z
+2018-08-14T21:55:08Z
+Dental application of desensitizing medicament (procedure)
+http://snomed.info/sct 3802001
+2018-08-14T21:55:08Z
+2018-08-14T23:04:55Z
+Gingivectomy or gingivoplasty, per tooth (procedure)
+http://snomed.info/sct 64544008
+2018-08-14T23:04:55Z
+2018-08-15T00:08:39Z
+Postoperative care for dental procedure (regime/therapy)
+http://snomed.info/sct 456191000124101
+2018-08-15T00:08:39Z
+2018-08-15T00:40:11Z
+Dental fluoride treatment (procedure)
+http://snomed.info/sct 68071007
+2018-08-15T00:40:11Z
+2018-08-15T00:57:02Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2019-06-11T19:02:00Z
+2019-06-11T19:03:00Z
+Visual acuity testing (procedure)
+http://snomed.info/sct 16830007
+2019-06-11T19:03:00Z
+2019-06-11T19:04:00Z
+Intraocular pressure test (procedure)
+http://snomed.info/sct 252832004
+2019-06-11T19:04:00Z
+2019-06-11T19:06:00Z
+Ocular slit lamp examination (procedure)
+http://snomed.info/sct 55468007
+2019-06-11T19:06:00Z
+2019-06-11T19:16:00Z
+Indirect gonioscopy (procedure)
+http://snomed.info/sct 389153003
+2019-06-11T19:16:00Z
+2019-06-11T19:46:00Z
+Camera fundoscopy (procedure)
+http://snomed.info/sct 314971001
+2019-06-11T19:16:00Z
+2019-06-11T19:20:49Z
+Diabetic retinal eye exam (procedure)
+http://snomed.info/sct 722161008
+2019-08-06T18:10:00Z
+2019-08-06T18:54:34Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2019-08-06T18:54:34Z
+2019-08-06T19:09:12Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2019-08-06T19:09:12Z
+2019-08-06T19:34:28Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2019-08-06T19:34:28Z
+2019-08-06T19:44:57Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2019-08-20T18:10:00Z
+2019-08-20T18:38:52Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2019-08-20T18:38:52Z
+2019-08-20T19:35:26Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2019-08-20T19:35:26Z
+2019-08-20T20:13:30Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2019-08-20T20:13:30Z
+2019-08-20T20:50:55Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2019-08-20T20:50:55Z
+2019-08-20T21:21:46Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2019-08-20T21:21:46Z
+2019-08-20T21:59:10Z
+Dental fluoride treatment (procedure)
+http://snomed.info/sct 68071007
+2019-08-20T21:59:10Z
+2019-08-20T22:12:47Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2020-05-06T19:20:49Z
+2020-05-06T19:21:49Z
+Visual acuity testing (procedure)
+http://snomed.info/sct 16830007
+2020-05-06T19:21:49Z
+2020-05-06T19:22:49Z
+Intraocular pressure test (procedure)
+http://snomed.info/sct 252832004
+2020-05-06T19:22:49Z
+2020-05-06T19:24:49Z
+Ocular slit lamp examination (procedure)
+http://snomed.info/sct 55468007
+2020-05-06T19:24:49Z
+2020-05-06T19:34:49Z
+Indirect gonioscopy (procedure)
+http://snomed.info/sct 389153003
+2020-05-06T19:34:49Z
+2020-05-06T20:04:49Z
+Camera fundoscopy (procedure)
+http://snomed.info/sct 314971001
+2020-05-06T19:34:49Z
+2020-05-06T19:38:23Z
+Diabetic retinal eye exam (procedure)
+http://snomed.info/sct 722161008
+2020-08-11T18:10:00Z
+2020-08-11T19:03:44Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2020-08-11T19:03:44Z
+2020-08-11T19:30:42Z
+Screening for domestic abuse (procedure)
+http://snomed.info/sct 866148006
+2020-08-11T19:30:42Z
+2020-08-11T19:44:35Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2020-08-11T19:44:35Z
+2020-08-11T20:06:40Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2020-08-11T20:06:40Z
+2020-08-11T20:23:21Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2020-08-25T18:10:00Z
+2020-08-25T18:41:54Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2020-08-25T18:41:54Z
+2020-08-25T18:59:22Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2020-08-25T18:59:22Z
+2020-08-25T19:28:58Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2020-08-25T19:28:58Z
+2020-08-25T19:46:56Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2020-08-25T19:46:56Z
+2020-08-25T20:16:56Z
+Dental plain X-ray bitewing (procedure)
+http://snomed.info/sct 241046008
+2020-08-25T19:46:56Z
+2020-08-25T20:35:46Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2020-08-25T20:35:46Z
+2020-08-25T21:02:15Z
+Dental fluoride treatment (procedure)
+http://snomed.info/sct 68071007
+2020-08-25T21:02:15Z
+2020-08-25T21:20:10Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2021-01-27T18:10:00Z
+2021-01-27T18:20:17Z
+Face mask (physical object)
+http://snomed.info/sct 261352009
+2021-04-01T19:38:23Z
+2021-04-01T19:39:23Z
+Visual acuity testing (procedure)
+http://snomed.info/sct 16830007
+2021-04-01T19:39:23Z
+2021-04-01T19:40:23Z
+Intraocular pressure test (procedure)
+http://snomed.info/sct 252832004
+2021-04-01T19:40:23Z
+2021-04-01T19:42:23Z
+Ocular slit lamp examination (procedure)
+http://snomed.info/sct 55468007
+2021-04-01T19:42:23Z
+2021-04-01T19:52:23Z
+Indirect gonioscopy (procedure)
+http://snomed.info/sct 389153003
+2021-04-01T19:52:23Z
+2021-04-01T20:22:23Z
+Camera fundoscopy (procedure)
+http://snomed.info/sct 314971001
+2021-04-01T19:52:23Z
+2021-04-01T19:56:55Z
+Diabetic retinal eye exam (procedure)
+http://snomed.info/sct 722161008
+2021-08-17T18:10:00Z
+2021-08-17T18:25:00Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2021-08-17T18:10:00Z
+2021-08-17T18:48:45Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2022-02-25T19:56:55Z
+2022-02-25T19:57:55Z
+Visual acuity testing (procedure)
+http://snomed.info/sct 16830007
+2022-02-25T19:57:55Z
+2022-02-25T19:58:55Z
+Intraocular pressure test (procedure)
+http://snomed.info/sct 252832004
+2022-02-25T19:58:55Z
+2022-02-25T20:00:55Z
+Ocular slit lamp examination (procedure)
+http://snomed.info/sct 55468007
+2022-02-25T20:00:55Z
+2022-02-25T20:10:55Z
+Indirect gonioscopy (procedure)
+http://snomed.info/sct 389153003
+2022-02-25T20:10:55Z
+2022-02-25T20:40:55Z
+Camera fundoscopy (procedure)
+http://snomed.info/sct 314971001
+2022-02-25T20:10:55Z
+2022-02-25T20:14:40Z
+Diabetic retinal eye exam (procedure)
+http://snomed.info/sct 722161008
+2022-02-25T20:14:40Z
+2022-02-25T20:44:40Z
+Optical coherence tomography of retina (procedure)
+http://snomed.info/sct 700070005
+2022-08-23T18:10:00Z
+2022-08-23T18:25:00Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2022-08-23T18:10:00Z
+2022-08-23T18:44:51Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2022-08-23T18:44:51Z
+2022-08-23T19:02:29Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+2022-08-23T19:02:29Z
+2022-08-23T19:16:48Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2022-08-23T19:16:48Z
+2022-08-23T19:38:11Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2022-08-23T19:38:11Z
+2022-08-23T19:44:55Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2022-09-06T18:10:00Z
+2022-09-06T18:49:31Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2022-09-06T18:49:31Z
+2022-09-06T19:23:40Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2022-09-06T19:23:40Z
+2022-09-06T19:39:55Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2022-09-06T19:39:55Z
+2022-09-06T20:05:34Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2022-09-06T20:05:34Z
+2022-09-06T20:37:02Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2022-09-06T20:37:02Z
+2022-09-06T20:56:33Z
+Dental fluoride treatment (procedure)
+http://snomed.info/sct 68071007
+2022-09-06T20:56:33Z
+2022-09-06T21:07:23Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2023-01-21T20:14:40Z
+2023-01-21T20:15:40Z
+Visual acuity testing (procedure)
+http://snomed.info/sct 16830007
+2023-01-21T20:15:40Z
+2023-01-21T20:16:40Z
+Intraocular pressure test (procedure)
+http://snomed.info/sct 252832004
+2023-01-21T20:16:40Z
+2023-01-21T20:18:40Z
+Ocular slit lamp examination (procedure)
+http://snomed.info/sct 55468007
+2023-01-21T20:18:40Z
+2023-01-21T20:28:40Z
+Indirect gonioscopy (procedure)
+http://snomed.info/sct 389153003
+2023-01-21T20:28:40Z
+2023-01-21T20:58:40Z
+Camera fundoscopy (procedure)
+http://snomed.info/sct 314971001
+2023-01-21T20:28:40Z
+2023-01-21T20:32:58Z
+Diabetic retinal eye exam (procedure)
+http://snomed.info/sct 722161008
+2023-01-21T20:32:58Z
+2023-01-21T21:02:58Z
+Optical coherence tomography of retina (procedure)
+http://snomed.info/sct 700070005
+2023-05-23T18:10:00Z
+2023-05-23T18:25:00Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2023-05-23T18:10:00Z
+2023-05-23T18:44:34Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2023-05-23T18:44:34Z
+2023-05-23T19:03:59Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+2023-05-23T19:03:59Z
+2023-05-23T19:14:41Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2023-05-23T19:14:41Z
+2023-05-23T19:38:09Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2023-08-29T18:10:00Z
+2023-08-29T18:25:00Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2023-08-29T18:10:00Z
+2023-08-29T18:43:21Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2023-08-29T18:43:21Z
+2023-08-29T19:11:39Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+2023-08-29T19:11:39Z
+2023-08-29T19:25:40Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2023-09-12T18:10:00Z
+2023-09-12T18:59:55Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2023-09-12T18:59:55Z
+2023-09-12T19:34:57Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2023-09-12T19:34:57Z
+2023-09-12T20:17:16Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2023-09-12T20:17:16Z
+2023-09-12T20:49:25Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2023-09-12T20:49:25Z
+2023-09-12T21:30:35Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2023-09-12T21:30:35Z
+2023-09-12T21:49:49Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2024-01-16T20:32:58Z
+2024-01-16T20:33:58Z
+Visual acuity testing (procedure)
+http://snomed.info/sct 16830007
+2024-01-16T20:33:58Z
+2024-01-16T20:34:58Z
+Intraocular pressure test (procedure)
+http://snomed.info/sct 252832004
+2024-01-16T20:34:58Z
+2024-01-16T20:36:58Z
+Ocular slit lamp examination (procedure)
+http://snomed.info/sct 55468007
+2024-01-16T20:36:58Z
+2024-01-16T20:46:58Z
+Indirect gonioscopy (procedure)
+http://snomed.info/sct 389153003
+2024-01-16T20:46:58Z
+2024-01-16T21:16:58Z
+Camera fundoscopy (procedure)
+http://snomed.info/sct 314971001
+2024-01-16T20:46:58Z
+2024-01-16T20:51:07Z
+Diabetic retinal eye exam (procedure)
+http://snomed.info/sct 722161008
+2024-01-16T20:51:07Z
+2024-01-16T21:21:07Z
+Optical coherence tomography of retina (procedure)
+http://snomed.info/sct 700070005
+2024-09-03T18:10:00Z
+2024-09-03T19:05:46Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2024-09-03T19:05:46Z
+2024-09-03T19:28:40Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+2024-09-03T19:28:40Z
+2024-09-03T19:40:25Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2024-09-03T19:40:25Z
+2024-09-03T20:02:34Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2025-01-10T20:51:07Z
+2025-01-10T20:52:07Z
+Visual acuity testing (procedure)
+http://snomed.info/sct 16830007
+2025-01-10T20:52:07Z
+2025-01-10T20:53:07Z
+Intraocular pressure test (procedure)
+http://snomed.info/sct 252832004
+2025-01-10T20:53:07Z
+2025-01-10T20:55:07Z
+Ocular slit lamp examination (procedure)
+http://snomed.info/sct 55468007
+2025-01-10T20:55:07Z
+2025-01-10T21:05:07Z
+Indirect gonioscopy (procedure)
+http://snomed.info/sct 389153003
+2025-01-10T21:05:07Z
+2025-01-10T21:35:07Z
+Camera fundoscopy (procedure)
+http://snomed.info/sct 314971001
+2025-01-10T21:05:07Z
+2025-01-10T21:07:32Z
+Diabetic retinal eye exam (procedure)
+http://snomed.info/sct 722161008
+2025-01-10T21:07:32Z
+2025-01-10T21:37:32Z
+Optical coherence tomography of retina (procedure)
+http://snomed.info/sct 700070005
+2025-09-09T18:10:00Z
+2025-09-09T18:44:59Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2025-09-09T18:44:59Z
+2025-09-09T18:57:34Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2025-09-09T18:57:34Z
+2025-09-09T19:25:56Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2025-09-14T22:10:00Z
+2025-09-14T22:25:37Z
+Measurement of respiratory function (procedure)
+http://snomed.info/sct 23426006
+2025-09-23T18:10:00Z
+2025-09-23T18:59:43Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2025-09-23T18:59:43Z
+2025-09-23T19:28:35Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+2025-09-23T19:28:35Z
+2025-09-23T19:39:35Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2025-09-30T18:10:00Z
+2025-09-30T18:25:00Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2025-10-07T18:10:00Z
+2025-10-07T18:38:20Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2025-10-07T18:38:20Z
+2025-10-07T19:01:02Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2025-10-07T19:01:02Z
+2025-10-07T19:35:16Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2025-10-07T19:35:16Z
+2025-10-07T20:17:34Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2025-10-07T20:17:34Z
+2025-10-07T20:47:34Z
+Dental plain X-ray bitewing (procedure)
+http://snomed.info/sct 241046008
+2025-10-07T20:17:34Z
+2025-10-07T20:48:42Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2025-10-07T20:48:42Z
+2025-10-07T21:38:31Z
+Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure)
+http://snomed.info/sct 1259293006
+2025-10-07T21:38:31Z
+2025-10-07T21:54:35Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2026-01-05T21:07:32Z
+2026-01-05T21:08:32Z
+Visual acuity testing (procedure)
+http://snomed.info/sct 16830007
+2026-01-05T21:08:32Z
+2026-01-05T21:09:32Z
+Intraocular pressure test (procedure)
+http://snomed.info/sct 252832004
+2026-01-05T21:09:32Z
+2026-01-05T21:11:32Z
+Ocular slit lamp examination (procedure)
+http://snomed.info/sct 55468007
+2026-01-05T21:11:32Z
+2026-01-05T21:21:32Z
+Indirect gonioscopy (procedure)
+http://snomed.info/sct 389153003
+2026-01-05T21:21:32Z
+2026-01-05T21:51:32Z
+Camera fundoscopy (procedure)
+http://snomed.info/sct 314971001
+2026-01-05T21:21:32Z
+2026-01-05T21:25:34Z
+Diabetic retinal eye exam (procedure)
+http://snomed.info/sct 722161008
+2026-01-05T21:25:34Z
+2026-01-05T21:55:34Z
+Optical coherence tomography of retina (procedure)
+http://snomed.info/sct 700070005
+Encounters
+Start
+Stop
+Description
+Code
+1988-11-22T05:10:00Z
+1988-11-22T05:25:00Z
+Encounter for problem (procedure)
+http://snomed.info/sct 185347001
+1988-12-05T22:10:00Z
+1988-12-05T22:40:36Z
+Encounter for problem (procedure)
+http://snomed.info/sct 185347001
+1995-11-07T18:10:00Z
+1995-11-12T17:00:43Z
+Encounter for problem (procedure)
+http://snomed.info/sct 185347001
+2006-06-20T18:10:00Z
+2006-06-20T18:56:31Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2007-06-26T18:10:00Z
+2007-06-26T18:41:59Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2013-07-02T18:10:00Z
+2013-07-02T18:52:09Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2013-07-09T18:10:00Z
+2013-07-09T19:28:57Z
+Encounter for problem (procedure)
+http://snomed.info/sct 185347001
+2014-02-06T18:10:00Z
+2014-02-06T18:25:00Z
+Encounter for problem (procedure)
+http://snomed.info/sct 185347001
+2014-03-28T01:10:00Z
+2014-03-28T02:09:47Z
+Encounter for problem (procedure)
+http://snomed.info/sct 185347001
+2015-07-14T18:10:00Z
+2015-07-14T19:03:36Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2016-07-19T18:10:00Z
+2016-07-19T18:58:04Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2016-07-26T18:10:00Z
+2016-07-26T18:54:00Z
+Ophthalmic examination and evaluation (procedure)
+http://snomed.info/sct 36228007
+2016-08-09T18:10:00Z
+2016-08-09T21:16:23Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2017-02-21T18:10:00Z
+2017-02-21T18:55:22Z
+Urgent care clinic (environment)
+http://snomed.info/sct 702927004
+2017-02-28T18:10:00Z
+2017-02-28T18:25:00Z
+Encounter for symptom (procedure)
+http://snomed.info/sct 185345009
+2017-06-21T18:27:30Z
+2017-06-21T19:11:30Z
+Ophthalmic examination and evaluation (procedure)
+http://snomed.info/sct 36228007
+2017-07-25T18:10:00Z
+2017-07-25T19:02:17Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2017-08-08T18:10:00Z
+2017-08-09T01:12:47Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2018-06-16T18:44:33Z
+2018-06-16T19:28:33Z
+Ophthalmic examination and evaluation (procedure)
+http://snomed.info/sct 36228007
+2018-07-31T18:10:00Z
+2018-07-31T19:09:07Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2018-08-14T18:10:00Z
+2018-08-15T00:57:02Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2019-06-11T19:02:00Z
+2019-06-11T19:46:00Z
+Ophthalmic examination and evaluation (procedure)
+http://snomed.info/sct 36228007
+2019-08-06T18:10:00Z
+2019-08-06T18:54:34Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2019-08-20T18:10:00Z
+2019-08-20T22:12:47Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2020-05-06T19:20:49Z
+2020-05-06T20:04:49Z
+Ophthalmic examination and evaluation (procedure)
+http://snomed.info/sct 36228007
+2020-08-11T18:10:00Z
+2020-08-11T19:03:44Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2020-08-25T18:10:00Z
+2020-08-25T21:20:10Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2021-01-27T18:10:00Z
+2021-01-27T19:38:56Z
+Encounter for symptom (procedure)
+http://snomed.info/sct 185345009
+2021-04-01T19:38:23Z
+2021-04-01T20:22:23Z
+Ophthalmic examination and evaluation (procedure)
+http://snomed.info/sct 36228007
+2021-08-17T18:10:00Z
+2021-08-17T18:48:45Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2022-02-25T19:56:55Z
+2022-02-25T20:44:40Z
+Ophthalmic examination and evaluation (procedure)
+http://snomed.info/sct 36228007
+2022-08-23T18:10:00Z
+2022-08-23T18:44:51Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2022-09-06T18:10:00Z
+2022-09-06T21:07:23Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2023-01-21T20:14:40Z
+2023-01-21T21:02:58Z
+Ophthalmic examination and evaluation (procedure)
+http://snomed.info/sct 36228007
+2023-05-23T18:10:00Z
+2023-05-23T18:44:34Z
+Urgent care clinic (environment)
+http://snomed.info/sct 702927004
+2023-05-30T18:10:00Z
+2023-05-30T18:25:00Z
+Encounter for symptom (procedure)
+http://snomed.info/sct 185345009
+2023-08-29T18:10:00Z
+2023-08-29T18:43:21Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2023-09-12T18:10:00Z
+2023-09-12T21:49:49Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2024-01-16T20:32:58Z
+2024-01-16T21:21:07Z
+Ophthalmic examination and evaluation (procedure)
+http://snomed.info/sct 36228007
+2024-09-03T18:10:00Z
+2024-09-03T19:05:46Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2025-01-10T20:51:07Z
+2025-01-10T21:37:32Z
+Ophthalmic examination and evaluation (procedure)
+http://snomed.info/sct 36228007
+2025-09-09T18:10:00Z
+2025-09-09T18:44:59Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2025-09-14T22:10:00Z
+2025-09-14T22:25:37Z
+Encounter for symptom (procedure)
+http://snomed.info/sct 185345009
+2025-09-23T18:10:00Z
+2025-09-23T19:10:00Z
+Emergency room admission (procedure)
+http://snomed.info/sct 50849002
+2025-09-30T18:10:00Z
+2025-09-30T18:25:00Z
+Urgent care clinic (environment)
+http://snomed.info/sct 702927004
+2025-10-07T18:10:00Z
+2025-10-07T21:54:35Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2026-01-05T21:07:32Z
+2026-01-05T21:55:34Z
+Ophthalmic examination and evaluation (procedure)
+http://snomed.info/sct 36228007
+Vital Signs
+Start
+Stop
+Description
+Code
+Value
+2016-07-19T18:10:00Z
+Body Height
+http://loinc.org 8302-2
+188.5 cm
+2016-07-19T18:10:00Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+0 {score}
+2016-07-19T18:10:00Z
+Body Weight
+http://loinc.org 29463-7
+93.2 kg
+2016-07-19T18:10:00Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+26.23 kg/m2
+2016-07-19T18:10:00Z
+Heart rate
+http://loinc.org 8867-4
+66 /min
+2016-07-19T18:10:00Z
+Respiratory rate
+http://loinc.org 9279-1
+13 /min
+2016-07-26T18:12:00Z
+Left eye Intraocular pressure
+http://loinc.org 79893-4
+18 mm[Hg]
+2016-07-26T18:12:00Z
+Right eye Intraocular pressure
+http://loinc.org 79892-6
+18 mm[Hg]
+2017-02-21T18:10:00Z
+Body Height
+http://loinc.org 8302-2
+188.5 cm
+2017-02-21T18:10:00Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+2 {score}
+2017-02-21T18:10:00Z
+Body Weight
+http://loinc.org 29463-7
+93.2 kg
+2017-02-21T18:10:00Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+26.23 kg/m2
+2017-02-21T18:10:00Z
+Heart rate
+http://loinc.org 8867-4
+73 /min
+2017-02-21T18:10:00Z
+Respiratory rate
+http://loinc.org 9279-1
+15 /min
+2017-06-21T18:29:30Z
+Left eye Intraocular pressure
+http://loinc.org 79893-4
+15 mm[Hg]
+2017-06-21T18:29:30Z
+Right eye Intraocular pressure
+http://loinc.org 79892-6
+15 mm[Hg]
+2017-07-25T18:10:00Z
+Body Height
+http://loinc.org 8302-2
+188.5 cm
+2017-07-25T18:10:00Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+0 {score}
+2017-07-25T18:10:00Z
+Body Weight
+http://loinc.org 29463-7
+95 kg
+2017-07-25T18:10:00Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+26.73 kg/m2
+2017-07-25T18:10:00Z
+Heart rate
+http://loinc.org 8867-4
+61 /min
+2017-07-25T18:10:00Z
+Respiratory rate
+http://loinc.org 9279-1
+15 /min
+2018-06-16T18:46:33Z
+Left eye Intraocular pressure
+http://loinc.org 79893-4
+17 mm[Hg]
+2018-06-16T18:46:33Z
+Right eye Intraocular pressure
+http://loinc.org 79892-6
+17 mm[Hg]
+2018-07-31T18:10:00Z
+Body Height
+http://loinc.org 8302-2
+188.5 cm
+2018-07-31T18:10:00Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+0 {score}
+2018-07-31T18:10:00Z
+Body Weight
+http://loinc.org 29463-7
+96.7 kg
+2018-07-31T18:10:00Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+27.23 kg/m2
+2018-07-31T18:10:00Z
+Heart rate
+http://loinc.org 8867-4
+96 /min
+2018-07-31T18:10:00Z
+Respiratory rate
+http://loinc.org 9279-1
+14 /min
+2019-06-11T19:04:00Z
+Left eye Intraocular pressure
+http://loinc.org 79893-4
+17 mm[Hg]
+2019-06-11T19:04:00Z
+Right eye Intraocular pressure
+http://loinc.org 79892-6
+17 mm[Hg]
+2019-08-06T18:10:00Z
+Body Height
+http://loinc.org 8302-2
+188.5 cm
+2019-08-06T18:10:00Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+3 {score}
+2019-08-06T18:10:00Z
+Body Weight
+http://loinc.org 29463-7
+98.3 kg
+2019-08-06T18:10:00Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+27.66 kg/m2
+2019-08-06T18:10:00Z
+Heart rate
+http://loinc.org 8867-4
+78 /min
+2019-08-06T18:10:00Z
+Respiratory rate
+http://loinc.org 9279-1
+13 /min
+2020-05-06T19:22:49Z
+Left eye Intraocular pressure
+http://loinc.org 79893-4
+15 mm[Hg]
+2020-05-06T19:22:49Z
+Right eye Intraocular pressure
+http://loinc.org 79892-6
+15 mm[Hg]
+2020-08-11T18:10:00Z
+Body Height
+http://loinc.org 8302-2
+188.5 cm
+2020-08-11T18:10:00Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+1 {score}
+2020-08-11T18:10:00Z
+Body Weight
+http://loinc.org 29463-7
+99.9 kg
+2020-08-11T18:10:00Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+28.12 kg/m2
+2020-08-11T18:10:00Z
+Heart rate
+http://loinc.org 8867-4
+100 /min
+2020-08-11T18:10:00Z
+Respiratory rate
+http://loinc.org 9279-1
+12 /min
+2021-01-27T18:10:00Z
+Body temperature
+http://loinc.org 8310-5
+39.91192909378402 Cel
+2021-01-27T18:10:00Z
+Respiratory rate
+http://loinc.org 9279-1
+18.818914169063277 /min
+2021-01-27T18:10:00Z
+Heart rate
+http://loinc.org 8867-4
+174.99943485137086 /min
+2021-01-27T18:10:00Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+83.85 %
+2021-01-27T18:10:00Z
+Body Weight
+http://loinc.org 29463-7
+99.9 kg
+2021-04-01T19:40:23Z
+Left eye Intraocular pressure
+http://loinc.org 79893-4
+15 mm[Hg]
+2021-04-01T19:40:23Z
+Right eye Intraocular pressure
+http://loinc.org 79892-6
+15 mm[Hg]
+2021-08-17T18:10:00Z
+Body Height
+http://loinc.org 8302-2
+188.5 cm
+2021-08-17T18:10:00Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+0 {score}
+2021-08-17T18:10:00Z
+Body Weight
+http://loinc.org 29463-7
+101.1 kg
+2021-08-17T18:10:00Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+28.45 kg/m2
+2021-08-17T18:10:00Z
+Heart rate
+http://loinc.org 8867-4
+93 /min
+2021-08-17T18:10:00Z
+Respiratory rate
+http://loinc.org 9279-1
+14 /min
+2022-02-25T19:58:55Z
+Left eye Intraocular pressure
+http://loinc.org 79893-4
+14 mm[Hg]
+2022-02-25T19:58:55Z
+Right eye Intraocular pressure
+http://loinc.org 79892-6
+14 mm[Hg]
+2022-08-23T18:10:00Z
+Body Height
+http://loinc.org 8302-2
+188.5 cm
+2022-08-23T18:10:00Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+0 {score}
+2022-08-23T18:10:00Z
+Body Weight
+http://loinc.org 29463-7
+102.2 kg
+2022-08-23T18:10:00Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+28.76 kg/m2
+2022-08-23T18:10:00Z
+Heart rate
+http://loinc.org 8867-4
+96 /min
+2022-08-23T18:10:00Z
+Respiratory rate
+http://loinc.org 9279-1
+15 /min
+2023-01-21T20:16:40Z
+Left eye Intraocular pressure
+http://loinc.org 79893-4
+15 mm[Hg]
+2023-01-21T20:16:40Z
+Right eye Intraocular pressure
+http://loinc.org 79892-6
+15 mm[Hg]
+2023-05-23T18:10:00Z
+Body Height
+http://loinc.org 8302-2
+188.5 cm
+2023-05-23T18:10:00Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+0 {score}
+2023-05-23T18:10:00Z
+Body Weight
+http://loinc.org 29463-7
+103.4 kg
+2023-05-23T18:10:00Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+29.1 kg/m2
+2023-05-23T18:10:00Z
+Heart rate
+http://loinc.org 8867-4
+89 /min
+2023-05-23T18:10:00Z
+Respiratory rate
+http://loinc.org 9279-1
+15 /min
+2023-08-29T18:10:00Z
+Body Height
+http://loinc.org 8302-2
+188.5 cm
+2023-08-29T18:10:00Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+1 {score}
+2023-08-29T18:10:00Z
+Body Weight
+http://loinc.org 29463-7
+103.4 kg
+2023-08-29T18:10:00Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+29.1 kg/m2
+2023-08-29T18:10:00Z
+Heart rate
+http://loinc.org 8867-4
+85 /min
+2023-08-29T18:10:00Z
+Respiratory rate
+http://loinc.org 9279-1
+13 /min
+2024-01-16T20:34:58Z
+Left eye Intraocular pressure
+http://loinc.org 79893-4
+17 mm[Hg]
+2024-01-16T20:34:58Z
+Right eye Intraocular pressure
+http://loinc.org 79892-6
+17 mm[Hg]
+2024-09-03T18:10:00Z
+Body Height
+http://loinc.org 8302-2
+188.5 cm
+2024-09-03T18:10:00Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+0 {score}
+2024-09-03T18:10:00Z
+Body Weight
+http://loinc.org 29463-7
+105.3 kg
+2024-09-03T18:10:00Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+29.64 kg/m2
+2024-09-03T18:10:00Z
+Heart rate
+http://loinc.org 8867-4
+71 /min
+2024-09-03T18:10:00Z
+Respiratory rate
+http://loinc.org 9279-1
+15 /min
+2025-01-10T20:53:07Z
+Left eye Intraocular pressure
+http://loinc.org 79893-4
+18 mm[Hg]
+2025-01-10T20:53:07Z
+Right eye Intraocular pressure
+http://loinc.org 79892-6
+18 mm[Hg]
+2025-09-09T18:10:00Z
+Body Height
+http://loinc.org 8302-2
+188.5 cm
+2025-09-09T18:10:00Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+2 {score}
+2025-09-09T18:10:00Z
+Body Weight
+http://loinc.org 29463-7
+103.9 kg
+2025-09-09T18:10:00Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+29.25 kg/m2
+2025-09-09T18:10:00Z
+Heart rate
+http://loinc.org 8867-4
+99 /min
+2025-09-09T18:10:00Z
+Respiratory rate
+http://loinc.org 9279-1
+14 /min
+2025-09-23T18:10:00Z
+Body Height
+http://loinc.org 8302-2
+188.5 cm
+2025-09-23T18:10:00Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+0 {score}
+2025-09-23T18:10:00Z
+Body Weight
+http://loinc.org 29463-7
+103.6 kg
+2025-09-23T18:10:00Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+29.15 kg/m2
+2025-09-23T18:10:00Z
+Heart rate
+http://loinc.org 8867-4
+67 /min
+2025-09-23T18:10:00Z
+Respiratory rate
+http://loinc.org 9279-1
+16 /min
+2026-01-05T21:09:32Z
+Left eye Intraocular pressure
+http://loinc.org 79893-4
+17 mm[Hg]
+2026-01-05T21:09:32Z
+Right eye Intraocular pressure
+http://loinc.org 79892-6
+17 mm[Hg]
+Immunizations
+Start
+Stop
+Description
+Code
+2016-07-19T18:10:00Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2017-02-21T18:10:00Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2018-07-31T18:10:00Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2019-08-06T18:10:00Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2019-08-06T18:10:00Z
+Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+http://hl7.org/fhir/sid/cvx 113
+2020-08-11T18:10:00Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2021-08-17T18:10:00Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2022-08-23T18:10:00Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2023-05-23T18:10:00Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2024-09-03T18:10:00Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2025-09-09T18:10:00Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Plan of Care
+Start
+Stop
+Description
+Code
+1988-11-22T05:10:00Z
+Self-care interventions (procedure)
+http://snomed.info/sct 384758001
+2007-06-26T18:10:00Z
+Diabetes self management plan (record artifact)
+http://snomed.info/sct 735985000
+2021-01-27T18:20:17Z
+2021-01-27T19:38:56Z
+Infectious disease care plan (record artifact)
+http://snomed.info/sct 736376001
+2021-01-27T19:38:56Z
+2021-02-12T18:38:56Z
+Infectious disease care plan (record artifact)
+http://snomed.info/sct 736376001
+2025-09-14T22:25:37Z
+2025-09-28T22:25:37Z
+Respiratory therapy (procedure)
+http://snomed.info/sct 53950000
+Social History
+There is no current social history except smoking status.
+https://github.com/synthetichealth/synthea
+https://github.com/synthetichealth/synthea
+WEST BROOKFIELD FAMILY PRACTICE
+46 NORTH MAIN ST
+W BROOKFIELD
+MA
+015853232
+Functional Status
+Start
+Stop
+Description
+Code
+Value
+2016-07-19T19:15:12Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+2 {score}
+2016-07-19T19:50:22Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+1 {score}
+2017-02-21T19:32:55Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+1 {score}
+2017-07-25T19:27:56Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+3 {score}
+2017-07-25T20:12:03Z
+Total score [HARK]
+http://loinc.org 76504-0
+0 {score}
+2017-07-25T20:45:53Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+0 {score}
+2018-07-31T19:38:04Z
+Total score [HARK]
+http://loinc.org 76504-0
+0 {score}
+2018-07-31T20:14:37Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+1 {score}
+2019-08-06T19:34:28Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+2 {score}
+2020-08-11T19:30:42Z
+Total score [HARK]
+http://loinc.org 76504-0
+0 {score}
+2020-08-11T20:06:40Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+1 {score}
+2022-08-23T19:02:29Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+3 {score}
+2022-08-23T19:38:11Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+0 {score}
+2023-05-23T19:03:59Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+2 {score}
+2023-05-23T19:38:09Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+1 {score}
+2023-08-29T19:11:39Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+2 {score}
+2024-09-03T19:28:40Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+3 {score}
+2024-09-03T20:02:34Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+1 {score}
+2025-09-09T19:25:56Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+0 {score}
+2025-09-23T19:28:35Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+4 {score}

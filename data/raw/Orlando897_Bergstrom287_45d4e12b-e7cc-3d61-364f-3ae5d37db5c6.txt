@@ -1,0 +1,551 @@
+C-CDA R2.1 Patient Record: Orlando897 Bergstrom287
+656 O'Reilly Skyway
+Cambridge
+Massachusetts
+02142
+Orlando897
+Bergstrom287
+https://github.com/synthetichealth/synthea
+https://github.com/synthetichealth/synthea
+STEWARD ST ELIZABETHS MEDICAL CENTER OF BOSTON INC
+736 CAMBRIDGE ST
+BRIGHTON
+MA
+021353601
+STEWARD ST ELIZABETHS MEDICAL CENTER OF BOSTON INC
+736 CAMBRIDGE ST
+BRIGHTON
+MA
+021353601
+Allergies and Adverse Reactions
+Start
+Stop
+Description
+Code
+2025-08-06T14:07:20Z
+Allergic disposition (finding)
+http://snomed.info/sct 609328004
+2025-08-06T14:07:20Z
+Latex (substance)
+http://snomed.info/sct 111088007
+2025-08-06T14:07:20Z
+Mold (organism)
+http://snomed.info/sct 84489001
+2025-08-06T14:07:20Z
+Animal dander (substance)
+http://snomed.info/sct 264287008
+2025-08-06T14:07:20Z
+Grass pollen (substance)
+http://snomed.info/sct 256277009
+2025-08-06T14:07:20Z
+Tree pollen (substance)
+http://snomed.info/sct 782576004
+2025-08-06T14:07:20Z
+Aspirin
+http://www.nlm.nih.gov/research/umls/rxnorm 1191
+2025-08-06T14:07:20Z
+Glycine max (substance)
+http://snomed.info/sct 256355007
+2025-08-06T14:07:20Z
+Wheat (substance)
+http://snomed.info/sct 412071004
+2025-08-06T14:07:20Z
+Shellfish (substance)
+http://snomed.info/sct 735029006
+2025-08-06T14:07:20Z
+Tree nut (substance)
+http://snomed.info/sct 442571000124108
+Allergic disposition (finding)
+Latex (substance)
+Mold (organism)
+Animal dander (substance)
+Grass pollen (substance)
+Tree pollen (substance)
+Aspirin
+Glycine max (substance)
+Wheat (substance)
+Shellfish (substance)
+Tree nut (substance)
+Medications
+Start
+Stop
+Description
+Code
+2025-08-06T14:32:52Z
+Loratadine 5 MG Chewable Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 665078
+2025-08-06T14:32:52Z
+NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+http://www.nlm.nih.gov/research/umls/rxnorm 1870230
+Loratadine 5 MG Chewable Tablet
+NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+Diagnostic Results
+Start
+Stop
+Description
+Code
+2024-04-05T17:07:20Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+Problems
+Start
+Stop
+Description
+Code
+2024-04-05T17:07:20Z
+2024-05-10T17:07:20Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2024-07-12T17:07:20Z
+2025-03-14T17:07:20Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2025-06-13T17:07:20Z
+2025-06-13T17:07:20Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2025-09-12T17:07:20Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+Surgeries
+Start
+Stop
+Description
+Code
+2024-05-10T17:07:20Z
+2024-05-10T17:22:20Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2025-03-14T17:07:20Z
+2025-03-14T17:22:20Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2025-06-13T17:07:20Z
+2025-06-13T17:22:20Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2025-08-06T14:07:20Z
+2025-08-06T14:32:52Z
+Allergy screening test (procedure)
+http://snomed.info/sct 395142003
+Encounters
+Start
+Stop
+Description
+Code
+2024-04-05T17:07:20Z
+2024-04-05T17:22:20Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2024-05-10T17:07:20Z
+2024-05-10T17:22:20Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2024-07-12T17:07:20Z
+2024-07-12T17:22:20Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2024-09-13T17:07:20Z
+2024-09-13T17:22:20Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2024-12-13T17:07:20Z
+2024-12-13T17:22:20Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2025-03-14T17:07:20Z
+2025-03-14T17:22:20Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2025-06-13T17:07:20Z
+2025-06-13T17:22:20Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2025-07-20T18:07:20Z
+2025-07-20T18:22:20Z
+Encounter for problem (procedure)
+http://snomed.info/sct 185347001
+2025-08-06T14:07:20Z
+2025-08-06T14:32:52Z
+Encounter for problem (procedure)
+http://snomed.info/sct 185347001
+2025-09-12T17:07:20Z
+2025-09-12T17:22:20Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+Vital Signs
+Start
+Stop
+Description
+Code
+Value
+2024-04-05T17:07:20Z
+Body Height
+http://loinc.org 8302-2
+52.4 cm
+2024-04-05T17:07:20Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+3 {score}
+2024-04-05T17:07:20Z
+Body Weight
+http://loinc.org 29463-7
+3.9 kg
+2024-04-05T17:07:20Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+43.64236005415907 %
+2024-04-05T17:07:20Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+47.01 %
+2024-04-05T17:07:20Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+35.67 cm
+2024-04-05T17:07:20Z
+Heart rate
+http://loinc.org 8867-4
+97 /min
+2024-04-05T17:07:20Z
+Respiratory rate
+http://loinc.org 9279-1
+16 /min
+2024-05-10T17:07:20Z
+Body Height
+http://loinc.org 8302-2
+56.3 cm
+2024-05-10T17:07:20Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+2 {score}
+2024-05-10T17:07:20Z
+Body Weight
+http://loinc.org 29463-7
+4.7 kg
+2024-05-10T17:07:20Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+25.95989942529734 %
+2024-05-10T17:07:20Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+47.01 %
+2024-05-10T17:07:20Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+39.09 cm
+2024-05-10T17:07:20Z
+Heart rate
+http://loinc.org 8867-4
+85 /min
+2024-05-10T17:07:20Z
+Respiratory rate
+http://loinc.org 9279-1
+14 /min
+2024-07-12T17:07:20Z
+Body Height
+http://loinc.org 8302-2
+61.8 cm
+2024-07-12T17:07:20Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+2 {score}
+2024-07-12T17:07:20Z
+Body Weight
+http://loinc.org 29463-7
+6.2 kg
+2024-07-12T17:07:20Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+25.759941995135748 %
+2024-07-12T17:07:20Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+47.01 %
+2024-07-12T17:07:20Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+41.66 cm
+2024-07-12T17:07:20Z
+Heart rate
+http://loinc.org 8867-4
+64 /min
+2024-07-12T17:07:20Z
+Respiratory rate
+http://loinc.org 9279-1
+13 /min
+2024-09-13T17:07:20Z
+Body Height
+http://loinc.org 8302-2
+65.8 cm
+2024-09-13T17:07:20Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+4 {score}
+2024-09-13T17:07:20Z
+Body Weight
+http://loinc.org 29463-7
+7.4 kg
+2024-09-13T17:07:20Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+39.64136538838223 %
+2024-09-13T17:07:20Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+47.01 %
+2024-09-13T17:07:20Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+43.3 cm
+2024-09-13T17:07:20Z
+Heart rate
+http://loinc.org 8867-4
+96 /min
+2024-09-13T17:07:20Z
+Respiratory rate
+http://loinc.org 9279-1
+14 /min
+2024-12-13T17:07:20Z
+Body Height
+http://loinc.org 8302-2
+70.6 cm
+2024-12-13T17:07:20Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+2 {score}
+2024-12-13T17:07:20Z
+Body Weight
+http://loinc.org 29463-7
+8.9 kg
+2024-12-13T17:07:20Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+56.059084197456265 %
+2024-12-13T17:07:20Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+47.01 %
+2024-12-13T17:07:20Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+44.96 cm
+2024-12-13T17:07:20Z
+Heart rate
+http://loinc.org 8867-4
+96 /min
+2024-12-13T17:07:20Z
+Respiratory rate
+http://loinc.org 9279-1
+14 /min
+2025-03-14T17:07:20Z
+Body Height
+http://loinc.org 8302-2
+74.6 cm
+2025-03-14T17:07:20Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+1 {score}
+2025-03-14T17:07:20Z
+Body Weight
+http://loinc.org 29463-7
+9.9 kg
+2025-03-14T17:07:20Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+58.120742852137596 %
+2025-03-14T17:07:20Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+47.01 %
+2025-03-14T17:07:20Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+46.1 cm
+2025-03-14T17:07:20Z
+Heart rate
+http://loinc.org 8867-4
+87 /min
+2025-03-14T17:07:20Z
+Respiratory rate
+http://loinc.org 9279-1
+13 /min
+2025-06-13T17:07:20Z
+Body Height
+http://loinc.org 8302-2
+78 cm
+2025-06-13T17:07:20Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+1 {score}
+2025-06-13T17:07:20Z
+Body Weight
+http://loinc.org 29463-7
+10.7 kg
+2025-06-13T17:07:20Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+62.636834524168705 %
+2025-06-13T17:07:20Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+47.01 %
+2025-06-13T17:07:20Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+46.93 cm
+2025-06-13T17:07:20Z
+Heart rate
+http://loinc.org 8867-4
+74 /min
+2025-06-13T17:07:20Z
+Respiratory rate
+http://loinc.org 9279-1
+13 /min
+2025-09-12T17:07:20Z
+Body Height
+http://loinc.org 8302-2
+81 cm
+2025-09-12T17:07:20Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+1 {score}
+2025-09-12T17:07:20Z
+Body Weight
+http://loinc.org 29463-7
+11.3 kg
+2025-09-12T17:07:20Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+58.46962305362029 %
+2025-09-12T17:07:20Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+47.01 %
+2025-09-12T17:07:20Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+47.58 cm
+2025-09-12T17:07:20Z
+Heart rate
+http://loinc.org 8867-4
+89 /min
+2025-09-12T17:07:20Z
+Respiratory rate
+http://loinc.org 9279-1
+13 /min
+Immunizations
+Start
+Stop
+Description
+Code
+2024-04-05T17:07:20Z
+Hep B, adolescent or pediatric
+http://hl7.org/fhir/sid/cvx 08
+2024-05-10T17:07:20Z
+Hep B, adolescent or pediatric
+http://hl7.org/fhir/sid/cvx 08
+2024-07-12T17:07:20Z
+Hib (PRP-OMP)
+http://hl7.org/fhir/sid/cvx 49
+2024-07-12T17:07:20Z
+rotavirus, monovalent
+http://hl7.org/fhir/sid/cvx 119
+2024-07-12T17:07:20Z
+IPV
+http://hl7.org/fhir/sid/cvx 10
+2024-07-12T17:07:20Z
+DTaP
+http://hl7.org/fhir/sid/cvx 20
+2024-07-12T17:07:20Z
+Pneumococcal conjugate PCV 13
+http://hl7.org/fhir/sid/cvx 133
+2024-09-13T17:07:20Z
+Hib (PRP-OMP)
+http://hl7.org/fhir/sid/cvx 49
+2024-09-13T17:07:20Z
+rotavirus, monovalent
+http://hl7.org/fhir/sid/cvx 119
+2024-09-13T17:07:20Z
+IPV
+http://hl7.org/fhir/sid/cvx 10
+2024-09-13T17:07:20Z
+DTaP
+http://hl7.org/fhir/sid/cvx 20
+2024-09-13T17:07:20Z
+Pneumococcal conjugate PCV 13
+http://hl7.org/fhir/sid/cvx 133
+2024-12-13T17:07:20Z
+IPV
+http://hl7.org/fhir/sid/cvx 10
+2024-12-13T17:07:20Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2024-12-13T17:07:20Z
+DTaP
+http://hl7.org/fhir/sid/cvx 20
+2024-12-13T17:07:20Z
+Pneumococcal conjugate PCV 13
+http://hl7.org/fhir/sid/cvx 133
+2024-12-13T17:07:20Z
+Hep B, adolescent or pediatric
+http://hl7.org/fhir/sid/cvx 08
+2025-06-13T17:07:20Z
+Hib (PRP-OMP)
+http://hl7.org/fhir/sid/cvx 49
+2025-06-13T17:07:20Z
+varicella
+http://hl7.org/fhir/sid/cvx 21
+2025-06-13T17:07:20Z
+MMR
+http://hl7.org/fhir/sid/cvx 03
+2025-06-13T17:07:20Z
+Pneumococcal conjugate PCV 13
+http://hl7.org/fhir/sid/cvx 133
+2025-06-13T17:07:20Z
+Hep A, ped/adol, 2 dose
+http://hl7.org/fhir/sid/cvx 83
+2025-09-12T17:07:20Z
+DTaP
+http://hl7.org/fhir/sid/cvx 20
+Hep B, adolescent or pediatric
+Hep B, adolescent or pediatric
+Hib (PRP-OMP)
+rotavirus, monovalent
+IPV
+DTaP
+Pneumococcal conjugate PCV 13
+Hib (PRP-OMP)
+rotavirus, monovalent
+IPV
+DTaP
+Pneumococcal conjugate PCV 13
+IPV
+Influenza, split virus, trivalent, PF
+DTaP
+Pneumococcal conjugate PCV 13
+Hep B, adolescent or pediatric
+Hib (PRP-OMP)
+varicella
+MMR
+Pneumococcal conjugate PCV 13
+Hep A, ped/adol, 2 dose
+DTaP
+Plan of Care
+Start
+Stop
+Description
+Code
+2025-07-20T18:07:20Z
+Self-care interventions (procedure)
+http://snomed.info/sct 384758001
+Social History
+There is no current social history except smoking status.
+https://github.com/synthetichealth/synthea
+https://github.com/synthetichealth/synthea
+STEWARD ST ELIZABETHS MEDICAL CENTER OF BOSTON INC
+736 CAMBRIDGE ST
+BRIGHTON
+MA
+021353601

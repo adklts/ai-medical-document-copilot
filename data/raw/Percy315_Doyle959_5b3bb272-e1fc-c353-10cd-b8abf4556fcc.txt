@@ -1,0 +1,258 @@
+C-CDA R2.1 Patient Record: Percy315 Doyle959
+730 Blick Camp Suite 95
+Boston
+Massachusetts
+02128
+Percy315
+Doyle959
+https://github.com/synthetichealth/synthea
+https://github.com/synthetichealth/synthea
+ENGRACE HEALTHCARE PRACTICE LLC
+1223 BEACON ST STE A
+BROOKLINE
+MA
+024465332
+ENGRACE HEALTHCARE PRACTICE LLC
+1223 BEACON ST STE A
+BROOKLINE
+MA
+024465332
+Allergies
+There are no current allergies at the time of this document's creation.
+Medications
+There are no current medications at the time of this document's creation.
+Diagnostic Results
+Start
+Stop
+Description
+Code
+2025-09-08T07:01:49Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+Problems
+Start
+Stop
+Description
+Code
+2025-09-08T07:01:49Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+Procedures
+There are no current procedures at the time of this document's creation.
+Encounters
+Start
+Stop
+Description
+Code
+2025-09-08T07:01:49Z
+2025-09-08T07:16:49Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2025-10-13T07:01:49Z
+2025-10-13T07:16:49Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2025-12-15T07:01:49Z
+2025-12-15T07:16:49Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2026-02-16T07:01:49Z
+2026-02-16T07:16:49Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+Vital Signs
+Start
+Stop
+Description
+Code
+Value
+2025-09-08T07:01:49Z
+Body Height
+http://loinc.org 8302-2
+53.6 cm
+2025-09-08T07:01:49Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+2 {score}
+2025-09-08T07:01:49Z
+Body Weight
+http://loinc.org 29463-7
+4.1 kg
+2025-09-08T07:01:49Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+17.996795092609602 %
+2025-09-08T07:01:49Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+65.46 %
+2025-09-08T07:01:49Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+36.53 cm
+2025-09-08T07:01:49Z
+Heart rate
+http://loinc.org 8867-4
+91 /min
+2025-09-08T07:01:49Z
+Respiratory rate
+http://loinc.org 9279-1
+14 /min
+2025-10-13T07:01:49Z
+Body Height
+http://loinc.org 8302-2
+57.5 cm
+2025-10-13T07:01:49Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+3 {score}
+2025-10-13T07:01:49Z
+Body Weight
+http://loinc.org 29463-7
+5 kg
+2025-10-13T07:01:49Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+12.772841901416376 %
+2025-10-13T07:01:49Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+65.46 %
+2025-10-13T07:01:49Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+39.83 cm
+2025-10-13T07:01:49Z
+Heart rate
+http://loinc.org 8867-4
+95 /min
+2025-10-13T07:01:49Z
+Respiratory rate
+http://loinc.org 9279-1
+12 /min
+2025-12-15T07:01:49Z
+Body Height
+http://loinc.org 8302-2
+62.9 cm
+2025-12-15T07:01:49Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+3 {score}
+2025-12-15T07:01:49Z
+Body Weight
+http://loinc.org 29463-7
+6.5 kg
+2025-12-15T07:01:49Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+29.22751586715388 %
+2025-12-15T07:01:49Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+65.46 %
+2025-12-15T07:01:49Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+42.33 cm
+2025-12-15T07:01:49Z
+Heart rate
+http://loinc.org 8867-4
+63 /min
+2025-12-15T07:01:49Z
+Respiratory rate
+http://loinc.org 9279-1
+14 /min
+2026-02-16T07:01:49Z
+Body Height
+http://loinc.org 8302-2
+67 cm
+2026-02-16T07:01:49Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+0 {score}
+2026-02-16T07:01:49Z
+Body Weight
+http://loinc.org 29463-7
+7.7 kg
+2026-02-16T07:01:49Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+43.05299164448383 %
+2026-02-16T07:01:49Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+65.46 %
+2026-02-16T07:01:49Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+43.94 cm
+2026-02-16T07:01:49Z
+Heart rate
+http://loinc.org 8867-4
+90 /min
+2026-02-16T07:01:49Z
+Respiratory rate
+http://loinc.org 9279-1
+13 /min
+Immunizations
+Start
+Stop
+Description
+Code
+2025-09-08T07:01:49Z
+Hep B, adolescent or pediatric
+http://hl7.org/fhir/sid/cvx 08
+2025-10-13T07:01:49Z
+Hep B, adolescent or pediatric
+http://hl7.org/fhir/sid/cvx 08
+2025-12-15T07:01:49Z
+Hib (PRP-OMP)
+http://hl7.org/fhir/sid/cvx 49
+2025-12-15T07:01:49Z
+rotavirus, monovalent
+http://hl7.org/fhir/sid/cvx 119
+2025-12-15T07:01:49Z
+IPV
+http://hl7.org/fhir/sid/cvx 10
+2025-12-15T07:01:49Z
+DTaP
+http://hl7.org/fhir/sid/cvx 20
+2025-12-15T07:01:49Z
+Pneumococcal conjugate PCV 13
+http://hl7.org/fhir/sid/cvx 133
+2026-02-16T07:01:49Z
+Hib (PRP-OMP)
+http://hl7.org/fhir/sid/cvx 49
+2026-02-16T07:01:49Z
+rotavirus, monovalent
+http://hl7.org/fhir/sid/cvx 119
+2026-02-16T07:01:49Z
+IPV
+http://hl7.org/fhir/sid/cvx 10
+2026-02-16T07:01:49Z
+DTaP
+http://hl7.org/fhir/sid/cvx 20
+2026-02-16T07:01:49Z
+Pneumococcal conjugate PCV 13
+http://hl7.org/fhir/sid/cvx 133
+Hep B, adolescent or pediatric
+Hep B, adolescent or pediatric
+Hib (PRP-OMP)
+rotavirus, monovalent
+IPV
+DTaP
+Pneumococcal conjugate PCV 13
+Hib (PRP-OMP)
+rotavirus, monovalent
+IPV
+DTaP
+Pneumococcal conjugate PCV 13
+Social History
+There is no current social history except smoking status.
+https://github.com/synthetichealth/synthea
+https://github.com/synthetichealth/synthea
+ENGRACE HEALTHCARE PRACTICE LLC
+1223 BEACON ST STE A
+BROOKLINE
+MA
+024465332

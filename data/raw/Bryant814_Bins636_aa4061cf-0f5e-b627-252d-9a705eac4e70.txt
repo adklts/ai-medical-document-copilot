@@ -1,0 +1,600 @@
+C-CDA R2.1 Patient Record: Bryant814 Bins636
+585 Armstrong Rue Unit 68
+Walpole
+Massachusetts
+02081
+Bryant814
+Bins636
+https://github.com/synthetichealth/synthea
+https://github.com/synthetichealth/synthea
+BOSTON HEALTH CARE INC
+420 MAIN ST
+WALPOLE
+MA
+020812553
+BOSTON HEALTH CARE INC
+420 MAIN ST
+WALPOLE
+MA
+020812553
+Allergies
+There are no current allergies at the time of this document's creation.
+Medications
+Start
+Stop
+Description
+Code
+2022-10-22T07:56:48Z
+2022-11-06T07:56:48Z
+Acetaminophen 325 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 313782
+2024-05-01T09:10:34Z
+2024-05-16T09:10:34Z
+Acetaminophen 325 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 313782
+Acetaminophen 325 MG Oral Tablet
+Acetaminophen 325 MG Oral Tablet
+Diagnostic Results
+Start
+Stop
+Description
+Code
+2019-01-28T00:36:30Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2019-01-28T00:36:30Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+2019-01-28T00:36:30Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2019-01-28T02:00:06Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2022-01-31T00:36:30Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2022-01-31T00:36:30Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+2022-01-31T02:02:46Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2022-01-31T02:43:46Z
+Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+http://loinc.org 72109-2
+2022-10-31T00:36:30Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2022-10-31T01:50:56Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+2022-10-31T02:31:35Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2024-05-13T00:36:30Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2024-05-13T00:36:30Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2024-05-13T01:35:35Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+2024-05-13T02:06:21Z
+Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+http://loinc.org 76499-3
+2024-05-13T02:47:56Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2024-05-13T03:14:26Z
+PHQ-9 quick depression assessment panel [Reported.PHQ]
+http://loinc.org 44249-1
+2024-11-18T00:36:30Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2024-11-18T02:00:44Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+Problems
+Start
+Stop
+Description
+Code
+2003-01-06T00:36:30Z
+Prediabetes (finding)
+http://snomed.info/sct 714628002
+2003-01-06T01:12:53Z
+Received higher education (finding)
+http://snomed.info/sct 224299000
+2010-01-18T00:36:30Z
+Anemia (disorder)
+http://snomed.info/sct 271737000
+2013-01-21T01:17:35Z
+2024-05-13T01:12:13Z
+Stress (finding)
+http://snomed.info/sct 73595000
+2016-01-25T01:17:11Z
+2019-01-28T01:23:40Z
+Not in labor force (finding)
+http://snomed.info/sct 741062008
+2016-01-25T01:17:11Z
+Limited social contact (finding)
+http://snomed.info/sct 423315002
+2019-01-28T00:36:30Z
+2022-10-31T00:36:30Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2019-01-28T01:23:40Z
+2024-11-18T01:25:41Z
+Full-time employment (finding)
+http://snomed.info/sct 160903007
+2021-04-19T12:36:30Z
+2021-05-13T12:36:30Z
+Viral sinusitis (disorder)
+http://snomed.info/sct 444814009
+2022-03-16T07:36:30Z
+2022-03-26T07:36:30Z
+Viral sinusitis (disorder)
+http://snomed.info/sct 444814009
+2022-10-22T07:36:30Z
+2022-11-06T07:56:48Z
+Acute bronchitis (disorder)
+http://snomed.info/sct 10509002
+2022-10-31T01:33:26Z
+2024-11-18T01:25:41Z
+Social isolation (finding)
+http://snomed.info/sct 422650009
+2022-11-07T00:36:30Z
+2022-11-07T00:36:30Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2024-05-01T08:56:48Z
+2024-05-16T09:10:34Z
+Acute bronchitis (disorder)
+http://snomed.info/sct 10509002
+2024-05-13T00:36:30Z
+2024-05-13T00:36:30Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2024-05-13T01:12:13Z
+2024-11-18T01:25:41Z
+Reports of violence in the environment (finding)
+http://snomed.info/sct 424393004
+2024-05-20T00:36:30Z
+2024-11-18T00:36:30Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2024-11-18T00:36:30Z
+Body mass index 30+ - obesity (finding)
+http://snomed.info/sct 162864005
+2024-11-18T01:25:41Z
+Part-time employment (finding)
+http://snomed.info/sct 160904001
+2024-11-18T01:25:41Z
+Stress (finding)
+http://snomed.info/sct 73595000
+Surgeries
+Start
+Stop
+Description
+Code
+2019-01-28T00:36:30Z
+2019-01-28T01:23:40Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2019-01-28T01:23:40Z
+2019-01-28T01:36:11Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2019-01-28T01:36:11Z
+2019-01-28T02:00:06Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2022-01-31T00:36:30Z
+2022-01-31T01:22:01Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2022-01-31T01:22:01Z
+2022-01-31T01:33:50Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2022-01-31T01:33:50Z
+2022-01-31T02:02:46Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2022-01-31T02:02:46Z
+2022-01-31T02:15:57Z
+Assessment of substance use (procedure)
+http://snomed.info/sct 428211000124100
+2022-01-31T02:15:57Z
+2022-01-31T02:43:46Z
+Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+http://snomed.info/sct 763302001
+2022-10-22T07:36:30Z
+2022-10-22T07:56:48Z
+Measurement of respiratory function (procedure)
+http://snomed.info/sct 23426006
+2022-10-31T00:36:30Z
+2022-10-31T00:51:30Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2022-10-31T00:36:30Z
+2022-10-31T01:33:26Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2022-10-31T01:33:26Z
+2022-10-31T01:50:56Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+2022-10-31T01:50:56Z
+2022-10-31T02:04:50Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2022-10-31T02:04:50Z
+2022-10-31T02:31:35Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2022-11-07T00:36:30Z
+2022-11-07T00:51:30Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2024-05-01T08:56:48Z
+2024-05-01T09:10:34Z
+Measurement of respiratory function (procedure)
+http://snomed.info/sct 23426006
+2024-05-13T00:36:30Z
+2024-05-13T00:51:30Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2024-05-13T00:36:30Z
+2024-05-13T01:12:13Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2024-05-13T01:12:13Z
+2024-05-13T01:35:35Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+2024-05-13T01:35:35Z
+2024-05-13T02:06:21Z
+Screening for domestic abuse (procedure)
+http://snomed.info/sct 866148006
+2024-05-13T02:06:21Z
+2024-05-13T02:18:42Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2024-05-13T02:18:42Z
+2024-05-13T02:47:56Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2024-05-13T02:47:56Z
+2024-05-13T03:14:26Z
+Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+http://snomed.info/sct 715252007
+2024-11-18T00:36:30Z
+2024-11-18T00:51:30Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2024-11-18T00:36:30Z
+2024-11-18T01:25:41Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2024-11-18T01:25:41Z
+2024-11-18T01:36:29Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2024-11-18T01:36:29Z
+2024-11-18T02:00:44Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+Encounters
+Start
+Stop
+Description
+Code
+2003-01-06T00:36:30Z
+2003-01-06T01:12:53Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2010-01-18T00:36:30Z
+2010-01-18T01:20:27Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2013-01-21T00:36:30Z
+2013-01-21T01:17:35Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2016-01-25T00:36:30Z
+2016-01-25T01:17:11Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2019-01-28T00:36:30Z
+2019-01-28T01:23:40Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2021-04-19T00:36:30Z
+2021-04-19T00:51:30Z
+Administration of vaccine to produce active immunity (procedure)
+http://snomed.info/sct 33879002
+2021-04-19T12:36:30Z
+2021-04-19T12:51:30Z
+Encounter for symptom (procedure)
+http://snomed.info/sct 185345009
+2021-05-17T00:36:30Z
+2021-05-17T00:51:30Z
+Administration of vaccine to produce active immunity (procedure)
+http://snomed.info/sct 33879002
+2022-01-31T00:36:30Z
+2022-01-31T01:22:01Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2022-03-16T07:36:30Z
+2022-03-16T07:51:30Z
+Encounter for symptom (procedure)
+http://snomed.info/sct 185345009
+2022-10-22T07:36:30Z
+2022-10-22T07:56:48Z
+Encounter for symptom (procedure)
+http://snomed.info/sct 185345009
+2022-10-31T00:36:30Z
+2022-10-31T01:33:26Z
+Urgent care clinic (environment)
+http://snomed.info/sct 702927004
+2022-11-07T00:36:30Z
+2022-11-07T00:51:30Z
+Urgent care clinic (environment)
+http://snomed.info/sct 702927004
+2024-05-01T08:56:48Z
+2024-05-01T09:11:48Z
+Encounter for symptom (procedure)
+http://snomed.info/sct 185345009
+2024-05-13T00:36:30Z
+2024-05-13T01:12:13Z
+Urgent care clinic (environment)
+http://snomed.info/sct 702927004
+2024-05-20T00:36:30Z
+2024-05-20T00:51:30Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2024-11-18T00:36:30Z
+2024-11-18T01:25:41Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+Vital Signs
+Start
+Stop
+Description
+Code
+Value
+2019-01-28T00:36:30Z
+Body Height
+http://loinc.org 8302-2
+184.2 cm
+2019-01-28T00:36:30Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+4 {score}
+2019-01-28T00:36:30Z
+Body Weight
+http://loinc.org 29463-7
+92.7 kg
+2019-01-28T00:36:30Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+27.32 kg/m2
+2019-01-28T00:36:30Z
+Heart rate
+http://loinc.org 8867-4
+95 /min
+2019-01-28T00:36:30Z
+Respiratory rate
+http://loinc.org 9279-1
+15 /min
+2022-01-31T00:36:30Z
+Body Height
+http://loinc.org 8302-2
+184.2 cm
+2022-01-31T00:36:30Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+4 {score}
+2022-01-31T00:36:30Z
+Body Weight
+http://loinc.org 29463-7
+97.5 kg
+2022-01-31T00:36:30Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+28.74 kg/m2
+2022-01-31T00:36:30Z
+Heart rate
+http://loinc.org 8867-4
+88 /min
+2022-01-31T00:36:30Z
+Respiratory rate
+http://loinc.org 9279-1
+14 /min
+2022-10-31T00:36:30Z
+Body Height
+http://loinc.org 8302-2
+184.2 cm
+2022-10-31T00:36:30Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+2 {score}
+2022-10-31T00:36:30Z
+Body Weight
+http://loinc.org 29463-7
+97.5 kg
+2022-10-31T00:36:30Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+28.74 kg/m2
+2022-10-31T00:36:30Z
+Heart rate
+http://loinc.org 8867-4
+98 /min
+2022-10-31T00:36:30Z
+Respiratory rate
+http://loinc.org 9279-1
+15 /min
+2024-05-13T00:36:30Z
+Body Height
+http://loinc.org 8302-2
+184.2 cm
+2024-05-13T00:36:30Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+0 {score}
+2024-05-13T00:36:30Z
+Body Weight
+http://loinc.org 29463-7
+100.4 kg
+2024-05-13T00:36:30Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+29.58 kg/m2
+2024-05-13T00:36:30Z
+Heart rate
+http://loinc.org 8867-4
+67 /min
+2024-05-13T00:36:30Z
+Respiratory rate
+http://loinc.org 9279-1
+15 /min
+2024-11-18T00:36:30Z
+Body Height
+http://loinc.org 8302-2
+184.2 cm
+2024-11-18T00:36:30Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+4 {score}
+2024-11-18T00:36:30Z
+Body Weight
+http://loinc.org 29463-7
+102.2 kg
+2024-11-18T00:36:30Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+30.13 kg/m2
+2024-11-18T00:36:30Z
+Heart rate
+http://loinc.org 8867-4
+95 /min
+2024-11-18T00:36:30Z
+Respiratory rate
+http://loinc.org 9279-1
+14 /min
+Immunizations
+Start
+Stop
+Description
+Code
+2019-01-28T00:36:30Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2021-04-19T00:36:30Z
+COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+http://hl7.org/fhir/sid/cvx 207
+2021-05-17T00:36:30Z
+COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+http://hl7.org/fhir/sid/cvx 207
+2022-01-31T00:36:30Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2022-10-31T00:36:30Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2022-11-07T00:36:30Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2024-05-13T00:36:30Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2024-05-20T00:36:30Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2024-11-18T00:36:30Z
+Hep A, adult
+http://hl7.org/fhir/sid/cvx 52
+Influenza, split virus, trivalent, PF
+COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Hep A, adult
+Plan of Care
+Start
+Stop
+Description
+Code
+2003-01-06T00:36:30Z
+Diabetes self management plan (record artifact)
+http://snomed.info/sct 735985000
+2022-10-22T07:56:48Z
+2022-11-06T07:56:48Z
+Respiratory therapy (procedure)
+http://snomed.info/sct 53950000
+2024-05-01T09:10:34Z
+2024-05-16T09:10:34Z
+Respiratory therapy (procedure)
+http://snomed.info/sct 53950000
+Social History
+There is no current social history except smoking status.
+https://github.com/synthetichealth/synthea
+https://github.com/synthetichealth/synthea
+BOSTON HEALTH CARE INC
+420 MAIN ST
+WALPOLE
+MA
+020812553
+Functional Status
+Start
+Stop
+Description
+Code
+Value
+2019-01-28T02:00:06Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+0 {score}
+2022-01-31T02:02:46Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+1 {score}
+2022-01-31T02:43:46Z
+Total score [AUDIT-C]
+http://loinc.org 75626-2
+2 {score}
+2022-10-31T01:50:56Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+1 {score}
+2022-10-31T02:31:35Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+1 {score}
+2024-05-13T01:35:35Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+1 {score}
+2024-05-13T02:06:21Z
+Total score [HARK]
+http://loinc.org 76504-0
+0 {score}
+2024-05-13T02:47:56Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+6 {score}
+2024-05-13T03:14:26Z
+Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]
+http://loinc.org 44261-6
+18 {score}
+2024-11-18T02:00:44Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+2 {score}

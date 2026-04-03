@@ -1,0 +1,3251 @@
+C-CDA R2.1 Patient Record: Soledad678 White193
+889 Feil Trafficway Unit 42
+Randolph
+Massachusetts
+02368
+Soledad678
+White193
+https://github.com/synthetichealth/synthea
+https://github.com/synthetichealth/synthea
+CARING HEALTHCARE SERVICES LLC
+32 BOSSI AVE
+RANDOLPH
+MA
+023682002
+CARING HEALTHCARE SERVICES LLC
+32 BOSSI AVE
+RANDOLPH
+MA
+023682002
+Allergies and Adverse Reactions
+Start
+Stop
+Description
+Code
+1951-06-16T09:54:10Z
+Allergic disposition (finding)
+http://snomed.info/sct 609328004
+1951-06-16T09:54:10Z
+Latex (substance)
+http://snomed.info/sct 111088007
+1951-06-16T09:54:10Z
+Mold (organism)
+http://snomed.info/sct 84489001
+1951-06-16T09:54:10Z
+House dust mite (organism)
+http://snomed.info/sct 260147004
+1951-06-16T09:54:10Z
+Animal dander (substance)
+http://snomed.info/sct 264287008
+1951-06-16T09:54:10Z
+Grass pollen (substance)
+http://snomed.info/sct 256277009
+1951-06-16T09:54:10Z
+Tree pollen (substance)
+http://snomed.info/sct 782576004
+1951-06-16T09:54:10Z
+Cow's milk (substance)
+http://snomed.info/sct 3718001
+1951-06-16T09:54:10Z
+Eggs (edible) (substance)
+http://snomed.info/sct 102263004
+1951-06-16T09:54:10Z
+Shellfish (substance)
+http://snomed.info/sct 735029006
+1951-06-16T09:54:10Z
+Tree nut (substance)
+http://snomed.info/sct 442571000124108
+1951-06-16T09:54:10Z
+Peanut (substance)
+http://snomed.info/sct 762952008
+Allergic disposition (finding)
+Latex (substance)
+Mold (organism)
+House dust mite (organism)
+Animal dander (substance)
+Grass pollen (substance)
+Tree pollen (substance)
+Cow's milk (substance)
+Eggs (edible) (substance)
+Shellfish (substance)
+Tree nut (substance)
+Peanut (substance)
+Medications
+Start
+Stop
+Description
+Code
+1952-12-23T01:54:10Z
+diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 1049630
+2010-02-22T01:54:10Z
+2010-11-29T01:54:10Z
+Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+http://www.nlm.nih.gov/research/umls/rxnorm 1998772
+2010-02-22T01:54:10Z
+2010-11-29T01:54:10Z
+NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+http://www.nlm.nih.gov/research/umls/rxnorm 745752
+2010-02-22T01:54:10Z
+2010-11-29T01:54:10Z
+amLODIPine 2.5 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 308136
+2010-11-29T01:54:10Z
+2011-12-05T01:54:10Z
+Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+http://www.nlm.nih.gov/research/umls/rxnorm 1998772
+2010-11-29T01:54:10Z
+2011-12-05T01:54:10Z
+NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+http://www.nlm.nih.gov/research/umls/rxnorm 745752
+2010-11-29T01:54:10Z
+2011-12-05T01:54:10Z
+amLODIPine 2.5 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 308136
+2010-11-29T01:54:10Z
+2011-12-05T01:54:10Z
+Alendronic acid 10 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 904419
+2010-12-13T04:08:43Z
+2010-12-13T04:08:43Z
+sodium fluoride 0.0272 MG/MG Oral Gel
+http://www.nlm.nih.gov/research/umls/rxnorm 1535362
+2010-12-22T03:19:11Z
+2011-03-05T03:19:11Z
+Acetaminophen 325 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 313782
+2011-12-05T01:54:10Z
+2012-12-10T01:54:10Z
+Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+http://www.nlm.nih.gov/research/umls/rxnorm 1998772
+2011-12-05T01:54:10Z
+2012-12-10T01:54:10Z
+NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+http://www.nlm.nih.gov/research/umls/rxnorm 745752
+2011-12-05T01:54:10Z
+2012-12-10T01:54:10Z
+amLODIPine 2.5 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 308136
+2011-12-05T01:54:10Z
+2012-12-10T01:54:10Z
+Alendronic acid 10 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 904419
+2011-12-19T05:09:46Z
+2011-12-19T05:09:46Z
+sodium fluoride 0.0272 MG/MG Oral Gel
+http://www.nlm.nih.gov/research/umls/rxnorm 1535362
+2012-12-10T01:54:10Z
+2013-12-16T01:54:10Z
+Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+http://www.nlm.nih.gov/research/umls/rxnorm 1998772
+2012-12-10T01:54:10Z
+2013-12-16T01:54:10Z
+NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+http://www.nlm.nih.gov/research/umls/rxnorm 745752
+2012-12-10T01:54:10Z
+2013-12-16T01:54:10Z
+amLODIPine 2.5 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 308136
+2012-12-10T01:54:10Z
+2013-12-16T01:54:10Z
+Alendronic acid 10 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 904419
+2013-12-16T01:54:10Z
+2014-12-22T01:54:10Z
+Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+http://www.nlm.nih.gov/research/umls/rxnorm 1998772
+2013-12-16T01:54:10Z
+2014-12-22T01:54:10Z
+NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+http://www.nlm.nih.gov/research/umls/rxnorm 745752
+2013-12-16T01:54:10Z
+2014-12-22T01:54:10Z
+amLODIPine 2.5 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 308136
+2013-12-16T01:54:10Z
+2014-12-22T01:54:10Z
+Alendronic acid 10 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 904419
+2014-02-05T01:54:10Z
+2014-12-22T01:54:10Z
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+http://www.nlm.nih.gov/research/umls/rxnorm 209387
+2014-12-22T01:54:10Z
+2015-12-28T01:54:10Z
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+http://www.nlm.nih.gov/research/umls/rxnorm 209387
+2014-12-22T01:54:10Z
+2015-12-28T01:54:10Z
+Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+http://www.nlm.nih.gov/research/umls/rxnorm 1998772
+2014-12-22T01:54:10Z
+2015-12-28T01:54:10Z
+NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+http://www.nlm.nih.gov/research/umls/rxnorm 745752
+2014-12-22T01:54:10Z
+2015-12-28T01:54:10Z
+amLODIPine 2.5 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 308136
+2014-12-22T01:54:10Z
+2015-12-28T01:54:10Z
+Alendronic acid 10 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 904419
+2015-12-28T01:54:10Z
+2017-01-02T01:54:10Z
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+http://www.nlm.nih.gov/research/umls/rxnorm 209387
+2015-12-28T01:54:10Z
+2017-01-02T01:54:10Z
+Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+http://www.nlm.nih.gov/research/umls/rxnorm 1998772
+2015-12-28T01:54:10Z
+2017-01-02T01:54:10Z
+NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+http://www.nlm.nih.gov/research/umls/rxnorm 745752
+2015-12-28T01:54:10Z
+2017-01-02T01:54:10Z
+amLODIPine 2.5 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 308136
+2015-12-28T01:54:10Z
+2017-01-02T01:54:10Z
+Alendronic acid 10 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 904419
+2017-01-02T01:54:10Z
+2018-01-08T01:54:10Z
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+http://www.nlm.nih.gov/research/umls/rxnorm 209387
+2017-01-02T01:54:10Z
+2018-01-08T01:54:10Z
+Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+http://www.nlm.nih.gov/research/umls/rxnorm 1998772
+2017-01-02T01:54:10Z
+2018-01-08T01:54:10Z
+NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+http://www.nlm.nih.gov/research/umls/rxnorm 745752
+2017-01-02T01:54:10Z
+2018-01-08T01:54:10Z
+amLODIPine 2.5 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 308136
+2017-01-02T01:54:10Z
+2018-01-08T01:54:10Z
+Alendronic acid 10 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 904419
+2018-01-08T01:54:10Z
+2019-01-14T01:54:10Z
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+http://www.nlm.nih.gov/research/umls/rxnorm 209387
+2018-01-08T01:54:10Z
+2019-01-14T01:54:10Z
+Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+http://www.nlm.nih.gov/research/umls/rxnorm 1998772
+2018-01-08T01:54:10Z
+2019-01-14T01:54:10Z
+NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+http://www.nlm.nih.gov/research/umls/rxnorm 745752
+2018-01-08T01:54:10Z
+2019-01-14T01:54:10Z
+amLODIPine 2.5 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 308136
+2018-01-08T01:54:10Z
+2019-01-14T01:54:10Z
+Alendronic acid 10 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 904419
+2019-01-14T01:54:10Z
+2019-09-16T01:54:10Z
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+http://www.nlm.nih.gov/research/umls/rxnorm 209387
+2019-01-14T01:54:10Z
+2019-09-16T01:54:10Z
+Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+http://www.nlm.nih.gov/research/umls/rxnorm 1998772
+2019-01-14T01:54:10Z
+2019-09-16T01:54:10Z
+NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+http://www.nlm.nih.gov/research/umls/rxnorm 745752
+2019-01-14T01:54:10Z
+2019-09-16T01:54:10Z
+amLODIPine 2.5 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 308136
+2019-01-14T01:54:10Z
+2019-09-16T01:54:10Z
+Alendronic acid 10 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 904419
+2019-09-16T01:54:10Z
+2020-01-20T01:54:10Z
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+http://www.nlm.nih.gov/research/umls/rxnorm 209387
+2019-09-16T01:54:10Z
+2020-01-20T01:54:10Z
+Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+http://www.nlm.nih.gov/research/umls/rxnorm 1998772
+2019-09-16T01:54:10Z
+2020-01-20T01:54:10Z
+NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+http://www.nlm.nih.gov/research/umls/rxnorm 745752
+2019-09-16T01:54:10Z
+2020-01-20T01:54:10Z
+amLODIPine 2.5 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 308136
+2019-09-16T01:54:10Z
+2020-01-20T01:54:10Z
+Alendronic acid 10 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 904419
+2019-09-30T04:30:19Z
+2019-09-30T04:30:19Z
+sodium fluoride 0.0272 MG/MG Oral Gel
+http://www.nlm.nih.gov/research/umls/rxnorm 1535362
+2020-01-20T01:54:10Z
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+http://www.nlm.nih.gov/research/umls/rxnorm 209387
+2020-01-20T01:54:10Z
+Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+http://www.nlm.nih.gov/research/umls/rxnorm 1998772
+2020-01-20T01:54:10Z
+NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+http://www.nlm.nih.gov/research/umls/rxnorm 745752
+2020-01-20T01:54:10Z
+amLODIPine 2.5 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 308136
+2020-01-20T01:54:10Z
+Alendronic acid 10 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 904419
+2020-02-03T04:52:26Z
+2020-02-03T04:52:26Z
+sodium fluoride 0.0272 MG/MG Oral Gel
+http://www.nlm.nih.gov/research/umls/rxnorm 1535362
+2020-07-20T04:04:03Z
+2020-07-20T04:04:03Z
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+http://www.nlm.nih.gov/research/umls/rxnorm 854252
+2020-07-20T04:04:03Z
+2020-07-20T04:04:03Z
+NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+http://www.nlm.nih.gov/research/umls/rxnorm 2123111
+2020-07-20T04:04:03Z
+2020-07-20T04:04:03Z
+Acetaminophen 500 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 198440
+2020-07-21T04:04:03Z
+2020-07-21T04:04:03Z
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+http://www.nlm.nih.gov/research/umls/rxnorm 854252
+2020-07-21T04:04:03Z
+2020-07-21T04:04:03Z
+NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+http://www.nlm.nih.gov/research/umls/rxnorm 2123111
+2020-07-21T04:04:03Z
+2020-07-21T04:04:03Z
+Acetaminophen 500 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 198440
+2020-07-22T04:04:03Z
+2020-07-22T04:04:03Z
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+http://www.nlm.nih.gov/research/umls/rxnorm 854252
+2020-07-22T04:04:03Z
+2020-07-22T04:04:03Z
+NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+http://www.nlm.nih.gov/research/umls/rxnorm 2123111
+2020-07-22T04:04:03Z
+2020-07-22T04:04:03Z
+Acetaminophen 500 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 198440
+2020-07-23T04:04:03Z
+2020-07-23T04:04:03Z
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+http://www.nlm.nih.gov/research/umls/rxnorm 854252
+2020-07-23T04:04:03Z
+2020-07-23T04:04:03Z
+NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+http://www.nlm.nih.gov/research/umls/rxnorm 2123111
+2020-07-23T04:04:03Z
+2020-07-23T04:04:03Z
+Acetaminophen 500 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 198440
+2020-07-24T04:04:03Z
+2020-07-24T04:04:03Z
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+http://www.nlm.nih.gov/research/umls/rxnorm 854252
+2020-07-24T04:04:03Z
+2020-07-24T04:04:03Z
+NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+http://www.nlm.nih.gov/research/umls/rxnorm 2123111
+2020-07-24T04:04:03Z
+2020-07-24T04:04:03Z
+Acetaminophen 500 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 198440
+2020-07-25T04:04:03Z
+2020-07-25T04:04:03Z
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+http://www.nlm.nih.gov/research/umls/rxnorm 854252
+2020-07-25T04:04:03Z
+2020-07-25T04:04:03Z
+NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+http://www.nlm.nih.gov/research/umls/rxnorm 2123111
+2020-07-25T04:04:03Z
+2020-07-25T04:04:03Z
+Acetaminophen 500 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 198440
+2020-07-25T04:48:16Z
+2020-07-25T04:48:16Z
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+http://www.nlm.nih.gov/research/umls/rxnorm 854252
+2020-07-25T08:23:16Z
+2020-07-25T08:23:16Z
+Albuterol 5 MG/ML Inhalation Solution
+http://www.nlm.nih.gov/research/umls/rxnorm 245314
+2020-07-25T08:23:16Z
+2020-07-25T08:23:16Z
+Acetaminophen 500 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 198440
+2020-07-26T08:23:16Z
+2020-07-26T08:23:16Z
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+http://www.nlm.nih.gov/research/umls/rxnorm 854252
+2020-07-26T10:52:16Z
+2020-07-26T10:52:16Z
+Albuterol 5 MG/ML Inhalation Solution
+http://www.nlm.nih.gov/research/umls/rxnorm 245314
+2020-07-26T10:52:16Z
+2020-07-26T10:52:16Z
+Acetaminophen 500 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 198440
+2020-07-27T10:52:16Z
+2020-07-27T10:52:16Z
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+http://www.nlm.nih.gov/research/umls/rxnorm 854252
+2020-07-27T13:39:16Z
+2020-07-27T13:39:16Z
+Albuterol 5 MG/ML Inhalation Solution
+http://www.nlm.nih.gov/research/umls/rxnorm 245314
+2020-07-27T13:39:16Z
+2020-07-27T13:39:16Z
+Acetaminophen 500 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 198440
+2020-07-28T13:39:16Z
+2020-07-28T13:39:16Z
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+http://www.nlm.nih.gov/research/umls/rxnorm 854252
+2020-07-28T16:48:16Z
+2020-07-28T16:48:16Z
+Albuterol 5 MG/ML Inhalation Solution
+http://www.nlm.nih.gov/research/umls/rxnorm 245314
+2020-07-28T16:48:16Z
+2020-07-28T16:48:16Z
+Acetaminophen 500 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 198440
+2020-07-29T16:48:16Z
+2020-07-29T16:48:16Z
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+http://www.nlm.nih.gov/research/umls/rxnorm 854252
+2020-07-29T19:39:16Z
+2020-07-29T19:39:16Z
+Albuterol 5 MG/ML Inhalation Solution
+http://www.nlm.nih.gov/research/umls/rxnorm 245314
+2020-07-29T19:39:16Z
+2020-07-29T19:39:16Z
+Acetaminophen 500 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 198440
+2020-07-30T19:39:16Z
+2020-07-30T19:39:16Z
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+http://www.nlm.nih.gov/research/umls/rxnorm 854252
+2020-07-30T23:24:16Z
+2020-07-30T23:24:16Z
+Albuterol 5 MG/ML Inhalation Solution
+http://www.nlm.nih.gov/research/umls/rxnorm 245314
+2020-07-30T23:24:16Z
+2020-07-30T23:24:16Z
+Acetaminophen 500 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 198440
+2020-07-31T23:24:16Z
+2020-07-31T23:24:16Z
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+http://www.nlm.nih.gov/research/umls/rxnorm 854252
+2020-08-01T03:01:16Z
+2020-08-01T03:01:16Z
+Albuterol 5 MG/ML Inhalation Solution
+http://www.nlm.nih.gov/research/umls/rxnorm 245314
+2020-08-01T03:01:16Z
+2020-08-01T03:01:16Z
+Acetaminophen 500 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 198440
+2020-08-02T03:01:16Z
+2020-08-02T03:01:16Z
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+http://www.nlm.nih.gov/research/umls/rxnorm 854252
+2020-08-02T05:17:16Z
+2020-08-02T05:17:16Z
+Albuterol 5 MG/ML Inhalation Solution
+http://www.nlm.nih.gov/research/umls/rxnorm 245314
+2020-08-02T05:17:16Z
+2020-08-02T05:17:16Z
+Acetaminophen 500 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 198440
+2020-08-03T05:17:16Z
+2020-08-03T05:17:16Z
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+http://www.nlm.nih.gov/research/umls/rxnorm 854252
+2020-08-03T07:50:16Z
+2020-08-03T07:50:16Z
+Albuterol 5 MG/ML Inhalation Solution
+http://www.nlm.nih.gov/research/umls/rxnorm 245314
+2020-08-03T07:50:16Z
+2020-08-03T07:50:16Z
+Acetaminophen 500 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 198440
+2020-08-04T07:50:16Z
+2020-08-04T07:50:16Z
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+http://www.nlm.nih.gov/research/umls/rxnorm 854252
+2020-08-04T10:41:16Z
+2020-08-04T10:41:16Z
+Albuterol 5 MG/ML Inhalation Solution
+http://www.nlm.nih.gov/research/umls/rxnorm 245314
+2020-08-04T10:41:16Z
+2020-08-04T10:41:16Z
+Acetaminophen 500 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 198440
+diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+amLODIPine 2.5 MG Oral Tablet
+Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+amLODIPine 2.5 MG Oral Tablet
+Alendronic acid 10 MG Oral Tablet
+sodium fluoride 0.0272 MG/MG Oral Gel
+Acetaminophen 325 MG Oral Tablet
+Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+amLODIPine 2.5 MG Oral Tablet
+Alendronic acid 10 MG Oral Tablet
+sodium fluoride 0.0272 MG/MG Oral Gel
+Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+amLODIPine 2.5 MG Oral Tablet
+Alendronic acid 10 MG Oral Tablet
+Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+amLODIPine 2.5 MG Oral Tablet
+Alendronic acid 10 MG Oral Tablet
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+amLODIPine 2.5 MG Oral Tablet
+Alendronic acid 10 MG Oral Tablet
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+amLODIPine 2.5 MG Oral Tablet
+Alendronic acid 10 MG Oral Tablet
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+amLODIPine 2.5 MG Oral Tablet
+Alendronic acid 10 MG Oral Tablet
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+amLODIPine 2.5 MG Oral Tablet
+Alendronic acid 10 MG Oral Tablet
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+amLODIPine 2.5 MG Oral Tablet
+Alendronic acid 10 MG Oral Tablet
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+amLODIPine 2.5 MG Oral Tablet
+Alendronic acid 10 MG Oral Tablet
+sodium fluoride 0.0272 MG/MG Oral Gel
+Acetaminophen 325 MG Oral Tablet [Tylenol]
+Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]
+amLODIPine 2.5 MG Oral Tablet
+Alendronic acid 10 MG Oral Tablet
+sodium fluoride 0.0272 MG/MG Oral Gel
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+Acetaminophen 500 MG Oral Tablet
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+Acetaminophen 500 MG Oral Tablet
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+Acetaminophen 500 MG Oral Tablet
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+Acetaminophen 500 MG Oral Tablet
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+Acetaminophen 500 MG Oral Tablet
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+Acetaminophen 500 MG Oral Tablet
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+Albuterol 5 MG/ML Inhalation Solution
+Acetaminophen 500 MG Oral Tablet
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+Albuterol 5 MG/ML Inhalation Solution
+Acetaminophen 500 MG Oral Tablet
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+Albuterol 5 MG/ML Inhalation Solution
+Acetaminophen 500 MG Oral Tablet
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+Albuterol 5 MG/ML Inhalation Solution
+Acetaminophen 500 MG Oral Tablet
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+Albuterol 5 MG/ML Inhalation Solution
+Acetaminophen 500 MG Oral Tablet
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+Albuterol 5 MG/ML Inhalation Solution
+Acetaminophen 500 MG Oral Tablet
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+Albuterol 5 MG/ML Inhalation Solution
+Acetaminophen 500 MG Oral Tablet
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+Albuterol 5 MG/ML Inhalation Solution
+Acetaminophen 500 MG Oral Tablet
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+Albuterol 5 MG/ML Inhalation Solution
+Acetaminophen 500 MG Oral Tablet
+1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+Albuterol 5 MG/ML Inhalation Solution
+Acetaminophen 500 MG Oral Tablet
+Diagnostic Results
+Start
+Stop
+Description
+Code
+2010-11-29T01:54:10Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2010-11-29T01:54:10Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+2010-11-29T02:55:54Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+2010-11-29T03:29:31Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2010-11-29T04:01:47Z
+Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+http://loinc.org 72109-2
+2011-12-05T01:54:10Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2011-12-05T02:44:01Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+2011-12-05T03:12:48Z
+Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+http://loinc.org 76499-3
+2011-12-05T03:53:54Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2011-12-05T04:34:35Z
+Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+http://loinc.org 72109-2
+2012-12-10T01:54:10Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2012-12-10T02:46:18Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+2012-12-10T03:20:41Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2012-12-10T03:52:06Z
+Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+http://loinc.org 72109-2
+2013-12-16T01:54:10Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2013-12-16T01:54:10Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+2013-12-16T02:42:41Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+2013-12-16T03:22:39Z
+Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+http://loinc.org 72109-2
+2014-12-22T01:54:10Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2014-12-22T01:54:10Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2014-12-22T02:56:47Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+2014-12-22T03:19:37Z
+Morse Fall Scale panel
+http://loinc.org 59453-1
+2014-12-22T04:00:47Z
+Drug Abuse Screening Test-10 [DAST-10]
+http://loinc.org 82666-9
+2015-12-28T01:54:10Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2015-12-28T03:12:33Z
+Morse Fall Scale panel
+http://loinc.org 59453-1
+2015-12-28T03:54:35Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2015-12-28T04:32:59Z
+Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+http://loinc.org 72109-2
+2017-01-02T01:54:10Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2017-01-02T01:54:10Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+2017-01-02T03:07:32Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+2018-01-08T01:54:10Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2018-01-08T03:07:10Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+2018-01-08T03:22:17Z
+Morse Fall Scale panel
+http://loinc.org 59453-1
+2018-01-08T04:02:23Z
+Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+http://loinc.org 76499-3
+2018-01-08T04:43:44Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2019-01-14T01:54:10Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2019-01-14T02:44:12Z
+Morse Fall Scale panel
+http://loinc.org 59453-1
+2019-01-14T03:18:01Z
+Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+http://loinc.org 55757-9
+2019-09-16T01:54:10Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2019-09-16T02:58:06Z
+Generalized anxiety disorder 7 item (GAD-7)
+http://loinc.org 69737-5
+2020-01-20T01:54:10Z
+Basic metabolic panel - Blood
+http://loinc.org 51990-0
+2020-01-20T01:54:10Z
+Lipid panel with direct LDL - Serum or Plasma
+http://loinc.org 57698-3
+2020-01-20T01:54:10Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2020-01-20T02:54:09Z
+Morse Fall Scale panel
+http://loinc.org 59453-1
+2020-01-20T03:33:52Z
+Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+http://loinc.org 76499-3
+2020-01-20T04:11:55Z
+Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+http://loinc.org 72109-2
+2020-07-20T02:05:15Z
+Respiratory pathogens DNA and RNA panel - Respiratory system specimen by NAA with probe detection
+http://loinc.org 92143-7
+2020-07-20T03:22:25Z
+SARS-CoV-2 (COVID-19) RNA panel - Respiratory system specimen by NAA with probe detection
+http://loinc.org 94531-1
+2020-07-20T04:04:03Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2020-07-20T04:04:03Z
+Auto Differential panel - Blood
+http://loinc.org 57023-4
+2020-07-20T04:04:03Z
+Comprehensive metabolic 2000 panel - Serum or Plasma
+http://loinc.org 24323-8
+2020-07-20T04:04:03Z
+Gas panel - Arterial blood
+http://loinc.org 24336-0
+2020-07-20T04:04:03Z
+Iron panel - Serum or Plasma
+http://loinc.org 75689-0
+2020-07-20T04:04:03Z
+Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+http://loinc.org 89577-1
+2020-07-20T04:04:03Z
+PT panel - Platelet poor plasma by Coagulation assay
+http://loinc.org 34528-0
+2020-07-21T04:04:03Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2020-07-21T04:04:03Z
+Auto Differential panel - Blood
+http://loinc.org 57023-4
+2020-07-21T04:04:03Z
+Comprehensive metabolic 2000 panel - Serum or Plasma
+http://loinc.org 24323-8
+2020-07-21T04:04:03Z
+Gas panel - Arterial blood
+http://loinc.org 24336-0
+2020-07-22T04:04:03Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2020-07-22T04:04:03Z
+Auto Differential panel - Blood
+http://loinc.org 57023-4
+2020-07-22T04:04:03Z
+Comprehensive metabolic 2000 panel - Serum or Plasma
+http://loinc.org 24323-8
+2020-07-22T04:04:03Z
+Gas panel - Arterial blood
+http://loinc.org 24336-0
+2020-07-22T04:04:03Z
+Iron panel - Serum or Plasma
+http://loinc.org 75689-0
+2020-07-22T04:04:03Z
+Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+http://loinc.org 89577-1
+2020-07-22T04:04:03Z
+PT panel - Platelet poor plasma by Coagulation assay
+http://loinc.org 34528-0
+2020-07-23T04:04:03Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2020-07-23T04:04:03Z
+Auto Differential panel - Blood
+http://loinc.org 57023-4
+2020-07-23T04:04:03Z
+Comprehensive metabolic 2000 panel - Serum or Plasma
+http://loinc.org 24323-8
+2020-07-23T04:04:03Z
+Gas panel - Arterial blood
+http://loinc.org 24336-0
+2020-07-24T04:04:03Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2020-07-24T04:04:03Z
+Auto Differential panel - Blood
+http://loinc.org 57023-4
+2020-07-24T04:04:03Z
+Comprehensive metabolic 2000 panel - Serum or Plasma
+http://loinc.org 24323-8
+2020-07-24T04:04:03Z
+Gas panel - Arterial blood
+http://loinc.org 24336-0
+2020-07-24T04:04:03Z
+Iron panel - Serum or Plasma
+http://loinc.org 75689-0
+2020-07-24T04:04:03Z
+Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+http://loinc.org 89577-1
+2020-07-24T04:04:03Z
+PT panel - Platelet poor plasma by Coagulation assay
+http://loinc.org 34528-0
+2020-07-25T04:04:03Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2020-07-25T04:04:03Z
+Auto Differential panel - Blood
+http://loinc.org 57023-4
+2020-07-25T04:04:03Z
+Comprehensive metabolic 2000 panel - Serum or Plasma
+http://loinc.org 24323-8
+2020-07-25T04:04:03Z
+Gas panel - Arterial blood
+http://loinc.org 24336-0
+2020-07-25T04:48:16Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2020-07-25T04:48:16Z
+Auto Differential panel - Blood
+http://loinc.org 57023-4
+2020-07-25T04:48:16Z
+Comprehensive metabolic 2000 panel - Serum or Plasma
+http://loinc.org 24323-8
+2020-07-25T04:48:16Z
+Gas panel - Arterial blood
+http://loinc.org 24336-0
+2020-07-25T04:48:16Z
+Iron panel - Serum or Plasma
+http://loinc.org 75689-0
+2020-07-25T04:48:16Z
+Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+http://loinc.org 89577-1
+2020-07-25T04:48:16Z
+PT panel - Platelet poor plasma by Coagulation assay
+http://loinc.org 34528-0
+2020-07-26T08:23:16Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2020-07-26T08:23:16Z
+Auto Differential panel - Blood
+http://loinc.org 57023-4
+2020-07-26T08:23:16Z
+Comprehensive metabolic 2000 panel - Serum or Plasma
+http://loinc.org 24323-8
+2020-07-26T08:23:16Z
+Gas panel - Arterial blood
+http://loinc.org 24336-0
+2020-07-26T08:23:16Z
+Iron panel - Serum or Plasma
+http://loinc.org 75689-0
+2020-07-26T08:23:16Z
+Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+http://loinc.org 89577-1
+2020-07-26T08:23:16Z
+PT panel - Platelet poor plasma by Coagulation assay
+http://loinc.org 34528-0
+2020-07-27T10:52:16Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2020-07-27T10:52:16Z
+Auto Differential panel - Blood
+http://loinc.org 57023-4
+2020-07-27T10:52:16Z
+Comprehensive metabolic 2000 panel - Serum or Plasma
+http://loinc.org 24323-8
+2020-07-27T10:52:16Z
+Gas panel - Arterial blood
+http://loinc.org 24336-0
+2020-07-27T10:52:16Z
+Iron panel - Serum or Plasma
+http://loinc.org 75689-0
+2020-07-27T10:52:16Z
+Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+http://loinc.org 89577-1
+2020-07-27T10:52:16Z
+PT panel - Platelet poor plasma by Coagulation assay
+http://loinc.org 34528-0
+2020-07-28T13:39:16Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2020-07-28T13:39:16Z
+Auto Differential panel - Blood
+http://loinc.org 57023-4
+2020-07-28T13:39:16Z
+Comprehensive metabolic 2000 panel - Serum or Plasma
+http://loinc.org 24323-8
+2020-07-28T13:39:16Z
+Gas panel - Arterial blood
+http://loinc.org 24336-0
+2020-07-28T13:39:16Z
+Iron panel - Serum or Plasma
+http://loinc.org 75689-0
+2020-07-28T13:39:16Z
+Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+http://loinc.org 89577-1
+2020-07-28T13:39:16Z
+PT panel - Platelet poor plasma by Coagulation assay
+http://loinc.org 34528-0
+2020-07-29T16:48:16Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2020-07-29T16:48:16Z
+Auto Differential panel - Blood
+http://loinc.org 57023-4
+2020-07-29T16:48:16Z
+Comprehensive metabolic 2000 panel - Serum or Plasma
+http://loinc.org 24323-8
+2020-07-29T16:48:16Z
+Gas panel - Arterial blood
+http://loinc.org 24336-0
+2020-07-29T16:48:16Z
+Iron panel - Serum or Plasma
+http://loinc.org 75689-0
+2020-07-29T16:48:16Z
+Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+http://loinc.org 89577-1
+2020-07-29T16:48:16Z
+PT panel - Platelet poor plasma by Coagulation assay
+http://loinc.org 34528-0
+2020-07-30T19:39:16Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2020-07-30T19:39:16Z
+Auto Differential panel - Blood
+http://loinc.org 57023-4
+2020-07-30T19:39:16Z
+Comprehensive metabolic 2000 panel - Serum or Plasma
+http://loinc.org 24323-8
+2020-07-30T19:39:16Z
+Gas panel - Arterial blood
+http://loinc.org 24336-0
+2020-07-30T19:39:16Z
+Iron panel - Serum or Plasma
+http://loinc.org 75689-0
+2020-07-30T19:39:16Z
+Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+http://loinc.org 89577-1
+2020-07-30T19:39:16Z
+PT panel - Platelet poor plasma by Coagulation assay
+http://loinc.org 34528-0
+2020-07-31T23:24:16Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2020-07-31T23:24:16Z
+Auto Differential panel - Blood
+http://loinc.org 57023-4
+2020-07-31T23:24:16Z
+Comprehensive metabolic 2000 panel - Serum or Plasma
+http://loinc.org 24323-8
+2020-07-31T23:24:16Z
+Gas panel - Arterial blood
+http://loinc.org 24336-0
+2020-07-31T23:24:16Z
+Iron panel - Serum or Plasma
+http://loinc.org 75689-0
+2020-07-31T23:24:16Z
+Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+http://loinc.org 89577-1
+2020-07-31T23:24:16Z
+PT panel - Platelet poor plasma by Coagulation assay
+http://loinc.org 34528-0
+2020-08-02T03:01:16Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2020-08-02T03:01:16Z
+Auto Differential panel - Blood
+http://loinc.org 57023-4
+2020-08-02T03:01:16Z
+Comprehensive metabolic 2000 panel - Serum or Plasma
+http://loinc.org 24323-8
+2020-08-02T03:01:16Z
+Gas panel - Arterial blood
+http://loinc.org 24336-0
+2020-08-02T03:01:16Z
+Iron panel - Serum or Plasma
+http://loinc.org 75689-0
+2020-08-02T03:01:16Z
+Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+http://loinc.org 89577-1
+2020-08-02T03:01:16Z
+PT panel - Platelet poor plasma by Coagulation assay
+http://loinc.org 34528-0
+2020-08-03T05:17:16Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2020-08-03T05:17:16Z
+Auto Differential panel - Blood
+http://loinc.org 57023-4
+2020-08-03T05:17:16Z
+Comprehensive metabolic 2000 panel - Serum or Plasma
+http://loinc.org 24323-8
+2020-08-03T05:17:16Z
+Gas panel - Arterial blood
+http://loinc.org 24336-0
+2020-08-03T05:17:16Z
+Iron panel - Serum or Plasma
+http://loinc.org 75689-0
+2020-08-03T05:17:16Z
+Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+http://loinc.org 89577-1
+2020-08-03T05:17:16Z
+PT panel - Platelet poor plasma by Coagulation assay
+http://loinc.org 34528-0
+2020-08-04T07:50:16Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+2020-08-04T07:50:16Z
+Auto Differential panel - Blood
+http://loinc.org 57023-4
+2020-08-04T07:50:16Z
+Comprehensive metabolic 2000 panel - Serum or Plasma
+http://loinc.org 24323-8
+2020-08-04T07:50:16Z
+Gas panel - Arterial blood
+http://loinc.org 24336-0
+2020-08-04T07:50:16Z
+Iron panel - Serum or Plasma
+http://loinc.org 75689-0
+2020-08-04T07:50:16Z
+Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+http://loinc.org 89577-1
+2020-08-04T07:50:16Z
+PT panel - Platelet poor plasma by Coagulation assay
+http://loinc.org 34528-0
+2020-08-17T01:54:10Z
+U.S. standard certificate of death - 2003 revision
+http://loinc.org 69409-1
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+{entry.value}
+Problems
+Start
+Stop
+Description
+Code
+1962-06-11T01:54:10Z
+Loss of teeth (disorder)
+http://snomed.info/sct 37320007
+1968-06-24T02:41:26Z
+Received higher education (finding)
+http://snomed.info/sct 224299000
+1978-07-10T01:54:10Z
+Prediabetes (finding)
+http://snomed.info/sct 714628002
+1980-05-27T01:54:10Z
+Asthma (disorder)
+http://snomed.info/sct 195967001
+1980-06-09T01:54:10Z
+Anemia (disorder)
+http://snomed.info/sct 271737000
+1986-05-05T18:34:11Z
+History of tubal ligation (situation)
+http://snomed.info/sct 267020005
+2000-10-02T01:54:10Z
+Body mass index 30+ - obesity (finding)
+http://snomed.info/sct 162864005
+2001-04-18T01:54:10Z
+Sleep disorder (disorder)
+http://snomed.info/sct 39898005
+2001-05-16T11:24:59Z
+Obstructive sleep apnea syndrome (disorder)
+http://snomed.info/sct 78275009
+2001-10-08T01:54:10Z
+Metabolic syndrome X (disorder)
+http://snomed.info/sct 237602007
+2002-10-14T01:54:10Z
+Essential hypertension (disorder)
+http://snomed.info/sct 59621000
+2005-10-31T03:08:09Z
+Victim of intimate partner abuse (finding)
+http://snomed.info/sct 706893006
+2008-11-17T02:40:16Z
+2010-11-29T02:29:06Z
+Not in labor force (finding)
+http://snomed.info/sct 741062008
+2009-11-23T01:54:10Z
+2010-11-29T01:54:10Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2010-11-29T01:54:10Z
+Osteoporosis (disorder)
+http://snomed.info/sct 64859006
+2010-11-29T02:29:06Z
+2013-12-16T02:25:50Z
+Full-time employment (finding)
+http://snomed.info/sct 160903007
+2010-12-22T03:19:11Z
+2011-03-05T03:19:11Z
+Injury of knee (disorder)
+http://snomed.info/sct 125601008
+2010-12-22T03:19:11Z
+2011-03-05T03:19:11Z
+Tear of meniscus of knee (disorder)
+http://snomed.info/sct 239720000
+2011-12-05T01:54:10Z
+2011-12-05T01:54:10Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2011-12-05T02:24:56Z
+2013-12-16T02:25:50Z
+Stress (finding)
+http://snomed.info/sct 73595000
+2011-12-19T04:32:58Z
+2011-12-19T05:09:46Z
+Primary dental caries (disorder)
+http://snomed.info/sct 109570002
+2012-12-10T01:54:10Z
+2015-12-28T01:54:10Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2012-12-10T03:52:06Z
+2012-12-24T05:16:12Z
+Gingivitis (disorder)
+http://snomed.info/sct 66383009
+2013-12-16T02:25:50Z
+2014-12-22T02:36:42Z
+Unemployed (finding)
+http://snomed.info/sct 73438004
+2014-02-05T01:54:10Z
+Chronic pain (finding)
+http://snomed.info/sct 82423001
+2014-02-05T01:54:10Z
+Chronic low back pain (finding)
+http://snomed.info/sct 278860009
+2014-02-05T01:54:10Z
+Chronic neck pain (finding)
+http://snomed.info/sct 1121000119107
+2014-12-22T02:36:42Z
+2017-01-02T02:49:51Z
+Full-time employment (finding)
+http://snomed.info/sct 160903007
+2015-12-28T02:44:15Z
+2017-01-02T02:49:51Z
+Social isolation (finding)
+http://snomed.info/sct 422650009
+2015-12-28T02:44:15Z
+2017-01-02T02:49:51Z
+Stress (finding)
+http://snomed.info/sct 73595000
+2017-01-02T01:54:10Z
+2018-01-08T01:54:10Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2017-01-02T02:49:51Z
+2018-01-08T02:45:57Z
+Not in labor force (finding)
+http://snomed.info/sct 741062008
+2017-01-16T04:11:23Z
+2017-01-16T04:34:43Z
+Loose dental filling (finding)
+http://snomed.info/sct 278602001
+2018-01-08T02:45:57Z
+2019-09-16T02:29:37Z
+Full-time employment (finding)
+http://snomed.info/sct 160903007
+2019-01-14T01:54:10Z
+2019-01-14T01:54:10Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2019-01-14T02:25:49Z
+2020-01-20T02:36:40Z
+Stress (finding)
+http://snomed.info/sct 73595000
+2019-01-14T03:18:01Z
+2019-01-28T04:53:17Z
+Gingivitis (disorder)
+http://snomed.info/sct 66383009
+2019-03-22T03:19:11Z
+2019-05-02T03:19:11Z
+Concussion injury of brain (disorder)
+http://snomed.info/sct 110030002
+2019-03-22T03:19:11Z
+2019-05-02T03:19:11Z
+Concussion with no loss of consciousness (disorder)
+http://snomed.info/sct 62106007
+2019-09-16T01:54:10Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2019-09-16T02:29:37Z
+2020-01-20T02:36:40Z
+Part-time employment (finding)
+http://snomed.info/sct 160904001
+2019-09-23T01:54:10Z
+2019-10-02T01:54:10Z
+Viral sinusitis (disorder)
+http://snomed.info/sct 444814009
+2020-01-20T02:36:40Z
+Full-time employment (finding)
+http://snomed.info/sct 160903007
+2020-01-20T04:11:55Z
+2020-02-03T04:52:26Z
+Gingivitis (disorder)
+http://snomed.info/sct 66383009
+2020-07-20T01:54:10Z
+2020-07-20T03:22:25Z
+Suspected disease caused by Severe acute respiratory coronavirus 2 (situation)
+http://snomed.info/sct 840544004
+2020-07-20T01:54:10Z
+Passive conjunctival congestion (finding)
+http://snomed.info/sct 246677007
+2020-07-20T01:54:10Z
+Cough (finding)
+http://snomed.info/sct 49727002
+2020-07-20T01:54:10Z
+Sputum finding (finding)
+http://snomed.info/sct 248595008
+2020-07-20T01:54:10Z
+Fatigue (finding)
+http://snomed.info/sct 84229001
+2020-07-20T01:54:10Z
+Fever (finding)
+http://snomed.info/sct 386661006
+2020-07-20T01:54:10Z
+Loss of taste (finding)
+http://snomed.info/sct 36955009
+2020-07-20T03:22:25Z
+Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder)
+http://snomed.info/sct 840539006
+2020-07-20T04:04:03Z
+Pneumonia (disorder)
+http://snomed.info/sct 233604007
+2020-07-20T04:04:03Z
+Hypoxemia (disorder)
+http://snomed.info/sct 389087006
+2020-07-20T04:04:03Z
+Respiratory distress (finding)
+http://snomed.info/sct 271825005
+2020-07-20T04:04:03Z
+Acute respiratory failure (disorder)
+http://snomed.info/sct 65710008
+2020-07-20T04:04:03Z
+Sepsis caused by virus (disorder)
+http://snomed.info/sct 770349000
+2020-07-20T04:04:03Z
+Acute pulmonary embolism (disorder)
+http://snomed.info/sct 706870000
+2020-07-25T04:04:03Z
+Acquired coagulation disorder (disorder)
+http://snomed.info/sct 234466008
+2020-07-25T04:04:03Z
+Injury of kidney (disorder)
+http://snomed.info/sct 40095003
+2020-07-25T04:04:03Z
+Injury of heart (disorder)
+http://snomed.info/sct 86175003
+2020-07-25T04:04:03Z
+Acute respiratory distress syndrome (disorder)
+http://snomed.info/sct 67782005
+Surgeries
+Start
+Stop
+Description
+Code
+2010-11-29T01:54:10Z
+2010-11-29T02:09:10Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2010-11-29T01:54:10Z
+2010-11-29T02:09:10Z
+Bone density scan (procedure)
+http://snomed.info/sct 312681000
+2010-11-29T01:54:10Z
+2010-11-29T02:14:35Z
+Sleep apnea assessment (procedure)
+http://snomed.info/sct 103750000
+2010-11-29T01:54:10Z
+2010-11-29T02:29:06Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2010-11-29T02:29:06Z
+2010-11-29T02:55:54Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+2010-11-29T02:55:54Z
+2010-11-29T03:08:04Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2010-11-29T03:08:04Z
+2010-11-29T03:29:31Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2010-11-29T03:29:31Z
+2010-11-29T03:39:50Z
+Assessment of substance use (procedure)
+http://snomed.info/sct 428211000124100
+2010-11-29T03:39:50Z
+2010-11-29T04:01:47Z
+Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+http://snomed.info/sct 763302001
+2010-11-29T04:01:47Z
+2010-11-29T04:12:24Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2010-12-13T01:54:10Z
+2010-12-13T02:06:44Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2010-12-13T02:06:44Z
+2010-12-13T02:38:55Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2010-12-13T02:38:55Z
+2010-12-13T03:11:59Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2010-12-13T03:11:59Z
+2010-12-13T03:29:09Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2010-12-13T03:29:09Z
+2010-12-13T04:08:43Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2010-12-13T04:08:43Z
+2010-12-13T04:33:19Z
+Dental fluoride treatment (procedure)
+http://snomed.info/sct 68071007
+2010-12-13T04:33:19Z
+2010-12-13T04:46:04Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2010-12-22T03:19:11Z
+2010-12-22T03:49:11Z
+Plain X-ray of knee region (procedure)
+http://snomed.info/sct 1290407002
+2011-12-05T01:54:10Z
+2011-12-05T02:09:10Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2011-12-05T01:54:10Z
+2011-12-05T02:24:56Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2011-12-05T02:24:56Z
+2011-12-05T02:44:01Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+2011-12-05T02:44:01Z
+2011-12-05T03:12:48Z
+Screening for domestic abuse (procedure)
+http://snomed.info/sct 866148006
+2011-12-05T03:12:48Z
+2011-12-05T03:23:55Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2011-12-05T03:23:55Z
+2011-12-05T03:53:54Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2011-12-05T03:53:54Z
+2011-12-05T04:05:09Z
+Assessment of substance use (procedure)
+http://snomed.info/sct 428211000124100
+2011-12-05T04:05:09Z
+2011-12-05T04:34:35Z
+Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+http://snomed.info/sct 763302001
+2011-12-05T04:34:35Z
+2011-12-05T04:41:42Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2011-12-19T01:54:10Z
+2011-12-19T02:09:59Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2011-12-19T02:09:59Z
+2011-12-19T02:42:03Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2011-12-19T02:42:03Z
+2011-12-19T03:07:10Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2011-12-19T03:07:10Z
+2011-12-19T03:46:38Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2011-12-19T03:46:38Z
+2011-12-19T04:16:38Z
+Dental plain X-ray bitewing (procedure)
+http://snomed.info/sct 241046008
+2011-12-19T03:46:38Z
+2011-12-19T04:32:58Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2011-12-19T04:32:58Z
+2011-12-19T05:09:46Z
+Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure)
+http://snomed.info/sct 1259293006
+2011-12-19T05:09:46Z
+2011-12-19T05:45:49Z
+Dental fluoride treatment (procedure)
+http://snomed.info/sct 68071007
+2011-12-19T05:45:49Z
+2011-12-19T06:01:34Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2012-12-10T01:54:10Z
+2012-12-10T02:06:06Z
+Sleep apnea assessment (procedure)
+http://snomed.info/sct 103750000
+2012-12-10T01:54:10Z
+2012-12-10T02:27:14Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2012-12-10T02:27:14Z
+2012-12-10T02:46:18Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+2012-12-10T02:46:18Z
+2012-12-10T03:00:20Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2012-12-10T03:00:20Z
+2012-12-10T03:20:41Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2012-12-10T03:20:41Z
+2012-12-10T03:31:09Z
+Assessment of substance use (procedure)
+http://snomed.info/sct 428211000124100
+2012-12-10T03:31:09Z
+2012-12-10T03:52:06Z
+Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+http://snomed.info/sct 763302001
+2012-12-10T03:52:06Z
+2012-12-10T04:09:37Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2012-12-24T01:54:10Z
+2012-12-24T02:33:18Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2012-12-24T02:33:18Z
+2012-12-24T03:13:31Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2012-12-24T03:13:31Z
+2012-12-24T03:46:46Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2012-12-24T03:46:46Z
+2012-12-24T04:30:55Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2012-12-24T04:30:55Z
+2012-12-24T05:00:55Z
+Dental plain X-ray bitewing (procedure)
+http://snomed.info/sct 241046008
+2012-12-24T04:30:55Z
+2012-12-24T05:16:12Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2012-12-24T05:16:12Z
+2012-12-24T05:34:10Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2013-12-16T01:54:10Z
+2013-12-16T02:18:43Z
+Sleep apnea assessment (procedure)
+http://snomed.info/sct 103750000
+2013-12-16T01:54:10Z
+2013-12-16T02:25:50Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2013-12-16T02:25:50Z
+2013-12-16T02:42:41Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+2013-12-16T02:42:41Z
+2013-12-16T02:53:14Z
+Assessment of substance use (procedure)
+http://snomed.info/sct 428211000124100
+2013-12-16T02:53:14Z
+2013-12-16T03:22:39Z
+Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+http://snomed.info/sct 763302001
+2014-02-08T01:54:10Z
+2014-02-08T02:45:17Z
+Movement therapy (regime/therapy)
+http://snomed.info/sct 229064008
+2014-02-11T02:45:17Z
+2014-02-11T03:43:16Z
+Movement therapy (regime/therapy)
+http://snomed.info/sct 229064008
+2014-02-14T03:43:16Z
+2014-02-14T04:38:34Z
+Movement therapy (regime/therapy)
+http://snomed.info/sct 229064008
+2014-02-17T04:38:34Z
+2014-02-17T05:28:22Z
+Movement therapy (regime/therapy)
+http://snomed.info/sct 229064008
+2014-02-20T05:28:22Z
+2014-02-20T06:23:37Z
+Movement therapy (regime/therapy)
+http://snomed.info/sct 229064008
+2014-02-23T06:23:37Z
+2014-02-23T07:15:02Z
+Movement therapy (regime/therapy)
+http://snomed.info/sct 229064008
+2014-02-26T07:15:02Z
+2014-02-26T08:14:20Z
+Movement therapy (regime/therapy)
+http://snomed.info/sct 229064008
+2014-03-01T08:14:20Z
+2014-03-01T09:07:57Z
+Movement therapy (regime/therapy)
+http://snomed.info/sct 229064008
+2014-03-04T09:07:57Z
+2014-03-04T09:53:05Z
+Movement therapy (regime/therapy)
+http://snomed.info/sct 229064008
+2014-03-07T09:53:05Z
+2014-03-07T10:39:45Z
+Movement therapy (regime/therapy)
+http://snomed.info/sct 229064008
+2014-12-22T01:54:10Z
+2014-12-22T02:07:39Z
+Sleep apnea assessment (procedure)
+http://snomed.info/sct 103750000
+2014-12-22T01:54:10Z
+2014-12-22T02:36:42Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2014-12-22T02:36:42Z
+2014-12-22T02:56:47Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+2014-12-22T02:56:47Z
+2014-12-22T03:19:37Z
+Assessment using Morse Fall Scale (procedure)
+http://snomed.info/sct 762993000
+2014-12-22T03:19:37Z
+2014-12-22T03:32:02Z
+Assessment of substance use (procedure)
+http://snomed.info/sct 428211000124100
+2014-12-22T03:32:02Z
+2014-12-22T04:00:47Z
+Screening for drug abuse (procedure)
+http://snomed.info/sct 713106006
+2015-05-01T03:39:13Z
+2015-05-01T04:14:00Z
+Colonoscopy (procedure)
+http://snomed.info/sct 73761001
+2015-05-11T01:54:10Z
+2015-05-11T02:51:51Z
+Replacement of contraceptive intrauterine device (procedure)
+http://snomed.info/sct 46706006
+2015-12-28T01:54:10Z
+2015-12-28T02:09:10Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2015-12-28T01:54:10Z
+2015-12-28T02:06:41Z
+Sleep apnea assessment (procedure)
+http://snomed.info/sct 103750000
+2015-12-28T01:54:10Z
+2015-12-28T02:44:15Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2015-12-28T02:44:15Z
+2015-12-28T03:12:33Z
+Assessment using Morse Fall Scale (procedure)
+http://snomed.info/sct 762993000
+2015-12-28T03:12:33Z
+2015-12-28T03:25:10Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2015-12-28T03:25:10Z
+2015-12-28T03:54:35Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2015-12-28T03:54:35Z
+2015-12-28T04:04:39Z
+Assessment of substance use (procedure)
+http://snomed.info/sct 428211000124100
+2015-12-28T04:04:39Z
+2015-12-28T04:32:59Z
+Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+http://snomed.info/sct 763302001
+2017-01-02T01:54:10Z
+2017-01-02T02:17:48Z
+Sleep apnea assessment (procedure)
+http://snomed.info/sct 103750000
+2017-01-02T01:54:10Z
+2017-01-02T02:49:51Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2017-01-02T02:49:51Z
+2017-01-02T03:07:32Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+2017-01-02T03:07:32Z
+2017-01-02T03:14:28Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2017-01-16T01:54:10Z
+2017-01-16T02:17:32Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2017-01-16T02:17:32Z
+2017-01-16T02:35:14Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2017-01-16T02:35:14Z
+2017-01-16T02:51:43Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2017-01-16T02:51:43Z
+2017-01-16T03:33:54Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2017-01-16T03:33:54Z
+2017-01-16T04:11:23Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2017-01-16T04:11:23Z
+2017-01-16T04:34:43Z
+Restoration of tooth with coverage of all cusps using dental filling material (procedure)
+http://snomed.info/sct 1256042007
+2017-01-16T04:34:43Z
+2017-01-16T04:45:35Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2017-10-25T04:11:35Z
+2017-10-25T04:43:09Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2017-10-25T04:43:09Z
+2017-10-25T05:13:09Z
+Dental plain X-ray bitewing (procedure)
+http://snomed.info/sct 241046008
+2017-10-25T04:43:09Z
+2017-10-25T05:18:54Z
+Take oral or dental impression (procedure)
+http://snomed.info/sct 234745004
+2017-11-15T05:18:54Z
+2017-11-15T06:15:00Z
+Fitting of denture (procedure)
+http://snomed.info/sct 1269321004
+2018-01-08T01:54:10Z
+2018-01-08T02:09:10Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2018-01-08T01:54:10Z
+2018-01-08T02:07:35Z
+Sleep apnea assessment (procedure)
+http://snomed.info/sct 103750000
+2018-01-08T01:54:10Z
+2018-01-08T02:45:57Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2018-01-08T02:45:57Z
+2018-01-08T03:07:10Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+2018-01-08T03:07:10Z
+2018-01-08T03:22:17Z
+Assessment using Morse Fall Scale (procedure)
+http://snomed.info/sct 762993000
+2018-01-08T03:22:17Z
+2018-01-08T04:02:23Z
+Screening for domestic abuse (procedure)
+http://snomed.info/sct 866148006
+2018-01-08T04:02:23Z
+2018-01-08T04:13:49Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2018-01-08T04:13:49Z
+2018-01-08T04:43:44Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2019-01-14T01:54:10Z
+2019-01-14T02:09:10Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2019-01-14T01:54:10Z
+2019-01-14T02:10:08Z
+Sleep apnea assessment (procedure)
+http://snomed.info/sct 103750000
+2019-01-14T01:54:10Z
+2019-01-14T02:25:49Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2019-01-14T02:25:49Z
+2019-01-14T02:44:12Z
+Assessment using Morse Fall Scale (procedure)
+http://snomed.info/sct 762993000
+2019-01-14T02:44:12Z
+2019-01-14T02:57:48Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2019-01-14T02:57:48Z
+2019-01-14T03:18:01Z
+Depression screening (procedure)
+http://snomed.info/sct 171207006
+2019-01-14T03:18:01Z
+2019-01-14T03:28:37Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2019-01-28T01:54:10Z
+2019-01-28T02:29:46Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2019-01-28T02:29:46Z
+2019-01-28T03:10:31Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2019-01-28T03:10:31Z
+2019-01-28T03:27:26Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2019-01-28T03:27:26Z
+2019-01-28T04:17:10Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2019-01-28T04:17:10Z
+2019-01-28T04:47:10Z
+Dental plain X-ray bitewing (procedure)
+http://snomed.info/sct 241046008
+2019-01-28T04:17:10Z
+2019-01-28T04:53:17Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2019-01-28T04:53:17Z
+2019-01-28T05:05:45Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2019-09-16T01:54:10Z
+2019-09-16T02:06:24Z
+Sleep apnea assessment (procedure)
+http://snomed.info/sct 103750000
+2019-09-16T01:54:10Z
+2019-09-16T02:29:37Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2019-09-16T02:29:37Z
+2019-09-16T02:58:06Z
+Assessment of anxiety (procedure)
+http://snomed.info/sct 710841007
+2019-09-16T02:58:06Z
+2019-09-16T03:08:51Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2019-09-30T01:54:10Z
+2019-09-30T02:13:24Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2019-09-30T02:13:24Z
+2019-09-30T02:38:22Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2019-09-30T02:38:22Z
+2019-09-30T03:23:02Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2019-09-30T03:23:02Z
+2019-09-30T03:49:49Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2019-09-30T03:49:49Z
+2019-09-30T04:30:19Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2019-09-30T04:30:19Z
+2019-09-30T05:02:45Z
+Dental fluoride treatment (procedure)
+http://snomed.info/sct 68071007
+2019-09-30T05:02:45Z
+2019-09-30T05:24:05Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2020-01-20T01:54:10Z
+2020-01-20T02:15:09Z
+Sleep apnea assessment (procedure)
+http://snomed.info/sct 103750000
+2020-01-20T01:54:10Z
+2020-01-20T02:36:40Z
+Assessment of health and social care needs (procedure)
+http://snomed.info/sct 710824005
+2020-01-20T02:36:40Z
+2020-01-20T02:54:09Z
+Assessment using Morse Fall Scale (procedure)
+http://snomed.info/sct 762993000
+2020-01-20T02:54:09Z
+2020-01-20T03:33:52Z
+Screening for domestic abuse (procedure)
+http://snomed.info/sct 866148006
+2020-01-20T03:33:52Z
+2020-01-20T03:47:52Z
+Assessment of substance use (procedure)
+http://snomed.info/sct 428211000124100
+2020-01-20T03:47:52Z
+2020-01-20T04:11:55Z
+Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+http://snomed.info/sct 763302001
+2020-01-20T04:11:55Z
+2020-01-20T04:16:55Z
+Patient referral for dental care (procedure)
+http://snomed.info/sct 103697008
+2020-02-03T01:54:10Z
+2020-02-03T02:34:26Z
+Dental consultation and report (procedure)
+http://snomed.info/sct 34043003
+2020-02-03T02:34:26Z
+2020-02-03T02:51:37Z
+Dental care (regime/therapy)
+http://snomed.info/sct 225362009
+2020-02-03T02:51:37Z
+2020-02-03T03:29:53Z
+Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260009003
+2020-02-03T03:29:53Z
+2020-02-03T03:53:57Z
+Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+http://snomed.info/sct 1260010008
+2020-02-03T03:53:57Z
+2020-02-03T04:23:57Z
+Dental plain X-ray bitewing (procedure)
+http://snomed.info/sct 241046008
+2020-02-03T03:53:57Z
+2020-02-03T04:52:26Z
+Examination of gingivae (procedure)
+http://snomed.info/sct 274788003
+2020-02-03T04:52:26Z
+2020-02-03T05:22:56Z
+Dental fluoride treatment (procedure)
+http://snomed.info/sct 68071007
+2020-02-03T05:22:56Z
+2020-02-03T05:34:10Z
+Oral health education (procedure)
+http://snomed.info/sct 243085009
+2020-04-30T04:14:00Z
+2020-04-30T04:50:23Z
+Colonoscopy (procedure)
+http://snomed.info/sct 73761001
+2020-05-11T01:54:10Z
+2020-05-11T02:44:33Z
+Replacement of contraceptive intrauterine device (procedure)
+http://snomed.info/sct 46706006
+2020-07-20T01:54:10Z
+2020-07-20T02:05:15Z
+Face mask (physical object)
+http://snomed.info/sct 261352009
+2020-07-20T03:22:25Z
+2020-07-20T04:04:03Z
+Plain X-ray of chest (procedure)
+http://snomed.info/sct 399208008
+2020-07-20T04:04:03Z
+2020-07-20T04:19:03Z
+Oxygen administration by mask (procedure)
+http://snomed.info/sct 371908008
+2020-07-20T04:04:03Z
+2020-07-20T04:19:03Z
+Placing subject in prone position (procedure)
+http://snomed.info/sct 431182000
+2020-07-21T04:04:03Z
+2020-07-21T04:19:03Z
+Oxygen administration by mask (procedure)
+http://snomed.info/sct 371908008
+2020-07-21T04:04:03Z
+2020-07-21T04:19:03Z
+Placing subject in prone position (procedure)
+http://snomed.info/sct 431182000
+2020-07-22T04:04:03Z
+2020-07-22T04:19:03Z
+Oxygen administration by mask (procedure)
+http://snomed.info/sct 371908008
+2020-07-22T04:04:03Z
+2020-07-22T04:19:03Z
+Placing subject in prone position (procedure)
+http://snomed.info/sct 431182000
+2020-07-23T04:04:03Z
+2020-07-23T04:19:03Z
+Oxygen administration by mask (procedure)
+http://snomed.info/sct 371908008
+2020-07-23T04:04:03Z
+2020-07-23T04:19:03Z
+Placing subject in prone position (procedure)
+http://snomed.info/sct 431182000
+2020-07-24T04:04:03Z
+2020-07-24T04:19:03Z
+Oxygen administration by mask (procedure)
+http://snomed.info/sct 371908008
+2020-07-24T04:04:03Z
+2020-07-24T04:19:03Z
+Placing subject in prone position (procedure)
+http://snomed.info/sct 431182000
+2020-07-25T04:04:03Z
+2020-07-25T04:19:03Z
+Oxygen administration by mask (procedure)
+http://snomed.info/sct 371908008
+2020-07-25T04:04:03Z
+2020-07-25T04:19:03Z
+Placing subject in prone position (procedure)
+http://snomed.info/sct 431182000
+2020-07-25T04:04:03Z
+2020-07-25T04:32:39Z
+Insertion of endotracheal tube (procedure)
+http://snomed.info/sct 112798008
+2020-07-25T04:32:39Z
+2020-07-25T04:48:16Z
+Plain X-ray of chest (procedure)
+http://snomed.info/sct 399208008
+2020-07-25T04:48:16Z
+2020-07-25T05:03:16Z
+Assist control ventilation (regime/therapy)
+http://snomed.info/sct 243150007
+2020-07-25T04:48:16Z
+2020-07-25T08:23:16Z
+Hemodialysis (procedure)
+http://snomed.info/sct 302497006
+2020-07-26T08:23:16Z
+2020-07-26T08:38:16Z
+Assist control ventilation (regime/therapy)
+http://snomed.info/sct 243150007
+2020-07-26T08:23:16Z
+2020-07-26T10:52:16Z
+Hemodialysis (procedure)
+http://snomed.info/sct 302497006
+2020-07-27T10:52:16Z
+2020-07-27T11:07:16Z
+Assist control ventilation (regime/therapy)
+http://snomed.info/sct 243150007
+2020-07-27T10:52:16Z
+2020-07-27T13:39:16Z
+Hemodialysis (procedure)
+http://snomed.info/sct 302497006
+2020-07-28T13:39:16Z
+2020-07-28T13:54:16Z
+Assist control ventilation (regime/therapy)
+http://snomed.info/sct 243150007
+2020-07-28T13:39:16Z
+2020-07-28T16:48:16Z
+Hemodialysis (procedure)
+http://snomed.info/sct 302497006
+2020-07-29T16:48:16Z
+2020-07-29T17:03:16Z
+Assist control ventilation (regime/therapy)
+http://snomed.info/sct 243150007
+2020-07-29T16:48:16Z
+2020-07-29T19:39:16Z
+Hemodialysis (procedure)
+http://snomed.info/sct 302497006
+2020-07-30T19:39:16Z
+2020-07-30T19:54:16Z
+Assist control ventilation (regime/therapy)
+http://snomed.info/sct 243150007
+2020-07-30T19:39:16Z
+2020-07-30T23:24:16Z
+Hemodialysis (procedure)
+http://snomed.info/sct 302497006
+2020-07-31T23:24:16Z
+2020-07-31T23:39:16Z
+Assist control ventilation (regime/therapy)
+http://snomed.info/sct 243150007
+2020-07-31T23:24:16Z
+2020-08-01T03:01:16Z
+Hemodialysis (procedure)
+http://snomed.info/sct 302497006
+2020-08-02T03:01:16Z
+2020-08-02T03:16:16Z
+Assist control ventilation (regime/therapy)
+http://snomed.info/sct 243150007
+2020-08-02T03:01:16Z
+2020-08-02T05:17:16Z
+Hemodialysis (procedure)
+http://snomed.info/sct 302497006
+2020-08-03T05:17:16Z
+2020-08-03T05:32:16Z
+Assist control ventilation (regime/therapy)
+http://snomed.info/sct 243150007
+2020-08-03T05:17:16Z
+2020-08-03T07:50:16Z
+Hemodialysis (procedure)
+http://snomed.info/sct 302497006
+2020-08-04T07:50:16Z
+2020-08-04T08:05:16Z
+Assist control ventilation (regime/therapy)
+http://snomed.info/sct 243150007
+2020-08-04T07:50:16Z
+2020-08-04T10:41:16Z
+Hemodialysis (procedure)
+http://snomed.info/sct 302497006
+Encounters
+Start
+Stop
+Description
+Code
+1951-05-30T11:33:10Z
+1951-05-30T11:48:10Z
+Encounter for problem (procedure)
+http://snomed.info/sct 185347001
+1951-06-16T09:54:10Z
+1951-06-16T10:09:10Z
+Encounter for problem (procedure)
+http://snomed.info/sct 185347001
+1952-12-23T01:54:10Z
+1952-12-23T02:09:10Z
+Encounter for symptom (procedure)
+http://snomed.info/sct 185345009
+1962-06-11T01:54:10Z
+1962-06-11T03:15:26Z
+Encounter for problem (procedure)
+http://snomed.info/sct 185347001
+1968-06-24T01:54:10Z
+1968-06-24T02:41:26Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+1978-07-10T01:54:10Z
+1978-07-10T02:47:08Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+1980-05-27T01:54:10Z
+1980-05-27T02:09:10Z
+Encounter for symptom (procedure)
+http://snomed.info/sct 185345009
+1980-06-09T01:54:10Z
+1980-06-09T02:38:02Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+1986-05-05T15:55:11Z
+1986-05-06T15:55:11Z
+Admission to surgical department (procedure)
+http://snomed.info/sct 305408004
+2000-10-02T01:54:10Z
+2000-10-02T02:37:18Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2001-04-18T01:54:10Z
+2001-04-18T02:46:02Z
+Encounter for symptom (procedure)
+http://snomed.info/sct 185345009
+2001-05-16T03:26:34Z
+2001-05-17T03:26:34Z
+Encounter for problem (procedure)
+http://snomed.info/sct 185347001
+2001-10-08T01:54:10Z
+2001-10-08T02:31:45Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2002-10-14T01:54:10Z
+2002-10-14T02:43:58Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2005-10-31T01:54:10Z
+2005-10-31T02:32:06Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2008-11-17T01:54:10Z
+2008-11-17T02:40:16Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2009-11-23T01:54:10Z
+2009-11-23T02:52:33Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2010-02-22T01:54:10Z
+2010-02-22T02:43:42Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2010-11-29T01:54:10Z
+2010-11-29T02:29:06Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2010-12-13T01:54:10Z
+2010-12-13T04:46:04Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2010-12-22T03:19:11Z
+2010-12-22T04:19:11Z
+Emergency room admission (procedure)
+http://snomed.info/sct 50849002
+2011-12-05T01:54:10Z
+2011-12-05T02:24:56Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2011-12-17T11:54:10Z
+2011-12-17T12:09:10Z
+Asthma follow-up (regime/therapy)
+http://snomed.info/sct 394701000
+2011-12-19T01:54:10Z
+2011-12-19T06:01:34Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2012-12-10T01:54:10Z
+2012-12-10T02:27:14Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2012-12-24T01:54:10Z
+2012-12-24T05:34:10Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2013-12-16T01:54:10Z
+2013-12-16T02:25:50Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2014-02-05T01:54:10Z
+2014-02-05T02:09:10Z
+Encounter for problem (procedure)
+http://snomed.info/sct 185347001
+2014-02-08T01:54:10Z
+2014-02-08T02:45:17Z
+Patient encounter procedure (procedure)
+http://snomed.info/sct 308335008
+2014-02-11T02:45:17Z
+2014-02-11T03:43:16Z
+Patient encounter procedure (procedure)
+http://snomed.info/sct 308335008
+2014-02-14T03:43:16Z
+2014-02-14T04:38:34Z
+Patient encounter procedure (procedure)
+http://snomed.info/sct 308335008
+2014-02-17T04:38:34Z
+2014-02-17T05:28:22Z
+Patient encounter procedure (procedure)
+http://snomed.info/sct 308335008
+2014-02-20T05:28:22Z
+2014-02-20T06:23:37Z
+Patient encounter procedure (procedure)
+http://snomed.info/sct 308335008
+2014-02-23T06:23:37Z
+2014-02-23T07:15:02Z
+Patient encounter procedure (procedure)
+http://snomed.info/sct 308335008
+2014-02-26T07:15:02Z
+2014-02-26T08:14:20Z
+Patient encounter procedure (procedure)
+http://snomed.info/sct 308335008
+2014-03-01T08:14:20Z
+2014-03-01T09:07:57Z
+Patient encounter procedure (procedure)
+http://snomed.info/sct 308335008
+2014-03-04T09:07:57Z
+2014-03-04T09:53:05Z
+Patient encounter procedure (procedure)
+http://snomed.info/sct 308335008
+2014-03-07T09:53:05Z
+2014-03-07T10:39:45Z
+Patient encounter procedure (procedure)
+http://snomed.info/sct 308335008
+2014-12-22T01:54:10Z
+2014-12-22T02:36:42Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2015-05-01T03:39:13Z
+2015-05-01T04:14:00Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2015-05-11T01:54:10Z
+2015-05-11T02:51:51Z
+Patient encounter procedure (procedure)
+http://snomed.info/sct 308335008
+2015-11-26T11:54:10Z
+2015-11-26T12:09:10Z
+Asthma follow-up (regime/therapy)
+http://snomed.info/sct 394701000
+2015-12-28T01:54:10Z
+2015-12-28T02:44:15Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2017-01-02T01:54:10Z
+2017-01-02T02:49:51Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2017-01-16T01:54:10Z
+2017-01-16T04:45:35Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2017-10-25T04:11:35Z
+2017-10-25T05:18:54Z
+Encounter for problem (procedure)
+http://snomed.info/sct 185347001
+2017-11-15T05:18:54Z
+2017-11-15T06:15:00Z
+Follow-up encounter (procedure)
+http://snomed.info/sct 390906007
+2018-01-08T01:54:10Z
+2018-01-08T02:45:57Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2018-05-14T11:54:10Z
+2018-05-14T12:09:10Z
+Asthma follow-up (regime/therapy)
+http://snomed.info/sct 394701000
+2019-01-14T01:54:10Z
+2019-01-14T02:25:49Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2019-01-28T01:54:10Z
+2019-01-28T05:05:45Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2019-03-22T03:19:11Z
+2019-03-22T04:19:11Z
+Emergency room admission (procedure)
+http://snomed.info/sct 50849002
+2019-05-02T03:19:11Z
+2019-05-02T03:34:11Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2019-05-09T11:54:10Z
+2019-05-09T12:09:10Z
+Asthma follow-up (regime/therapy)
+http://snomed.info/sct 394701000
+2019-09-16T01:54:10Z
+2019-09-16T02:29:37Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2019-09-23T01:54:10Z
+2019-09-23T02:09:10Z
+Encounter for symptom (procedure)
+http://snomed.info/sct 185345009
+2019-09-30T01:54:10Z
+2019-09-30T05:24:05Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2020-01-20T01:54:10Z
+2020-01-20T02:36:40Z
+General examination of patient (procedure)
+http://snomed.info/sct 162673000
+2020-02-03T01:54:10Z
+2020-02-03T05:34:10Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2020-04-30T04:14:00Z
+2020-04-30T04:50:23Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2020-05-11T01:54:10Z
+2020-05-11T02:44:33Z
+Patient encounter procedure (procedure)
+http://snomed.info/sct 308335008
+2020-07-20T01:54:10Z
+2020-07-20T03:22:25Z
+Encounter for symptom (procedure)
+http://snomed.info/sct 185345009
+2020-07-20T03:22:25Z
+2020-07-25T04:19:03Z
+Hospital admission for isolation (procedure)
+http://snomed.info/sct 1505002
+2020-07-25T04:04:03Z
+2020-08-04T13:35:16Z
+Admission to intensive care unit (procedure)
+http://snomed.info/sct 305351004
+2020-08-17T01:54:10Z
+2020-08-17T02:09:10Z
+Death Certification
+http://snomed.info/sct 308646001
+Vital Signs
+Start
+Stop
+Description
+Code
+Value
+2010-11-29T01:54:10Z
+Body Height
+http://loinc.org 8302-2
+160.8 cm
+2010-11-29T01:54:10Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+3 {score}
+2010-11-29T01:54:10Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2010-11-29T01:54:10Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+28.04 kg/m2
+2010-11-29T01:54:10Z
+Heart rate
+http://loinc.org 8867-4
+85 /min
+2010-11-29T01:54:10Z
+Respiratory rate
+http://loinc.org 9279-1
+15 /min
+2011-12-05T01:54:10Z
+Body Height
+http://loinc.org 8302-2
+160.8 cm
+2011-12-05T01:54:10Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+1 {score}
+2011-12-05T01:54:10Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2011-12-05T01:54:10Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+28.04 kg/m2
+2011-12-05T01:54:10Z
+Heart rate
+http://loinc.org 8867-4
+90 /min
+2011-12-05T01:54:10Z
+Respiratory rate
+http://loinc.org 9279-1
+15 /min
+2012-12-10T01:54:10Z
+Body Height
+http://loinc.org 8302-2
+160.8 cm
+2012-12-10T01:54:10Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+3 {score}
+2012-12-10T01:54:10Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2012-12-10T01:54:10Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+28.04 kg/m2
+2012-12-10T01:54:10Z
+Heart rate
+http://loinc.org 8867-4
+100 /min
+2012-12-10T01:54:10Z
+Respiratory rate
+http://loinc.org 9279-1
+15 /min
+2013-12-16T01:54:10Z
+Body Height
+http://loinc.org 8302-2
+160.8 cm
+2013-12-16T01:54:10Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+1 {score}
+2013-12-16T01:54:10Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2013-12-16T01:54:10Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+28.04 kg/m2
+2013-12-16T01:54:10Z
+Heart rate
+http://loinc.org 8867-4
+93 /min
+2013-12-16T01:54:10Z
+Respiratory rate
+http://loinc.org 9279-1
+15 /min
+2014-12-22T01:54:10Z
+Body Height
+http://loinc.org 8302-2
+160.8 cm
+2014-12-22T01:54:10Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+2 {score}
+2014-12-22T01:54:10Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2014-12-22T01:54:10Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+28.04 kg/m2
+2014-12-22T01:54:10Z
+Heart rate
+http://loinc.org 8867-4
+77 /min
+2014-12-22T01:54:10Z
+Respiratory rate
+http://loinc.org 9279-1
+13 /min
+2015-12-28T01:54:10Z
+Body Height
+http://loinc.org 8302-2
+160.8 cm
+2015-12-28T01:54:10Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+2 {score}
+2015-12-28T01:54:10Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2015-12-28T01:54:10Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+28.04 kg/m2
+2015-12-28T01:54:10Z
+Heart rate
+http://loinc.org 8867-4
+99 /min
+2015-12-28T01:54:10Z
+Respiratory rate
+http://loinc.org 9279-1
+15 /min
+2017-01-02T01:54:10Z
+Body Height
+http://loinc.org 8302-2
+160.8 cm
+2017-01-02T01:54:10Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+3 {score}
+2017-01-02T01:54:10Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2017-01-02T01:54:10Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+28.04 kg/m2
+2017-01-02T01:54:10Z
+Heart rate
+http://loinc.org 8867-4
+72 /min
+2017-01-02T01:54:10Z
+Respiratory rate
+http://loinc.org 9279-1
+12 /min
+2018-01-08T01:54:10Z
+Body Height
+http://loinc.org 8302-2
+160.8 cm
+2018-01-08T01:54:10Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+1 {score}
+2018-01-08T01:54:10Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2018-01-08T01:54:10Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+28.04 kg/m2
+2018-01-08T01:54:10Z
+Heart rate
+http://loinc.org 8867-4
+81 /min
+2018-01-08T01:54:10Z
+Respiratory rate
+http://loinc.org 9279-1
+14 /min
+2019-01-14T01:54:10Z
+Body Height
+http://loinc.org 8302-2
+160.8 cm
+2019-01-14T01:54:10Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+3 {score}
+2019-01-14T01:54:10Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2019-01-14T01:54:10Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+28.04 kg/m2
+2019-01-14T01:54:10Z
+Heart rate
+http://loinc.org 8867-4
+76 /min
+2019-01-14T01:54:10Z
+Respiratory rate
+http://loinc.org 9279-1
+13 /min
+2019-09-16T01:54:10Z
+Body Height
+http://loinc.org 8302-2
+160.8 cm
+2019-09-16T01:54:10Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+2 {score}
+2019-09-16T01:54:10Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2019-09-16T01:54:10Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+28.04 kg/m2
+2019-09-16T01:54:10Z
+Heart rate
+http://loinc.org 8867-4
+93 /min
+2019-09-16T01:54:10Z
+Respiratory rate
+http://loinc.org 9279-1
+15 /min
+2020-01-20T01:54:10Z
+Body Height
+http://loinc.org 8302-2
+160.8 cm
+2020-01-20T01:54:10Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+1 {score}
+2020-01-20T01:54:10Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2020-01-20T01:54:10Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+28.04 kg/m2
+2020-01-20T01:54:10Z
+Heart rate
+http://loinc.org 8867-4
+95 /min
+2020-01-20T01:54:10Z
+Respiratory rate
+http://loinc.org 9279-1
+14 /min
+2020-07-20T01:54:10Z
+Body temperature
+http://loinc.org 8310-5
+41.241799037504684 Cel
+2020-07-20T01:54:10Z
+Respiratory rate
+http://loinc.org 9279-1
+29.380917394387808 /min
+2020-07-20T01:54:10Z
+Heart rate
+http://loinc.org 8867-4
+159.09525138860835 /min
+2020-07-20T01:54:10Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+76.42 %
+2020-07-20T01:54:10Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2020-07-20T04:04:03Z
+Body temperature
+http://loinc.org 8310-5
+41.18334259770427 Cel
+2020-07-20T04:04:03Z
+Respiratory rate
+http://loinc.org 9279-1
+24.97528414717061 /min
+2020-07-20T04:04:03Z
+Heart rate
+http://loinc.org 8867-4
+86.85130953593199 /min
+2020-07-20T04:04:03Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+80.39 %
+2020-07-20T04:04:03Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2020-07-20T04:04:03Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+81.93 %
+2020-07-21T04:04:03Z
+Body temperature
+http://loinc.org 8310-5
+38.55411156570395 Cel
+2020-07-21T04:04:03Z
+Respiratory rate
+http://loinc.org 9279-1
+26.685855866631762 /min
+2020-07-21T04:04:03Z
+Heart rate
+http://loinc.org 8867-4
+122.55556267523686 /min
+2020-07-21T04:04:03Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+79.35 %
+2020-07-21T04:04:03Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2020-07-21T04:04:03Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+82.43 %
+2020-07-22T04:04:03Z
+Body temperature
+http://loinc.org 8310-5
+38.178888226980696 Cel
+2020-07-22T04:04:03Z
+Respiratory rate
+http://loinc.org 9279-1
+27.231529442580566 /min
+2020-07-22T04:04:03Z
+Heart rate
+http://loinc.org 8867-4
+144.05090012759695 /min
+2020-07-22T04:04:03Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+79.24 %
+2020-07-22T04:04:03Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2020-07-22T04:04:03Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+84.1 %
+2020-07-23T04:04:03Z
+Body temperature
+http://loinc.org 8310-5
+38.362883913840236 Cel
+2020-07-23T04:04:03Z
+Respiratory rate
+http://loinc.org 9279-1
+39.70624728883114 /min
+2020-07-23T04:04:03Z
+Heart rate
+http://loinc.org 8867-4
+178.2403552436748 /min
+2020-07-23T04:04:03Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+86.83 %
+2020-07-23T04:04:03Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2020-07-23T04:04:03Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+87.87 %
+2020-07-24T04:04:03Z
+Body temperature
+http://loinc.org 8310-5
+38.7456419048586 Cel
+2020-07-24T04:04:03Z
+Respiratory rate
+http://loinc.org 9279-1
+21.465845659138928 /min
+2020-07-24T04:04:03Z
+Heart rate
+http://loinc.org 8867-4
+155.11695595640316 /min
+2020-07-24T04:04:03Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+83.84 %
+2020-07-24T04:04:03Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2020-07-24T04:04:03Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+81.27 %
+2020-07-25T04:04:03Z
+Body temperature
+http://loinc.org 8310-5
+39.170928993440754 Cel
+2020-07-25T04:04:03Z
+Respiratory rate
+http://loinc.org 9279-1
+25.06686898000965 /min
+2020-07-25T04:04:03Z
+Heart rate
+http://loinc.org 8867-4
+69.75055252668432 /min
+2020-07-25T04:04:03Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+78.02 %
+2020-07-25T04:04:03Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2020-07-25T04:04:03Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+87.43 %
+2020-07-25T04:48:16Z
+Body temperature
+http://loinc.org 8310-5
+40.33796839590886 Cel
+2020-07-25T04:48:16Z
+Respiratory rate
+http://loinc.org 9279-1
+38.87304993880567 /min
+2020-07-25T04:48:16Z
+Heart rate
+http://loinc.org 8867-4
+57.87485607317569 /min
+2020-07-25T04:48:16Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+79 %
+2020-07-25T04:48:16Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2020-07-25T04:48:16Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+78.74 %
+2020-07-26T08:23:16Z
+Body temperature
+http://loinc.org 8310-5
+39.7666741033476 Cel
+2020-07-26T08:23:16Z
+Respiratory rate
+http://loinc.org 9279-1
+32.95088946168332 /min
+2020-07-26T08:23:16Z
+Heart rate
+http://loinc.org 8867-4
+51.78037382268836 /min
+2020-07-26T08:23:16Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+87.98 %
+2020-07-26T08:23:16Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2020-07-26T08:23:16Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+76.41 %
+2020-07-27T10:52:16Z
+Body temperature
+http://loinc.org 8310-5
+41.2774776713319 Cel
+2020-07-27T10:52:16Z
+Respiratory rate
+http://loinc.org 9279-1
+26.831528071496376 /min
+2020-07-27T10:52:16Z
+Heart rate
+http://loinc.org 8867-4
+134.83764546922833 /min
+2020-07-27T10:52:16Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+77.22 %
+2020-07-27T10:52:16Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2020-07-27T10:52:16Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+84.35 %
+2020-07-28T13:39:16Z
+Body temperature
+http://loinc.org 8310-5
+41.17737006037467 Cel
+2020-07-28T13:39:16Z
+Respiratory rate
+http://loinc.org 9279-1
+31.79755337225691 /min
+2020-07-28T13:39:16Z
+Heart rate
+http://loinc.org 8867-4
+59.8191210533296 /min
+2020-07-28T13:39:16Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+87.65 %
+2020-07-28T13:39:16Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2020-07-28T13:39:16Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+83.47 %
+2020-07-29T16:48:16Z
+Body temperature
+http://loinc.org 8310-5
+42.08533057402729 Cel
+2020-07-29T16:48:16Z
+Respiratory rate
+http://loinc.org 9279-1
+25.338612376612506 /min
+2020-07-29T16:48:16Z
+Heart rate
+http://loinc.org 8867-4
+52.86630183272652 /min
+2020-07-29T16:48:16Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+75.44 %
+2020-07-29T16:48:16Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2020-07-29T16:48:16Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+82.15 %
+2020-07-30T19:39:16Z
+Body temperature
+http://loinc.org 8310-5
+41.355973674849814 Cel
+2020-07-30T19:39:16Z
+Respiratory rate
+http://loinc.org 9279-1
+31.116773565765964 /min
+2020-07-30T19:39:16Z
+Heart rate
+http://loinc.org 8867-4
+76.7381941300732 /min
+2020-07-30T19:39:16Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+82.93 %
+2020-07-30T19:39:16Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2020-07-30T19:39:16Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+82.7 %
+2020-07-31T23:24:16Z
+Body temperature
+http://loinc.org 8310-5
+39.71804277340799 Cel
+2020-07-31T23:24:16Z
+Respiratory rate
+http://loinc.org 9279-1
+16.078708519225824 /min
+2020-07-31T23:24:16Z
+Heart rate
+http://loinc.org 8867-4
+95.34394830917375 /min
+2020-07-31T23:24:16Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+78.34 %
+2020-07-31T23:24:16Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2020-07-31T23:24:16Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+86.94 %
+2020-08-02T03:01:16Z
+Body temperature
+http://loinc.org 8310-5
+37.97489043236888 Cel
+2020-08-02T03:01:16Z
+Respiratory rate
+http://loinc.org 9279-1
+19.100324695455274 /min
+2020-08-02T03:01:16Z
+Heart rate
+http://loinc.org 8867-4
+88.29401719098703 /min
+2020-08-02T03:01:16Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+88.73 %
+2020-08-02T03:01:16Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2020-08-02T03:01:16Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+82.78 %
+2020-08-03T05:17:16Z
+Body temperature
+http://loinc.org 8310-5
+40.272297759057174 Cel
+2020-08-03T05:17:16Z
+Respiratory rate
+http://loinc.org 9279-1
+35.55678654959657 /min
+2020-08-03T05:17:16Z
+Heart rate
+http://loinc.org 8867-4
+166.19721427123812 /min
+2020-08-03T05:17:16Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+85.65 %
+2020-08-03T05:17:16Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2020-08-03T05:17:16Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+84.35 %
+2020-08-04T07:50:16Z
+Body temperature
+http://loinc.org 8310-5
+38.08507357626671 Cel
+2020-08-04T07:50:16Z
+Respiratory rate
+http://loinc.org 9279-1
+34.471580449872164 /min
+2020-08-04T07:50:16Z
+Heart rate
+http://loinc.org 8867-4
+112.84675655798068 /min
+2020-08-04T07:50:16Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+84.5 %
+2020-08-04T07:50:16Z
+Body Weight
+http://loinc.org 29463-7
+72.5 kg
+2020-08-04T07:50:16Z
+Oxygen saturation in Arterial blood
+http://loinc.org 2708-6
+86.34 %
+Immunizations
+Start
+Stop
+Description
+Code
+2010-11-29T01:54:10Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2011-12-05T01:54:10Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2011-12-05T01:54:10Z
+Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+http://hl7.org/fhir/sid/cvx 113
+2012-12-10T01:54:10Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2013-12-16T01:54:10Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2014-12-22T01:54:10Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2015-12-28T01:54:10Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2015-12-28T01:54:10Z
+Pneumococcal conjugate PCV 13
+http://hl7.org/fhir/sid/cvx 133
+2017-01-02T01:54:10Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2017-01-02T01:54:10Z
+pneumococcal polysaccharide vaccine, 23 valent
+http://hl7.org/fhir/sid/cvx 33
+2018-01-08T01:54:10Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2019-01-14T01:54:10Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2020-01-20T01:54:10Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Pneumococcal conjugate PCV 13
+Influenza, split virus, trivalent, PF
+pneumococcal polysaccharide vaccine, 23 valent
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Influenza, split virus, trivalent, PF
+Plan of Care
+Start
+Stop
+Description
+Code
+1951-05-30T11:33:10Z
+Self-care interventions (procedure)
+http://snomed.info/sct 384758001
+1978-07-10T01:54:10Z
+Diabetes self management plan (record artifact)
+http://snomed.info/sct 735985000
+1980-05-27T01:54:10Z
+Asthma self management (regime/therapy)
+http://snomed.info/sct 699728000
+2001-05-16T11:24:59Z
+Care plan (record artifact)
+http://snomed.info/sct 734163000
+2002-10-14T01:54:10Z
+Lifestyle education regarding hypertension (procedure)
+http://snomed.info/sct 443402002
+2010-12-22T03:19:11Z
+2011-03-05T03:19:11Z
+Physiotherapy care plan (record artifact)
+http://snomed.info/sct 773513001
+2014-02-05T01:54:10Z
+2014-03-07T10:39:45Z
+Therapy (regime/therapy)
+http://snomed.info/sct 276239002
+2019-03-22T03:19:11Z
+2019-05-02T03:19:11Z
+Head injury rehabilitation (regime/therapy)
+http://snomed.info/sct 47387005
+2020-07-20T02:05:15Z
+2020-07-20T03:22:25Z
+Infectious disease care plan (record artifact)
+http://snomed.info/sct 736376001
+Social History
+There is no current social history except smoking status.
+https://github.com/synthetichealth/synthea
+https://github.com/synthetichealth/synthea
+CARING HEALTHCARE SERVICES LLC
+32 BOSSI AVE
+RANDOLPH
+MA
+023682002
+Functional Status
+Start
+Stop
+Description
+Code
+Value
+2010-11-29T02:55:54Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+3 {score}
+2010-11-29T03:29:31Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+2 {score}
+2010-11-29T04:01:47Z
+Total score [AUDIT-C]
+http://loinc.org 75626-2
+1 {score}
+2011-12-05T02:44:01Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+2 {score}
+2011-12-05T03:12:48Z
+Total score [HARK]
+http://loinc.org 76504-0
+1 {score}
+2011-12-05T03:53:54Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+1 {score}
+2011-12-05T04:34:35Z
+Total score [AUDIT-C]
+http://loinc.org 75626-2
+0 {score}
+2012-12-10T02:46:18Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+1 {score}
+2012-12-10T03:20:41Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+2 {score}
+2012-12-10T03:52:06Z
+Total score [AUDIT-C]
+http://loinc.org 75626-2
+2 {score}
+2013-12-16T02:42:41Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+3 {score}
+2013-12-16T03:22:39Z
+Total score [AUDIT-C]
+http://loinc.org 75626-2
+0 {score}
+2014-02-08T02:45:17Z
+Pain severity - Reported
+http://loinc.org 38208-5
+2.9880329055736903 {score}
+2014-02-11T03:43:16Z
+Pain severity - Reported
+http://loinc.org 38208-5
+6.488774094985252 {score}
+2014-02-14T04:38:34Z
+Pain severity - Reported
+http://loinc.org 38208-5
+7.000749019427323 {score}
+2014-02-17T05:28:22Z
+Pain severity - Reported
+http://loinc.org 38208-5
+4.405267345493692 {score}
+2014-02-20T06:23:37Z
+Pain severity - Reported
+http://loinc.org 38208-5
+8.849056352219037 {score}
+2014-02-23T07:15:02Z
+Pain severity - Reported
+http://loinc.org 38208-5
+1.3215433700791879 {score}
+2014-02-26T08:14:20Z
+Pain severity - Reported
+http://loinc.org 38208-5
+9.973030147370551 {score}
+2014-03-01T09:07:57Z
+Pain severity - Reported
+http://loinc.org 38208-5
+6.734220273600945 {score}
+2014-03-04T09:53:05Z
+Pain severity - Reported
+http://loinc.org 38208-5
+2.3031991207900058 {score}
+2014-03-07T10:39:45Z
+Pain severity - Reported
+http://loinc.org 38208-5
+5.251670246612899 {score}
+2014-12-22T02:56:47Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+1 {score}
+2014-12-22T03:19:37Z
+Fall risk total [Morse Fall Scale]
+http://loinc.org 59460-6
+40 {#}
+2014-12-22T04:00:47Z
+Total score [DAST-10]
+http://loinc.org 82667-7
+2 {score}
+2015-12-28T03:12:33Z
+Fall risk total [Morse Fall Scale]
+http://loinc.org 59460-6
+26 {#}
+2015-12-28T03:54:35Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+1 {score}
+2015-12-28T04:32:59Z
+Total score [AUDIT-C]
+http://loinc.org 75626-2
+0 {score}
+2017-01-02T03:07:32Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+4 {score}
+2018-01-08T03:07:10Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+1 {score}
+2018-01-08T03:22:17Z
+Fall risk total [Morse Fall Scale]
+http://loinc.org 59460-6
+111 {#}
+2018-01-08T04:02:23Z
+Total score [HARK]
+http://loinc.org 76504-0
+0 {score}
+2018-01-08T04:43:44Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+1 {score}
+2019-01-14T02:44:12Z
+Fall risk total [Morse Fall Scale]
+http://loinc.org 59460-6
+94 {#}
+2019-01-14T03:18:01Z
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]
+http://loinc.org 55758-7
+1 {score}
+2019-09-16T02:58:06Z
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+http://loinc.org 70274-6
+4 {score}
+2020-01-20T02:54:09Z
+Fall risk total [Morse Fall Scale]
+http://loinc.org 59460-6
+14 {#}
+2020-01-20T03:33:52Z
+Total score [HARK]
+http://loinc.org 76504-0
+0 {score}
+2020-01-20T04:11:55Z
+Total score [AUDIT-C]
+http://loinc.org 75626-2
+1 {score}

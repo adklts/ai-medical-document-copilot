@@ -1,0 +1,687 @@
+C-CDA R2.1 Patient Record: Hettie215 Torphy630
+862 Abbott Harbor Apt 51
+Quincy
+Massachusetts
+02171
+Hettie215
+Torphy630
+https://github.com/synthetichealth/synthea
+https://github.com/synthetichealth/synthea
+PATHWAYS HEALTHCARE LLC
+101 STATION DR STE 240
+WESTWOOD
+MA
+020902336
+PATHWAYS HEALTHCARE LLC
+101 STATION DR STE 240
+WESTWOOD
+MA
+020902336
+Allergies
+There are no current allergies at the time of this document's creation.
+Medications
+Start
+Stop
+Description
+Code
+2024-05-31T05:18:52Z
+2024-06-14T05:18:52Z
+Amoxicillin 500 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 308192
+2024-05-31T05:18:52Z
+2024-06-14T05:18:52Z
+Acetaminophen 160 MG Chewable Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 313820
+2024-06-21T05:18:52Z
+2024-07-09T05:18:52Z
+Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+http://www.nlm.nih.gov/research/umls/rxnorm 1043400
+2024-10-12T05:18:52Z
+2024-10-26T05:18:52Z
+Cefuroxime 250 MG Oral Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 309097
+2024-10-12T05:18:52Z
+2024-10-26T05:18:52Z
+Acetaminophen 160 MG Chewable Tablet
+http://www.nlm.nih.gov/research/umls/rxnorm 313820
+Amoxicillin 500 MG Oral Tablet
+Acetaminophen 160 MG Chewable Tablet
+Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+Cefuroxime 250 MG Oral Tablet
+Acetaminophen 160 MG Chewable Tablet
+Diagnostic Results
+Start
+Stop
+Description
+Code
+2023-04-07T05:18:52Z
+CBC panel - Blood by Automated count
+http://loinc.org 58410-2
+Problems
+Start
+Stop
+Description
+Code
+2023-04-07T05:18:52Z
+2023-05-12T05:18:52Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2023-07-14T05:18:52Z
+2023-12-15T05:18:52Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2024-03-15T05:18:52Z
+2024-03-15T05:18:52Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2024-05-31T05:18:52Z
+2024-06-14T05:18:52Z
+Otitis media (disorder)
+http://snomed.info/sct 65363002
+2024-06-07T05:18:52Z
+2024-06-07T05:18:52Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2024-06-14T05:18:52Z
+2024-06-14T05:18:52Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2024-06-21T05:18:52Z
+2024-07-09T05:18:52Z
+Acute bronchitis (disorder)
+http://snomed.info/sct 10509002
+2024-09-13T05:18:52Z
+2024-09-13T05:18:52Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+2024-10-12T05:18:52Z
+2025-03-14T05:18:52Z
+Otitis media (disorder)
+http://snomed.info/sct 65363002
+2025-03-14T05:18:52Z
+2025-09-12T05:18:52Z
+Medication review due (situation)
+http://snomed.info/sct 314529007
+Surgeries
+Start
+Stop
+Description
+Code
+2023-05-12T05:18:52Z
+2023-05-12T05:33:52Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2023-12-15T05:18:52Z
+2023-12-15T05:33:52Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2024-03-15T05:18:52Z
+2024-03-15T05:33:52Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2024-06-07T05:18:52Z
+2024-06-07T05:33:52Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2024-06-14T05:18:52Z
+2024-06-14T05:33:52Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2024-09-13T05:18:52Z
+2024-09-13T05:33:52Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+2025-09-12T05:18:52Z
+2025-09-12T05:33:52Z
+Medication reconciliation (procedure)
+http://snomed.info/sct 430193006
+Encounters
+Start
+Stop
+Description
+Code
+2023-04-07T05:18:52Z
+2023-04-07T05:33:52Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2023-05-12T05:18:52Z
+2023-05-12T05:33:52Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2023-07-14T05:18:52Z
+2023-07-14T05:33:52Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2023-09-15T05:18:52Z
+2023-09-15T05:33:52Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2023-12-15T05:18:52Z
+2023-12-15T05:33:52Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2024-03-15T05:18:52Z
+2024-03-15T05:33:52Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2024-05-31T05:18:52Z
+2024-05-31T05:33:52Z
+Encounter for symptom (procedure)
+http://snomed.info/sct 185345009
+2024-06-07T05:18:52Z
+2024-06-07T05:33:52Z
+Encounter for check up (procedure)
+http://snomed.info/sct 185349003
+2024-06-14T05:18:52Z
+2024-06-14T05:33:52Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2024-06-21T05:18:52Z
+2024-06-21T05:33:52Z
+Encounter for symptom (procedure)
+http://snomed.info/sct 185345009
+2024-09-13T05:18:52Z
+2024-09-13T05:33:52Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2024-10-12T05:18:52Z
+2024-10-12T05:33:52Z
+Encounter for symptom (procedure)
+http://snomed.info/sct 185345009
+2025-03-14T05:18:52Z
+2025-03-14T05:33:52Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+2025-09-12T05:18:52Z
+2025-09-12T05:33:52Z
+Well child visit (procedure)
+http://snomed.info/sct 410620009
+Vital Signs
+Start
+Stop
+Description
+Code
+Value
+2023-04-07T05:18:52Z
+Body Height
+http://loinc.org 8302-2
+51.2 cm
+2023-04-07T05:18:52Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+1 {score}
+2023-04-07T05:18:52Z
+Body Weight
+http://loinc.org 29463-7
+3.4 kg
+2023-04-07T05:18:52Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+18.222566068548314 %
+2023-04-07T05:18:52Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+44.53 %
+2023-04-07T05:18:52Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+34.49 cm
+2023-04-07T05:18:52Z
+Heart rate
+http://loinc.org 8867-4
+88 /min
+2023-04-07T05:18:52Z
+Respiratory rate
+http://loinc.org 9279-1
+13 /min
+2023-05-12T05:18:52Z
+Body Height
+http://loinc.org 8302-2
+54.8 cm
+2023-05-12T05:18:52Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+0 {score}
+2023-05-12T05:18:52Z
+Body Weight
+http://loinc.org 29463-7
+4.1 kg
+2023-05-12T05:18:52Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+5.977931570011491 %
+2023-05-12T05:18:52Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+44.53 %
+2023-05-12T05:18:52Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+37.78 cm
+2023-05-12T05:18:52Z
+Heart rate
+http://loinc.org 8867-4
+70 /min
+2023-05-12T05:18:52Z
+Respiratory rate
+http://loinc.org 9279-1
+13 /min
+2023-07-14T05:18:52Z
+Body Height
+http://loinc.org 8302-2
+60 cm
+2023-07-14T05:18:52Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+2 {score}
+2023-07-14T05:18:52Z
+Body Weight
+http://loinc.org 29463-7
+5.3 kg
+2023-07-14T05:18:52Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+8.140953979989712 %
+2023-07-14T05:18:52Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+44.53 %
+2023-07-14T05:18:52Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+40.28 cm
+2023-07-14T05:18:52Z
+Heart rate
+http://loinc.org 8867-4
+72 /min
+2023-07-14T05:18:52Z
+Respiratory rate
+http://loinc.org 9279-1
+13 /min
+2023-09-15T05:18:52Z
+Body Height
+http://loinc.org 8302-2
+63.9 cm
+2023-09-15T05:18:52Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+1 {score}
+2023-09-15T05:18:52Z
+Body Weight
+http://loinc.org 29463-7
+6.3 kg
+2023-09-15T05:18:52Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+11.764585528542648 %
+2023-09-15T05:18:52Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+44.53 %
+2023-09-15T05:18:52Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+41.91 cm
+2023-09-15T05:18:52Z
+Heart rate
+http://loinc.org 8867-4
+75 /min
+2023-09-15T05:18:52Z
+Respiratory rate
+http://loinc.org 9279-1
+14 /min
+2023-12-15T05:18:52Z
+Body Height
+http://loinc.org 8302-2
+68.6 cm
+2023-12-15T05:18:52Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+2 {score}
+2023-12-15T05:18:52Z
+Body Weight
+http://loinc.org 29463-7
+7.6 kg
+2023-12-15T05:18:52Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+19.223770607709557 %
+2023-12-15T05:18:52Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+44.53 %
+2023-12-15T05:18:52Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+43.56 cm
+2023-12-15T05:18:52Z
+Heart rate
+http://loinc.org 8867-4
+67 /min
+2023-12-15T05:18:52Z
+Respiratory rate
+http://loinc.org 9279-1
+13 /min
+2024-03-15T05:18:52Z
+Body Height
+http://loinc.org 8302-2
+72.6 cm
+2024-03-15T05:18:52Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+1 {score}
+2024-03-15T05:18:52Z
+Body Weight
+http://loinc.org 29463-7
+8.6 kg
+2024-03-15T05:18:52Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+24.160290144835457 %
+2024-03-15T05:18:52Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+44.53 %
+2024-03-15T05:18:52Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+44.71 cm
+2024-03-15T05:18:52Z
+Heart rate
+http://loinc.org 8867-4
+79 /min
+2024-03-15T05:18:52Z
+Respiratory rate
+http://loinc.org 9279-1
+14 /min
+2024-06-07T05:18:52Z
+Body Height
+http://loinc.org 8302-2
+76.1 cm
+2024-06-07T05:18:52Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+0 {score}
+2024-06-07T05:18:52Z
+Body Weight
+http://loinc.org 29463-7
+9.4 kg
+2024-06-07T05:18:52Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+30.60239674994144 %
+2024-06-07T05:18:52Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+44.53 %
+2024-06-07T05:18:52Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+45.57 cm
+2024-06-07T05:18:52Z
+Heart rate
+http://loinc.org 8867-4
+80 /min
+2024-06-07T05:18:52Z
+Respiratory rate
+http://loinc.org 9279-1
+16 /min
+2024-06-14T05:18:52Z
+Body Height
+http://loinc.org 8302-2
+76.1 cm
+2024-06-14T05:18:52Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+2 {score}
+2024-06-14T05:18:52Z
+Body Weight
+http://loinc.org 29463-7
+9.4 kg
+2024-06-14T05:18:52Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+30.60239674994144 %
+2024-06-14T05:18:52Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+44.53 %
+2024-06-14T05:18:52Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+45.57 cm
+2024-06-14T05:18:52Z
+Heart rate
+http://loinc.org 8867-4
+63 /min
+2024-06-14T05:18:52Z
+Respiratory rate
+http://loinc.org 9279-1
+15 /min
+2024-09-13T05:18:52Z
+Body Height
+http://loinc.org 8302-2
+79.2 cm
+2024-09-13T05:18:52Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+2 {score}
+2024-09-13T05:18:52Z
+Body Weight
+http://loinc.org 29463-7
+10 kg
+2024-09-13T05:18:52Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+28.190999407483417 %
+2024-09-13T05:18:52Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+44.53 %
+2024-09-13T05:18:52Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+46.23 cm
+2024-09-13T05:18:52Z
+Heart rate
+http://loinc.org 8867-4
+72 /min
+2024-09-13T05:18:52Z
+Respiratory rate
+http://loinc.org 9279-1
+14 /min
+2025-03-14T05:18:52Z
+Body Height
+http://loinc.org 8302-2
+84.6 cm
+2025-03-14T05:18:52Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+2 {score}
+2025-03-14T05:18:52Z
+Body Weight
+http://loinc.org 29463-7
+11 kg
+2025-03-14T05:18:52Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+17.88567532650377 %
+2025-03-14T05:18:52Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+44.53 %
+2025-03-14T05:18:52Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+47.21 cm
+2025-03-14T05:18:52Z
+Heart rate
+http://loinc.org 8867-4
+98 /min
+2025-03-14T05:18:52Z
+Respiratory rate
+http://loinc.org 9279-1
+13 /min
+2025-09-12T05:18:52Z
+Body Height
+http://loinc.org 8302-2
+88.8 cm
+2025-09-12T05:18:52Z
+Pain severity - 0-10 verbal numeric rating [Score] - Reported
+http://loinc.org 72514-3
+2 {score}
+2025-09-12T05:18:52Z
+Body Weight
+http://loinc.org 29463-7
+12 kg
+2025-09-12T05:18:52Z
+Weight-for-length Per age and sex
+http://loinc.org 77606-2
+23.1055497884292 %
+2025-09-12T05:18:52Z
+Head Occipital-frontal circumference Percentile
+http://loinc.org 8289-1
+44.53 %
+2025-09-12T05:18:52Z
+Head Occipital-frontal circumference
+http://loinc.org 9843-4
+47.89 cm
+2025-09-12T05:18:52Z
+Body mass index (BMI) [Ratio]
+http://loinc.org 39156-5
+15.19 kg/m2
+2025-09-12T05:18:52Z
+Body mass index (BMI) [Percentile] Per age and sex
+http://loinc.org 59576-9
+23.679127946061367 %
+2025-09-12T05:18:52Z
+Heart rate
+http://loinc.org 8867-4
+73 /min
+2025-09-12T05:18:52Z
+Respiratory rate
+http://loinc.org 9279-1
+15 /min
+Immunizations
+Start
+Stop
+Description
+Code
+2023-04-07T05:18:52Z
+Hep B, adolescent or pediatric
+http://hl7.org/fhir/sid/cvx 08
+2023-05-12T05:18:52Z
+Hep B, adolescent or pediatric
+http://hl7.org/fhir/sid/cvx 08
+2023-07-14T05:18:52Z
+Hib (PRP-OMP)
+http://hl7.org/fhir/sid/cvx 49
+2023-07-14T05:18:52Z
+rotavirus, monovalent
+http://hl7.org/fhir/sid/cvx 119
+2023-07-14T05:18:52Z
+IPV
+http://hl7.org/fhir/sid/cvx 10
+2023-07-14T05:18:52Z
+DTaP
+http://hl7.org/fhir/sid/cvx 20
+2023-07-14T05:18:52Z
+Pneumococcal conjugate PCV 13
+http://hl7.org/fhir/sid/cvx 133
+2023-09-15T05:18:52Z
+Hib (PRP-OMP)
+http://hl7.org/fhir/sid/cvx 49
+2023-09-15T05:18:52Z
+rotavirus, monovalent
+http://hl7.org/fhir/sid/cvx 119
+2023-09-15T05:18:52Z
+IPV
+http://hl7.org/fhir/sid/cvx 10
+2023-09-15T05:18:52Z
+DTaP
+http://hl7.org/fhir/sid/cvx 20
+2023-09-15T05:18:52Z
+Pneumococcal conjugate PCV 13
+http://hl7.org/fhir/sid/cvx 133
+2023-12-15T05:18:52Z
+IPV
+http://hl7.org/fhir/sid/cvx 10
+2023-12-15T05:18:52Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2023-12-15T05:18:52Z
+DTaP
+http://hl7.org/fhir/sid/cvx 20
+2023-12-15T05:18:52Z
+Pneumococcal conjugate PCV 13
+http://hl7.org/fhir/sid/cvx 133
+2023-12-15T05:18:52Z
+Hep B, adolescent or pediatric
+http://hl7.org/fhir/sid/cvx 08
+2024-06-07T05:18:52Z
+Hib (PRP-OMP)
+http://hl7.org/fhir/sid/cvx 49
+2024-06-07T05:18:52Z
+varicella
+http://hl7.org/fhir/sid/cvx 21
+2024-06-07T05:18:52Z
+MMR
+http://hl7.org/fhir/sid/cvx 03
+2024-06-07T05:18:52Z
+Pneumococcal conjugate PCV 13
+http://hl7.org/fhir/sid/cvx 133
+2024-06-07T05:18:52Z
+Hep A, ped/adol, 2 dose
+http://hl7.org/fhir/sid/cvx 83
+2024-09-13T05:18:52Z
+DTaP
+http://hl7.org/fhir/sid/cvx 20
+2025-03-14T05:18:52Z
+Influenza, split virus, trivalent, PF
+http://hl7.org/fhir/sid/cvx 140
+2025-09-12T05:18:52Z
+Hep A, ped/adol, 2 dose
+http://hl7.org/fhir/sid/cvx 83
+Hep B, adolescent or pediatric
+Hep B, adolescent or pediatric
+Hib (PRP-OMP)
+rotavirus, monovalent
+IPV
+DTaP
+Pneumococcal conjugate PCV 13
+Hib (PRP-OMP)
+rotavirus, monovalent
+IPV
+DTaP
+Pneumococcal conjugate PCV 13
+IPV
+Influenza, split virus, trivalent, PF
+DTaP
+Pneumococcal conjugate PCV 13
+Hep B, adolescent or pediatric
+Hib (PRP-OMP)
+varicella
+MMR
+Pneumococcal conjugate PCV 13
+Hep A, ped/adol, 2 dose
+DTaP
+Influenza, split virus, trivalent, PF
+Hep A, ped/adol, 2 dose
+Plan of Care
+Start
+Stop
+Description
+Code
+2024-06-21T05:18:52Z
+2024-09-13T05:18:52Z
+Respiratory therapy (procedure)
+http://snomed.info/sct 53950000
+Social History
+There is no current social history except smoking status.
+https://github.com/synthetichealth/synthea
+https://github.com/synthetichealth/synthea
+PATHWAYS HEALTHCARE LLC
+101 STATION DR STE 240
+WESTWOOD
+MA
+020902336

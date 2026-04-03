@@ -25,14 +25,14 @@ An end-to-end AI-powered clinical document analysis system built with Retrieval-
 
 ## How It Works
 
-Upload a medical document
-Extract and clean text
-Split text into chunks
-Create embeddings
-Store embeddings in FAISS
-Retrieve relevant chunks for a user question
-Use a local LLM to generate a grounded answer
-Display the answer with evidence
+-Upload a medical document
+-Extract and clean text
+-Split text into chunks
+-Create embeddings
+-Store embeddings in FAISS
+-Retrieve relevant chunks for a user question
+-Use a local LLM to generate a grounded answer
+-Display the answer with evidence
 
 ## Installation
 
@@ -51,11 +51,11 @@ Run the App
 python -m streamlit run app/ui/streamlit_app.py**
 
 ## Example Questions
-What is the diagnosis?
-What symptoms are present?
-What treatment is recommended?
-What vital signs are recorded?
-Summarize the patient data.
+-What is the diagnosis?
+-What symptoms are present?
+-What treatment is recommended?
+-What vital signs are recorded?
+-Summarize the patient data.
 
 ## Notes
 

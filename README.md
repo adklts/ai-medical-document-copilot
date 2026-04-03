@@ -23,7 +23,7 @@ An end-to-end AI-powered clinical document analysis system built with Retrieval-
 - Ollama (`llama3:8b`)
 - PyMuPDF
 
- How It Works
+** How It Works
 Upload a medical document
 Extract and clean text
 Split text into chunks
@@ -44,20 +44,25 @@ Download and install Ollama, then run:
 
 ollama run llama3:8b
 Run the App
-python -m streamlit run app/ui/streamlit_app.py
-Example Questions
+python -m streamlit run app/ui/streamlit_app.py**
+
+**Example Questions
 What is the diagnosis?
 What symptoms are present?
 What treatment is recommended?
 What vital signs are recorded?
-Summarize the patient data.
-Notes
-The system is designed to avoid hallucinations.
-If information is missing, it should respond that it is not available in the document.
-Best results depend on the type and quality of the uploaded data.
-Disclaimer
+Summarize the patient data.**
 
-This project is for research and demonstration purposes only. It is not intended for clinical use or medical decision-making.
+**Notes
+
+The system is designed to avoid hallucinations.
+
+If information is missing, it should respond that it is not available in the document.**
+**Best results depend on the type and quality of the uploaded data.**
+
+**Disclaimer
+
+This project is for research and demonstration purposes only. It is not intended for clinical use or medical decision-making.**
 
 ## Project Structure
 

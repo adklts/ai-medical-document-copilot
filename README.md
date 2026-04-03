@@ -23,34 +23,7 @@ An end-to-end AI-powered clinical document analysis system built with Retrieval-
 - Ollama (`llama3:8b`)
 - PyMuPDF
 
-## Project Structure
-
-```text
-app/
-  ingestion/
-  processing/
-  retrieval/
-  generation/
-  pipelines/
-  ui/
-
-data/
-  raw/
-  raw_xml/
-  processed/
-  vectorstore/
-
-scripts/
-  convert_xml.py
-
-tests/
-  test_ingestion.py
-  test_chunking.py
-  test_ingest_pipeline.py
-  test_retrieval.py
-  test_qa_pipeline.py
-
-  How It Works
+ How It Works
 Upload a medical document
 Extract and clean text
 Split text into chunks
@@ -85,3 +58,32 @@ Best results depend on the type and quality of the uploaded data.
 Disclaimer
 
 This project is for research and demonstration purposes only. It is not intended for clinical use or medical decision-making.
+
+## Project Structure
+
+```text
+app/
+  ingestion/
+  processing/
+  retrieval/
+  generation/
+  pipelines/
+  ui/
+
+data/
+  raw/
+  raw_xml/
+  processed/
+  vectorstore/
+
+scripts/
+  convert_xml.py
+
+tests/
+  test_ingestion.py
+  test_chunking.py
+  test_ingest_pipeline.py
+  test_retrieval.py
+  test_qa_pipeline.py
+
+ 

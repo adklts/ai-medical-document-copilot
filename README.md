@@ -34,7 +34,7 @@ Use a local LLM to generate a grounded answer
 Display the answer with evidence
 Installation
 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/ai-medical-document-copilot.git
+git clone https://github.com/adklts/ai-medical-document-copilot.git
 cd ai-medical-document-copilot
 2. Install dependencies
 pip install -r requirements.txt
